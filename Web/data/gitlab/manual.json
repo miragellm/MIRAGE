@@ -1,0 +1,1526 @@
+{
+  "gitlab": {
+    "534": {
+      "534_skip_1_abs_None_narr_False_ui_False": {
+        "param": {
+          "config_file": "/tmp/tmpalro8a82/534.json",
+          "skip_step": 1,
+          "abstraction": "None",
+          "narrative": false,
+          "ui_change": false
+        },
+        "mapping": {
+          "type [1573] [Jakub Klinkovsk\u00fd ] where [1573] is textbox 'Search GitLab' required: False": "type [element_id] [Jakub Klinkovsk\u00fd ] where [element_id] is textbox 'Search GitLab' required: False",
+          "click [2087] where [2087] is link 'Users 1'": "click [element_id] where [element_id] is link 'Users 1'",
+          "click [2628] where [2628] is link 'Jakub Klinkovsk\u00fd @lahwaacz'": "click [element_id] where [element_id] is link 'Jakub Klinkovsk\u00fd @lahwaacz'",
+          "click [3607] where [3607] is button 'Follow'": "click [element_id] where [element_id] is button 'Follow'",
+          "type [5359] [Koushik ] where [5359] is textbox 'Search GitLab' required: False": "type [element_id] [Koushik ] where [element_id] is textbox 'Search GitLab' required: False",
+          "click [5951] where [5951] is link 'Users 1'": "click [element_id] where [element_id] is link 'Users 1'",
+          "click [6492] where [6492] is link 'Koushik Dutta @koush'": "click [element_id] where [element_id] is link 'Koushik Dutta @koush'",
+          "click [7464] where [7464] is button 'Follow'": "click [element_id] where [element_id] is button 'Follow'",
+          "type [9056] [Vinta Chen ] where [9056] is textbox 'Search GitLab' required: False": "type [element_id] [Vinta Chen ] where [element_id] is textbox 'Search GitLab' required: False",
+          "click [9638] where [9638] is link 'Users 1'": "click [element_id] where [element_id] is link 'Vinta Chen @vinta'",
+          "click [10179] where [10179] is link 'Vinta Chen @vinta'": "click [element_id] where [element_id] is button 'Follow'",
+          "click [11166] where [11166] is button 'Follow'": "stop [your_answer]"
+        }
+      }
+    },
+    "535": {
+      "535_skip_0_abs_None_narr_False_ui_False": {
+        "param": {
+          "config_file": "/tmp/tmp9qztw221/535.json",
+          "skip_step": 0,
+          "abstraction": "None",
+          "narrative": false,
+          "ui_change": false
+        },
+        "mapping": {
+          "type [1573] [Jakub K ] where [1573] is textbox 'Search GitLab' required: False": "type [element_id] [Jakub K ] where [element_id] is textbox 'Search GitLab' required: False",
+          "click [2087] where [2087] is link 'Users 3'": "click [element_id] where [element_id] is link 'Users 3'",
+          "click [2638] where [2638] is link 'Jakub Klinkovsk\u00fd @lahwaacz'": "click [element_id] where [element_id] is link 'Jakub Klinkovsk\u00fd @lahwaacz'",
+          "click [3629] where [3629] is button 'Follow'": "click [element_id] where [element_id] is button 'Follow'",
+          "type [5381] [ghost ] where [5381] is textbox 'Search GitLab' required: False": "type [element_id] [ghost ] where [element_id] is textbox 'Search GitLab' required: False",
+          "click [5972] where [5972] is link 'Users 2'": "click [element_id] where [element_id] is link 'Users 2'",
+          "click [6525] where [6525] is link 'Ghost User @ghost'": "click [element_id] where [element_id] is link 'Ghost User @ghost'",
+          "click [6976] where [6976] is button 'Follow'": "click [element_id] where [element_id] is button 'Follow'",
+          "type [7456] [Beno\u00eet Blanchon ] where [7456] is textbox 'Search GitLab' required: False": "type [element_id] [Beno\u00eet Blanchon ] where [element_id] is textbox 'Search GitLab' required: False",
+          "click [7970] where [7970] is link 'Users 1'": "click [element_id] where [element_id] is link 'Users 1'",
+          "click [8511] where [8511] is link 'Beno\u00eet Blanchon @bblanchon'": "click [element_id] where [element_id] is link 'Beno\u00eet Blanchon @bblanchon'",
+          "click [9465] where [9465] is button 'Follow'": "click [element_id] where [element_id] is button 'Follow'",
+          "stop []": "stop [your_answer]"
+        }
+      },
+      "535_skip_1_abs_None_narr_False_ui_False": {
+        "param": {
+          "config_file": "/tmp/tmp9qztw221/535.json",
+          "skip_step": 1,
+          "abstraction": "None",
+          "narrative": false,
+          "ui_change": false
+        },
+        "mapping": {
+          "type [1573] [Jakub K ] where [1573] is textbox 'Search GitLab' required: False": "click [element_id] where [element_id] is link 'Users 3'",
+          "click [2087] where [2087] is link 'Users 3'": "click [element_id] where [element_id] is link 'Jakub Klinkovsk\u00fd @lahwaacz'",
+          "click [2638] where [2638] is link 'Jakub Klinkovsk\u00fd @lahwaacz'": "click [element_id] where [element_id] is button 'Follow'",
+          "click [3629] where [3629] is button 'Follow'": "type [element_id] [ghost ] where [element_id] is textbox 'Search GitLab' required: False",
+          "type [5381] [ghost ] where [5381] is textbox 'Search GitLab' required: False": "click [element_id] where [element_id] is link 'Users 2'",
+          "click [5972] where [5972] is link 'Users 2'": "click [element_id] where [element_id] is link 'Ghost User @ghost'",
+          "click [6525] where [6525] is link 'Ghost User @ghost'": "click [element_id] where [element_id] is button 'Follow'",
+          "click [6976] where [6976] is button 'Follow'": "type [element_id] [Beno\u00eet Blanchon ] where [element_id] is textbox 'Search GitLab' required: False",
+          "type [7456] [Beno\u00eet Blanchon ] where [7456] is textbox 'Search GitLab' required: False": "click [element_id] where [element_id] is link 'Users 1'",
+          "click [7970] where [7970] is link 'Users 1'": "click [element_id] where [element_id] is link 'Beno\u00eet Blanchon @bblanchon'",
+          "click [8511] where [8511] is link 'Beno\u00eet Blanchon @bblanchon'": "click [element_id] where [element_id] is button 'Follow'",
+          "click [9465] where [9465] is button 'Follow'": "stop [your_answer]"
+        }
+      }
+    },
+    "536": {
+      "536_skip_0_abs_None_narr_False_ui_False": {
+        "param": {
+          "config_file": "/tmp/tmpz05f4ljt/536.json",
+          "skip_step": 0,
+          "abstraction": "None",
+          "narrative": false,
+          "ui_change": false
+        },
+        "mapping": {
+          "type [1573] [ghost ] where [1573] is textbox 'Search GitLab' required: False": "type [element_id] [ghost ] where [element_id] is textbox 'Search GitLab' required: False",
+          "click [2085] where [2085] is link 'Users 2'": "click [element_id] where [element_id] is link 'Users 2'",
+          "click [2638] where [2638] is link 'Ghost User @ghost'": "click [element_id] where [element_id] is link 'Ghost User @ghost'",
+          "click [3089] where [3089] is button 'Follow'": "click [element_id] where [element_id] is button 'Follow'",
+          "type [3569] [R1kk3r ] where [3569] is textbox 'Search GitLab' required: False": "type [element_id] [R1kk3r ] where [element_id] is textbox 'Search GitLab' required: False",
+          "click [4083] where [4083] is link 'Users 1'": "click [element_id] where [element_id] is link 'Users 1'",
+          "click [4624] where [4624] is link 'R1kk3r @R1kk3r'": "click [element_id] where [element_id] is link 'R1kk3r @R1kk3r'",
+          "click [5558] where [5558] is button 'Follow'": "click [element_id] where [element_id] is button 'Follow'",
+          "type [6707] [Abishek ] where [6707] is textbox 'Search GitLab' required: False": "type [element_id] [Abishek ] where [element_id] is textbox 'Search GitLab' required: False",
+          "click [7230] where [7230] is link 'Users 1'": "click [element_id] where [element_id] is link 'Users 1'",
+          "click [7771] where [7771] is link 'Abishek S @abisubramanya27'": "click [element_id] where [element_id] is link 'Abishek S @abisubramanya27'",
+          "click [8881] where [8881] is button 'Follow'": "click [element_id] where [element_id] is button 'Follow'",
+          "stop []": "stop [your_answer]"
+        }
+      },
+      "536_skip_1_abs_None_narr_False_ui_False": {
+        "param": {
+          "config_file": "/tmp/tmpz05f4ljt/536.json",
+          "skip_step": 1,
+          "abstraction": "None",
+          "narrative": false,
+          "ui_change": false
+        },
+        "mapping": {
+          "type [1573] [ghost ] where [1573] is textbox 'Search GitLab' required: False": "type [element_id] [ghost ] where [element_id] is textbox 'Search GitLab' required: False",
+          "click [2085] where [2085] is link 'Users 2'": "click [element_id] where [element_id] is link 'Users 2'",
+          "click [2638] where [2638] is link 'Ghost User @ghost'": "click [element_id] where [element_id] is link 'Ghost User @ghost'",
+          "click [3089] where [3089] is button 'Follow'": "click [element_id] where [element_id] is button 'Follow'",
+          "type [3569] [R1kk3r ] where [3569] is textbox 'Search GitLab' required: False": "type [element_id] [R1kk3r ] where [element_id] is textbox 'Search GitLab' required: False",
+          "click [4083] where [4083] is link 'Users 1'": "click [element_id] where [element_id] is link 'Users 1'",
+          "click [4624] where [4624] is link 'R1kk3r @R1kk3r'": "click [element_id] where [element_id] is link 'R1kk3r @R1kk3r'",
+          "click [5558] where [5558] is button 'Follow'": "type [element_id] [Abishek ] where [element_id] is textbox 'Search GitLab' required: False",
+          "type [6707] [Abishek ] where [6707] is textbox 'Search GitLab' required: False": "click [element_id] where [element_id] is link 'Users 1'",
+          "click [7230] where [7230] is link 'Users 1'": "click [element_id] where [element_id] is link 'Abishek S @abisubramanya27'",
+          "click [7771] where [7771] is link 'Abishek S @abisubramanya27'": "click [element_id] where [element_id] is button 'Follow'",
+          "click [8881] where [8881] is button 'Follow'": "stop [your_answer]"
+        }
+      }
+    },
+    "537": {
+      "537_skip_0_abs_None_narr_False_ui_False": {
+        "param": {
+          "config_file": "/tmp/tmpqbl9kbld/537.json",
+          "skip_step": 0,
+          "abstraction": "None",
+          "narrative": false,
+          "ui_change": false
+        },
+        "mapping": {
+          "type [1573] [Jakub Klinkovsk ] where [1573] is textbox 'Search GitLab' required: False": "type [element_id] [Jakub Klinkovsk ] where [element_id] is textbox 'Search GitLab' required: False",
+          "click [2085] where [2085] is link 'Users 1'": "click [element_id] where [element_id] is link 'Users 1'",
+          "click [2626] where [2626] is link 'Jakub Klinkovsk\u00fd @lahwaacz'": "click [element_id] where [element_id] is link 'Jakub Klinkovsk\u00fd @lahwaacz'",
+          "click [3605] where [3605] is button 'Follow'": "click [element_id] where [element_id] is button 'Follow'",
+          "type [5357] [convexegg ] where [5357] is textbox 'Search GitLab' required: False": "type [element_id] [convexegg ] where [element_id] is textbox 'Search GitLab' required: False",
+          "click [5947] where [5947] is link 'Users 1'": "click [element_id] where [element_id] is link 'Users 1'",
+          "click [6488] where [6488] is link 'Convex Eggtart @convexegg'": "click [element_id] where [element_id] is link 'Convex Eggtart @convexegg'",
+          "type [7676] [Vinta Chen ] where [7676] is textbox 'Search GitLab' required: False": "type [element_id] [Vinta Chen ] where [element_id] is textbox 'Search GitLab' required: False",
+          "click [8285] where [8285] is link 'Users 1'": "click [element_id] where [element_id] is link 'Users 1'",
+          "click [8826] where [8826] is link 'Vinta Chen @vinta'": "click [element_id] where [element_id] is link 'Vinta Chen @vinta'",
+          "click [9813] where [9813] is button 'Follow'": "click [element_id] where [element_id] is button 'Follow'",
+          "type [11664] [yjlou ] where [11664] is textbox 'Search GitLab' required: False": "type [element_id] [yjlou ] where [element_id] is textbox 'Search GitLab' required: False",
+          "click [12248] where [12248] is link 'Users 1'": "click [element_id] where [element_id] is link 'Users 1'",
+          "click [12789] where [12789] is link 'yjlou @yjlou'": "click [element_id] where [element_id] is link 'yjlou @yjlou'",
+          "click [13744] where [13744] is button 'Follow'": "click [element_id] where [element_id] is button 'Follow'",
+          "type [14970] [Abishek S ] where [14970] is textbox 'Search GitLab' required: False": "type [element_id] [Abishek S ] where [element_id] is textbox 'Search GitLab' required: False",
+          "click [15535] where [15535] is link 'Users 1'": "click [element_id] where [element_id] is link 'Users 1'",
+          "click [16076] where [16076] is link 'Abishek S @abisubramanya27'": "click [element_id] where [element_id] is link 'Abishek S @abisubramanya27'",
+          "click [17186] where [17186] is button 'Follow'": "click [element_id] where [element_id] is button 'Follow'",
+          "stop []": "stop [your_answer]"
+        }
+      },
+      "537_skip_1_abs_None_narr_False_ui_False": {
+        "param": {
+          "config_file": "/tmp/tmpqbl9kbld/537.json",
+          "skip_step": 1,
+          "abstraction": "None",
+          "narrative": false,
+          "ui_change": false
+        },
+        "mapping": {
+          "type [1573] [Jakub Klinkovsk ] where [1573] is textbox 'Search GitLab' required: False": "type [element_id] [Jakub Klinkovsk ] where [element_id] is textbox 'Search GitLab' required: False",
+          "click [2085] where [2085] is link 'Users 1'": "click [element_id] where [element_id] is link 'Users 1'",
+          "click [2626] where [2626] is link 'Jakub Klinkovsk\u00fd @lahwaacz'": "click [element_id] where [element_id] is link 'Jakub Klinkovsk\u00fd @lahwaacz'",
+          "click [3605] where [3605] is button 'Follow'": "click [element_id] where [element_id] is button 'Follow'",
+          "type [5357] [convexegg ] where [5357] is textbox 'Search GitLab' required: False": "type [element_id] [convexegg ] where [element_id] is textbox 'Search GitLab' required: False",
+          "click [5947] where [5947] is link 'Users 1'": "click [element_id] where [element_id] is link 'Users 1'",
+          "click [6488] where [6488] is link 'Convex Eggtart @convexegg'": "click [element_id] where [element_id] is link 'Convex Eggtart @convexegg'",
+          "type [7676] [Vinta Chen ] where [7676] is textbox 'Search GitLab' required: False": "click [element_id] where [element_id] is link 'Users 1'",
+          "click [8285] where [8285] is link 'Users 1'": "click [element_id] where [element_id] is link 'Vinta Chen @vinta'",
+          "click [8826] where [8826] is link 'Vinta Chen @vinta'": "click [element_id] where [element_id] is button 'Follow'",
+          "click [9813] where [9813] is button 'Follow'": "type [element_id] [yjlou ] where [element_id] is textbox 'Search GitLab' required: False",
+          "type [11664] [yjlou ] where [11664] is textbox 'Search GitLab' required: False": "click [element_id] where [element_id] is link 'Users 1'",
+          "click [12248] where [12248] is link 'Users 1'": "click [element_id] where [element_id] is link 'yjlou @yjlou'",
+          "click [12789] where [12789] is link 'yjlou @yjlou'": "click [element_id] where [element_id] is button 'Follow'",
+          "click [13744] where [13744] is button 'Follow'": "type [element_id] [Abishek S ] where [element_id] is textbox 'Search GitLab' required: False",
+          "type [14970] [Abishek S ] where [14970] is textbox 'Search GitLab' required: False": "click [element_id] where [element_id] is link 'Users 1'",
+          "click [15535] where [15535] is link 'Users 1'": "click [element_id] where [element_id] is link 'Abishek S @abisubramanya27'",
+          "click [16076] where [16076] is link 'Abishek S @abisubramanya27'": "click [element_id] where [element_id] is button 'Follow'",
+          "click [17186] where [17186] is button 'Follow'": "stop [your_answer]"
+        }
+      }
+    },
+    "567": {
+      "567_skip_0_abs_None_narr_False_ui_False": {
+        "param": {
+          "config_file": "/tmp/tmp4v6wz5eq/567.json",
+          "skip_step": 0,
+          "abstraction": "None",
+          "narrative": false,
+          "ui_change": false
+        },
+        "mapping": {
+          "type [324] [gimmiethat.space ] where [324] is searchbox 'Filter by name'": "type [element_id] [gimmiethat.space ] where [element_id] is searchbox 'Filter by name'",
+          "click [1875] where [1875] is heading 'Byte Blaze / gimmiethat.space'": "click [element_id] where [element_id] is heading 'Byte Blaze / gimmiethat.space'",
+          "hover [2643] where [2643] is link 'Project information'": "hover [element_id] where [element_id] is link 'Project information'",
+          "click [3845] where [3845] is link 'Members'": "click [element_id] where [element_id] is link 'Members'",
+          "click [4135] where [4135] is button 'Invite members'": "click [element_id] where [element_id] is button 'Invite members'",
+          "type [5156] [Jakub Klinkovsk\u00fd ] where [5156] is textbox 'Username or email address' focused: True required: False describedby: __BVID__320__BV_description_": "type [element_id] [Jakub Klinkovsk\u00fd ] where [element_id] is textbox 'Username or email address' focused: True required: False describedby: __BVID__320__BV_description_",
+          "click [5234] where [5234] is menuitem 'Jakub Klinkovsk\u00fd lahwaacz'": "click [element_id] where [element_id] is menuitem 'Jakub Klinkovsk\u00fd lahwaacz'",
+          "type [5159] [Developer ] where [5159] is combobox 'Select a role' hasPopup: menu expanded: False describedby: __BVID__328__BV_description_": "type [element_id] [Developer ] where [element_id] is combobox 'Select a role' hasPopup: menu expanded: False describedby: __BVID__328__BV_description_",
+          "click [5201] where [5201] is button 'Invite'": "click [element_id] where [element_id] is button 'Invite'",
+          "click [5806] where [5806] is button 'Invite members'": "click [element_id] where [element_id] is button 'Invite members'",
+          "type [6944] [Beno\u00eet Blanchon ] where [6944] is textbox 'Username or email address' focused: True required: False describedby: __BVID__375__BV_description_": "type [element_id] [Beno\u00eet Blanchon ] where [element_id] is textbox 'Username or email address' focused: True required: False describedby: __BVID__375__BV_description_",
+          "click [7022] where [7022] is menuitem 'Beno\u00eet Blanchon bblanchon'": "click [element_id] where [element_id] is menuitem 'Beno\u00eet Blanchon bblanchon'",
+          "type [6947] [Developer ] where [6947] is combobox 'Select a role' hasPopup: menu expanded: False describedby: __BVID__383__BV_description_": "type [element_id] [Developer ] where [element_id] is combobox 'Select a role' hasPopup: menu expanded: False describedby: __BVID__383__BV_description_",
+          "click [6989] where [6989] is button 'Invite'": "click [element_id] where [element_id] is button 'Invite'",
+          "stop []": "stop [your_answer]"
+        }
+      },
+      "567_skip_1_abs_None_narr_False_ui_False": {
+        "param": {
+          "config_file": "/tmp/tmp4v6wz5eq/567.json",
+          "skip_step": 1,
+          "abstraction": "None",
+          "narrative": false,
+          "ui_change": false
+        },
+        "mapping": {
+          "type [324] [gimmiethat.space ] where [324] is searchbox 'Filter by name'": "type [element_id] [gimmiethat.space ] where [element_id] is searchbox 'Filter by name'",
+          "click [1875] where [1875] is heading 'Byte Blaze / gimmiethat.space'": "click [element_id] where [element_id] is heading 'Byte Blaze / gimmiethat.space'",
+          "hover [2643] where [2643] is link 'Project information'": "hover [element_id] where [element_id] is link 'Project information'",
+          "click [3845] where [3845] is link 'Members'": "click [element_id] where [element_id] is link 'Members'",
+          "click [4135] where [4135] is button 'Invite members'": "click [element_id] where [element_id] is button 'Invite members'",
+          "type [5156] [Jakub Klinkovsk\u00fd ] where [5156] is textbox 'Username or email address' focused: True required: False describedby: __BVID__320__BV_description_": "type [element_id] [Jakub Klinkovsk\u00fd ] where [element_id] is textbox 'Username or email address' focused: True required: False describedby: __BVID__320__BV_description_",
+          "click [5234] where [5234] is menuitem 'Jakub Klinkovsk\u00fd lahwaacz'": "click [element_id] where [element_id] is menuitem 'Jakub Klinkovsk\u00fd lahwaacz'",
+          "type [5159] [Developer ] where [5159] is combobox 'Select a role' hasPopup: menu expanded: False describedby: __BVID__328__BV_description_": "type [element_id] [Developer ] where [element_id] is combobox 'Select a role' hasPopup: menu expanded: False describedby: __BVID__328__BV_description_",
+          "click [5201] where [5201] is button 'Invite'": "click [element_id] where [element_id] is button 'Invite'",
+          "click [5806] where [5806] is button 'Invite members'": "click [element_id] where [element_id] is button 'Invite members'",
+          "type [6944] [Beno\u00eet Blanchon ] where [6944] is textbox 'Username or email address' focused: True required: False describedby: __BVID__375__BV_description_": "type [element_id] [Beno\u00eet Blanchon ] where [element_id] is textbox 'Username or email address' focused: True required: False describedby: __BVID__375__BV_description_",
+          "click [7022] where [7022] is menuitem 'Beno\u00eet Blanchon bblanchon'": "type [element_id] [Developer ] where [element_id] is combobox 'Select a role' hasPopup: menu expanded: False describedby: __BVID__383__BV_description_",
+          "type [6947] [Developer ] where [6947] is combobox 'Select a role' hasPopup: menu expanded: False describedby: __BVID__383__BV_description_": "click [element_id] where [element_id] is button 'Invite'",
+          "click [6989] where [6989] is button 'Invite'": "stop [your_answer]"
+        }
+      }
+    },
+    "568": {
+      "568_skip_1_abs_None_narr_False_ui_False": {
+        "param": {
+          "config_file": "/tmp/tmp3t7lkvp1/568.json",
+          "skip_step": 1,
+          "abstraction": "None",
+          "narrative": false,
+          "ui_change": false
+        },
+        "mapping": {
+          "click [476] where [476] is heading 'The A11Y Project / a11yproject.com'": "click [element_id] where [element_id] is heading 'The A11Y Project / a11yproject.com'",
+          "click [2070] where [2070] is link 'Project information'": "click [element_id] where [element_id] is link 'Project information'",
+          "click [5731] where [5731] is link 'Members'": "click [element_id] where [element_id] is link 'Members'",
+          "click [6081] where [6081] is button 'Invite members'": "click [element_id] where [element_id] is button 'Invite members'",
+          "type [7145] [Abishek ] where [7145] is textbox 'Username or email address' focused: True required: False describedby: __BVID__345__BV_description_": "type [element_id] [Abishek ] where [element_id] is textbox 'Username or email address' focused: True required: False describedby: __BVID__345__BV_description_",
+          "click [7222] where [7222] is menuitem 'Abishek S abisubramanya27'": "click [element_id] where [element_id] is menuitem 'Abishek S abisubramanya27'",
+          "type [7148] [Developer ] where [7148] is combobox 'Select a role' hasPopup: menu expanded: False describedby: __BVID__353__BV_description_": "type [element_id] [Developer ] where [element_id] is combobox 'Select a role' hasPopup: menu expanded: False describedby: __BVID__353__BV_description_",
+          "click [7190] where [7190] is button 'Invite'": "click [element_id] where [element_id] is button 'Invite'",
+          "click [7795] where [7795] is button 'Invite members'": "click [element_id] where [element_id] is button 'Invite members'",
+          "type [8967] [Vinta ] where [8967] is textbox 'Username or email address' focused: True required: False describedby: __BVID__397__BV_description_": "type [element_id] [Vinta ] where [element_id] is textbox 'Username or email address' focused: True required: False describedby: __BVID__397__BV_description_",
+          "click [9044] where [9044] is menuitem 'Vinta Chen vinta'": "click [element_id] where [element_id] is menuitem 'Vinta Chen vinta'",
+          "type [8970] [Developer ] where [8970] is combobox 'Select a role' hasPopup: menu expanded: False describedby: __BVID__405__BV_description_": "type [element_id] [Developer ] where [element_id] is combobox 'Select a role' hasPopup: menu expanded: False describedby: __BVID__405__BV_description_",
+          "click [9012] where [9012] is button 'Invite'": "stop [your_answer]"
+        }
+      },
+      "568_skip_0_abs_None_narr_False_ui_False": {
+        "param": {
+          "config_file": "/tmp/tmp3t7lkvp1/568.json",
+          "skip_step": 0,
+          "abstraction": "None",
+          "narrative": false,
+          "ui_change": false
+        },
+        "mapping": {
+          "click [476] where [476] is heading 'The A11Y Project / a11yproject.com'": "click [element_id] where [element_id] is heading 'The A11Y Project / a11yproject.com'",
+          "click [2070] where [2070] is link 'Project information'": "click [element_id] where [element_id] is link 'Project information'",
+          "click [5731] where [5731] is link 'Members'": "click [element_id] where [element_id] is link 'Members'",
+          "click [6081] where [6081] is button 'Invite members'": "click [element_id] where [element_id] is button 'Invite members'",
+          "type [7145] [Abishek ] where [7145] is textbox 'Username or email address' focused: True required: False describedby: __BVID__345__BV_description_": "type [element_id] [Abishek ] where [element_id] is textbox 'Username or email address' focused: True required: False describedby: __BVID__345__BV_description_",
+          "click [7222] where [7222] is menuitem 'Abishek S abisubramanya27'": "click [element_id] where [element_id] is menuitem 'Abishek S abisubramanya27'",
+          "type [7148] [Developer ] where [7148] is combobox 'Select a role' hasPopup: menu expanded: False describedby: __BVID__353__BV_description_": "type [element_id] [Developer ] where [element_id] is combobox 'Select a role' hasPopup: menu expanded: False describedby: __BVID__353__BV_description_",
+          "click [7190] where [7190] is button 'Invite'": "click [element_id] where [element_id] is button 'Invite'",
+          "click [7795] where [7795] is button 'Invite members'": "click [element_id] where [element_id] is button 'Invite members'",
+          "type [8967] [Vinta ] where [8967] is textbox 'Username or email address' focused: True required: False describedby: __BVID__397__BV_description_": "type [element_id] [Vinta ] where [element_id] is textbox 'Username or email address' focused: True required: False describedby: __BVID__397__BV_description_",
+          "click [9044] where [9044] is menuitem 'Vinta Chen vinta'": "click [element_id] where [element_id] is menuitem 'Vinta Chen vinta'",
+          "type [8970] [Developer ] where [8970] is combobox 'Select a role' hasPopup: menu expanded: False describedby: __BVID__405__BV_description_": "type [element_id] [Developer ] where [element_id] is combobox 'Select a role' hasPopup: menu expanded: False describedby: __BVID__405__BV_description_",
+          "click [9012] where [9012] is button 'Invite'": "click [element_id] where [element_id] is button 'Invite'",
+          "stop []": "stop [your_answer]"
+        }
+      }
+    },
+    "569": {
+      "569_skip_0_abs_None_narr_False_ui_False": {
+        "param": {
+          "config_file": "/tmp/tmp5gespux7/569.json",
+          "skip_step": 0,
+          "abstraction": "None",
+          "narrative": false,
+          "ui_change": false
+        },
+        "mapping": {
+          "click [704] where [704] is heading 'Byte Blaze / accessible-html-content-patterns'": "click [element_id] where [element_id] is heading 'Byte Blaze / accessible-html-content-patterns'",
+          "click [2108] where [2108] is link 'Project information'": "click [element_id] where [element_id] is link 'Project information'",
+          "click [5111] where [5111] is link 'Members'": "click [element_id] where [element_id] is link 'Members'",
+          "click [5453] where [5453] is button 'Invite members'": "click [element_id] where [element_id] is button 'Invite members'",
+          "type [6367] [Beno\u00eet ] where [6367] is textbox 'Username or email address' focused: True required: False describedby: __BVID__271__BV_description_": "type [element_id] [Beno\u00eet ] where [element_id] is textbox 'Username or email address' focused: True required: False describedby: __BVID__271__BV_description_",
+          "click [6445] where [6445] is menuitem 'Beno\u00eet Blanchon bblanchon'": "click [element_id] where [element_id] is menuitem 'Beno\u00eet Blanchon bblanchon'",
+          "type [6370] [Developer ] where [6370] is combobox 'Select a role' hasPopup: menu expanded: False describedby: __BVID__279__BV_description_": "type [element_id] [Developer ] where [element_id] is combobox 'Select a role' hasPopup: menu expanded: False describedby: __BVID__279__BV_description_",
+          "click [6412] where [6412] is button 'Invite'": "click [element_id] where [element_id] is button 'Invite'",
+          "click [7011] where [7011] is button 'Invite members'": "click [element_id] where [element_id] is button 'Invite members'",
+          "type [8041] [Abishek ] where [8041] is textbox 'Username or email address' focused: True required: False describedby: __BVID__326__BV_description_": "type [element_id] [Abishek ] where [element_id] is textbox 'Username or email address' focused: True required: False describedby: __BVID__326__BV_description_",
+          "click [8119] where [8119] is menuitem 'Abishek S abisubramanya27'": "click [element_id] where [element_id] is menuitem 'Abishek S abisubramanya27'",
+          "type [8044] [Developer ] where [8044] is combobox 'Select a role' hasPopup: menu expanded: False describedby: __BVID__334__BV_description_": "type [element_id] [Developer ] where [element_id] is combobox 'Select a role' hasPopup: menu expanded: False describedby: __BVID__334__BV_description_",
+          "click [8086] where [8086] is button 'Invite'": "click [element_id] where [element_id] is button 'Invite'",
+          "stop []": "stop [your_answer]"
+        }
+      },
+      "569_skip_1_abs_None_narr_False_ui_False": {
+        "param": {
+          "config_file": "/tmp/tmp5gespux7/569.json",
+          "skip_step": 1,
+          "abstraction": "None",
+          "narrative": false,
+          "ui_change": false
+        },
+        "mapping": {
+          "click [704] where [704] is heading 'Byte Blaze / accessible-html-content-patterns'": "click [element_id] where [element_id] is heading 'Byte Blaze / accessible-html-content-patterns'",
+          "click [2108] where [2108] is link 'Project information'": "click [element_id] where [element_id] is link 'Project information'",
+          "click [5111] where [5111] is link 'Members'": "click [element_id] where [element_id] is link 'Members'",
+          "click [5453] where [5453] is button 'Invite members'": "click [element_id] where [element_id] is button 'Invite members'",
+          "type [6367] [Beno\u00eet ] where [6367] is textbox 'Username or email address' focused: True required: False describedby: __BVID__271__BV_description_": "type [element_id] [Beno\u00eet ] where [element_id] is textbox 'Username or email address' focused: True required: False describedby: __BVID__271__BV_description_",
+          "click [6445] where [6445] is menuitem 'Beno\u00eet Blanchon bblanchon'": "click [element_id] where [element_id] is menuitem 'Beno\u00eet Blanchon bblanchon'",
+          "type [6370] [Developer ] where [6370] is combobox 'Select a role' hasPopup: menu expanded: False describedby: __BVID__279__BV_description_": "click [element_id] where [element_id] is button 'Invite'",
+          "click [6412] where [6412] is button 'Invite'": "click [element_id] where [element_id] is button 'Invite members'",
+          "click [7011] where [7011] is button 'Invite members'": "type [element_id] [Abishek ] where [element_id] is textbox 'Username or email address' focused: True required: False describedby: __BVID__326__BV_description_",
+          "type [8041] [Abishek ] where [8041] is textbox 'Username or email address' focused: True required: False describedby: __BVID__326__BV_description_": "click [element_id] where [element_id] is menuitem 'Abishek S abisubramanya27'",
+          "click [8119] where [8119] is menuitem 'Abishek S abisubramanya27'": "type [element_id] [Developer ] where [element_id] is combobox 'Select a role' hasPopup: menu expanded: False describedby: __BVID__334__BV_description_",
+          "type [8044] [Developer ] where [8044] is combobox 'Select a role' hasPopup: menu expanded: False describedby: __BVID__334__BV_description_": "click [element_id] where [element_id] is button 'Invite'",
+          "click [8086] where [8086] is button 'Invite'": "stop [your_answer]"
+        }
+      }
+    },
+    "570": {
+      "570_skip_0_abs_None_narr_False_ui_False": {
+        "param": {
+          "config_file": "/tmp/tmpj_h_hprm/570.json",
+          "skip_step": 0,
+          "abstraction": "None",
+          "narrative": false,
+          "ui_change": false
+        },
+        "mapping": {
+          "type [348] [time ] where [348] is searchbox 'Filter by name'": "type [element_id] [time ] where [element_id] is searchbox 'Filter by name'",
+          "click [2106] where [2106] is heading 'Byte Blaze / timeit'": "click [element_id] where [element_id] is heading 'Byte Blaze / timeit'",
+          "click [2930] where [2930] is link 'Project information'": "click [element_id] where [element_id] is link 'Project information'",
+          "click [5280] where [5280] is link 'Members'": "click [element_id] where [element_id] is link 'Members'",
+          "click [5633] where [5633] is button 'Invite members'": "click [element_id] where [element_id] is button 'Invite members'",
+          "type [6546] [Jakub K ] where [6546] is textbox 'Username or email address' focused: True required: False describedby: __BVID__271__BV_description_": "type [element_id] [Jakub K ] where [element_id] is textbox 'Username or email address' focused: True required: False describedby: __BVID__271__BV_description_",
+          "click [6626] where [6626] is menuitem 'Jakub Klinkovsk\u00fd lahwaacz'": "click [element_id] where [element_id] is menuitem 'Jakub Klinkovsk\u00fd lahwaacz'",
+          "click [6591] where [6591] is button 'Invite'": "click [element_id] where [element_id] is button 'Invite'",
+          "click [7226] where [7226] is button 'Invite members'": "click [element_id] where [element_id] is button 'Invite members'",
+          "type [8256] [Alex Dills ] where [8256] is textbox 'Username or email address' focused: True required: False describedby: __BVID__326__BV_description_": "type [element_id] [Alex Dills ] where [element_id] is textbox 'Username or email address' focused: True required: False describedby: __BVID__326__BV_description_",
+          "click [8334] where [8334] is menuitem 'Alex Dills V13Axel'": "click [element_id] where [element_id] is menuitem 'Alex Dills V13Axel'",
+          "click [8301] where [8301] is button 'Invite'": "click [element_id] where [element_id] is button 'Invite'",
+          "click [8916] where [8916] is button 'Invite members'": "click [element_id] where [element_id] is button 'Invite members'",
+          "type [10054] [Alex Hutnik ] where [10054] is textbox 'Username or email address' focused: True required: False describedby: __BVID__375__BV_description_": "type [element_id] [Alex Hutnik ] where [element_id] is textbox 'Username or email address' focused: True required: False describedby: __BVID__375__BV_description_",
+          "click [10132] where [10132] is menuitem 'Alex Hutnik alexhutnik'": "click [element_id] where [element_id] is menuitem 'Alex Hutnik alexhutnik'",
+          "click [10099] where [10099] is button 'Invite'": "click [element_id] where [element_id] is button 'Invite'",
+          "click [10720] where [10720] is button 'Invite members'": "click [element_id] where [element_id] is button 'Invite members'",
+          "type [11966] [Beno\u00eet Blanchon ] where [11966] is textbox 'Username or email address' focused: True required: False describedby: __BVID__424__BV_description_": "type [element_id] [Beno\u00eet Blanchon ] where [element_id] is textbox 'Username or email address' focused: True required: False describedby: __BVID__424__BV_description_",
+          "click [12044] where [12044] is menuitem 'Beno\u00eet Blanchon bblanchon'": "click [element_id] where [element_id] is menuitem 'Beno\u00eet Blanchon bblanchon'",
+          "click [12011] where [12011] is button 'Invite'": "click [element_id] where [element_id] is button 'Invite'",
+          "stop []": "stop [your_answer]"
+        }
+      },
+      "570_skip_1_abs_None_narr_False_ui_False": {
+        "param": {
+          "config_file": "/tmp/tmpj_h_hprm/570.json",
+          "skip_step": 1,
+          "abstraction": "None",
+          "narrative": false,
+          "ui_change": false
+        },
+        "mapping": {
+          "type [348] [time ] where [348] is searchbox 'Filter by name'": "type [element_id] [time ] where [element_id] is searchbox 'Filter by name'",
+          "click [2106] where [2106] is heading 'Byte Blaze / timeit'": "click [element_id] where [element_id] is heading 'Byte Blaze / timeit'",
+          "click [2930] where [2930] is link 'Project information'": "click [element_id] where [element_id] is link 'Project information'",
+          "click [5280] where [5280] is link 'Members'": "click [element_id] where [element_id] is link 'Members'",
+          "click [5633] where [5633] is button 'Invite members'": "click [element_id] where [element_id] is button 'Invite members'",
+          "type [6546] [Jakub K ] where [6546] is textbox 'Username or email address' focused: True required: False describedby: __BVID__271__BV_description_": "type [element_id] [Jakub K ] where [element_id] is textbox 'Username or email address' focused: True required: False describedby: __BVID__271__BV_description_",
+          "click [6626] where [6626] is menuitem 'Jakub Klinkovsk\u00fd lahwaacz'": "click [element_id] where [element_id] is menuitem 'Jakub Klinkovsk\u00fd lahwaacz'",
+          "click [6591] where [6591] is button 'Invite'": "click [element_id] where [element_id] is button 'Invite'",
+          "click [7226] where [7226] is button 'Invite members'": "click [element_id] where [element_id] is button 'Invite members'",
+          "type [8256] [Alex Dills ] where [8256] is textbox 'Username or email address' focused: True required: False describedby: __BVID__326__BV_description_": "type [element_id] [Alex Dills ] where [element_id] is textbox 'Username or email address' focused: True required: False describedby: __BVID__326__BV_description_",
+          "click [8334] where [8334] is menuitem 'Alex Dills V13Axel'": "click [element_id] where [element_id] is menuitem 'Alex Dills V13Axel'",
+          "click [8301] where [8301] is button 'Invite'": "click [element_id] where [element_id] is button 'Invite'",
+          "click [8916] where [8916] is button 'Invite members'": "click [element_id] where [element_id] is button 'Invite members'",
+          "type [10054] [Alex Hutnik ] where [10054] is textbox 'Username or email address' focused: True required: False describedby: __BVID__375__BV_description_": "click [element_id] where [element_id] is menuitem 'Alex Hutnik alexhutnik'",
+          "click [10132] where [10132] is menuitem 'Alex Hutnik alexhutnik'": "click [element_id] where [element_id] is button 'Invite'",
+          "click [10099] where [10099] is button 'Invite'": "click [element_id] where [element_id] is button 'Invite members'",
+          "click [10720] where [10720] is button 'Invite members'": "type [element_id] [Beno\u00eet Blanchon ] where [element_id] is textbox 'Username or email address' focused: True required: False describedby: __BVID__424__BV_description_",
+          "type [11966] [Beno\u00eet Blanchon ] where [11966] is textbox 'Username or email address' focused: True required: False describedby: __BVID__424__BV_description_": "click [element_id] where [element_id] is menuitem 'Beno\u00eet Blanchon bblanchon'",
+          "click [12044] where [12044] is menuitem 'Beno\u00eet Blanchon bblanchon'": "click [element_id] where [element_id] is button 'Invite'",
+          "click [12011] where [12011] is button 'Invite'": "stop [your_answer]"
+        }
+      }
+    },
+    "576": {
+      "576_skip_0_abs_None_narr_False_ui_False": {
+        "param": {
+          "config_file": "/tmp/tmp0wnercl0/576.json",
+          "skip_step": 0,
+          "abstraction": "None",
+          "narrative": false,
+          "ui_change": false
+        },
+        "mapping": {
+          "click [628] where [628] is heading 'Byte Blaze / a11y-webring.club'": "click [element_id] where [element_id] is heading 'Byte Blaze / a11y-webring.club'",
+          "click [2052] where [2052] is link 'Project information'": "click [element_id] where [element_id] is link 'Project information'",
+          "click [5398] where [5398] is link 'Members'": "click [element_id] where [element_id] is link 'Members'",
+          "click [5740] where [5740] is button 'Invite members'": "click [element_id] where [element_id] is button 'Invite members'",
+          "type [6654] [abisubramanya27 ] where [6654] is textbox 'Username or email address' focused: True required: False describedby: __BVID__271__BV_description_": "type [element_id] [abisubramanya27 ] where [element_id] is textbox 'Username or email address' focused: True required: False describedby: __BVID__271__BV_description_",
+          "click [6732] where [6732] is menuitem 'Abishek S abisubramanya27'": "click [element_id] where [element_id] is menuitem 'Abishek S abisubramanya27'",
+          "type [6657] [Developer ] where [6657] is combobox 'Select a role' hasPopup: menu expanded: False describedby: __BVID__279__BV_description_": "type [element_id] [Developer ] where [element_id] is combobox 'Select a role' hasPopup: menu expanded: False describedby: __BVID__279__BV_description_",
+          "click [6699] where [6699] is button 'Invite'": "click [element_id] where [element_id] is button 'Invite'",
+          "click [7298] where [7298] is button 'Invite members'": "click [element_id] where [element_id] is button 'Invite members'",
+          "type [8328] [lahwaacz ] where [8328] is textbox 'Username or email address' focused: True required: False describedby: __BVID__326__BV_description_": "type [element_id] [lahwaacz ] where [element_id] is textbox 'Username or email address' focused: True required: False describedby: __BVID__326__BV_description_",
+          "click [8406] where [8406] is menuitem 'Jakub Klinkovsk\u00fd lahwaacz'": "click [element_id] where [element_id] is menuitem 'Jakub Klinkovsk\u00fd lahwaacz'",
+          "type [8331] [Developer ] where [8331] is combobox 'Select a role' hasPopup: menu expanded: False describedby: __BVID__334__BV_description_": "type [element_id] [Developer ] where [element_id] is combobox 'Select a role' hasPopup: menu expanded: False describedby: __BVID__334__BV_description_",
+          "click [8373] where [8373] is button 'Invite'": "click [element_id] where [element_id] is button 'Invite'",
+          "stop []": "stop [your_answer]"
+        }
+      },
+      "576_skip_1_abs_None_narr_False_ui_False": {
+        "param": {
+          "config_file": "/tmp/tmp0wnercl0/576.json",
+          "skip_step": 1,
+          "abstraction": "None",
+          "narrative": false,
+          "ui_change": false
+        },
+        "mapping": {
+          "click [628] where [628] is heading 'Byte Blaze / a11y-webring.club'": "click [element_id] where [element_id] is heading 'Byte Blaze / a11y-webring.club'",
+          "click [2052] where [2052] is link 'Project information'": "click [element_id] where [element_id] is link 'Project information'",
+          "click [5398] where [5398] is link 'Members'": "click [element_id] where [element_id] is link 'Members'",
+          "click [5740] where [5740] is button 'Invite members'": "click [element_id] where [element_id] is button 'Invite members'",
+          "type [6654] [abisubramanya27 ] where [6654] is textbox 'Username or email address' focused: True required: False describedby: __BVID__271__BV_description_": "type [element_id] [abisubramanya27 ] where [element_id] is textbox 'Username or email address' focused: True required: False describedby: __BVID__271__BV_description_",
+          "click [6732] where [6732] is menuitem 'Abishek S abisubramanya27'": "click [element_id] where [element_id] is menuitem 'Abishek S abisubramanya27'",
+          "type [6657] [Developer ] where [6657] is combobox 'Select a role' hasPopup: menu expanded: False describedby: __BVID__279__BV_description_": "type [element_id] [Developer ] where [element_id] is combobox 'Select a role' hasPopup: menu expanded: False describedby: __BVID__279__BV_description_",
+          "click [6699] where [6699] is button 'Invite'": "click [element_id] where [element_id] is button 'Invite'",
+          "click [7298] where [7298] is button 'Invite members'": "click [element_id] where [element_id] is button 'Invite members'",
+          "type [8328] [lahwaacz ] where [8328] is textbox 'Username or email address' focused: True required: False describedby: __BVID__326__BV_description_": "type [element_id] [lahwaacz ] where [element_id] is textbox 'Username or email address' focused: True required: False describedby: __BVID__326__BV_description_",
+          "click [8406] where [8406] is menuitem 'Jakub Klinkovsk\u00fd lahwaacz'": "type [element_id] [Developer ] where [element_id] is combobox 'Select a role' hasPopup: menu expanded: False describedby: __BVID__334__BV_description_",
+          "type [8331] [Developer ] where [8331] is combobox 'Select a role' hasPopup: menu expanded: False describedby: __BVID__334__BV_description_": "click [element_id] where [element_id] is button 'Invite'",
+          "click [8373] where [8373] is button 'Invite'": "stop [your_answer]"
+        }
+      }
+    },
+    "577": {
+      "577_skip_0_abs_None_narr_False_ui_False": {
+        "param": {
+          "config_file": "/tmp/tmphm5t30yx/577.json",
+          "skip_step": 0,
+          "abstraction": "None",
+          "narrative": false,
+          "ui_change": false
+        },
+        "mapping": {
+          "type [324] [time ] where [324] is searchbox 'Filter by name'": "type [element_id] [time ] where [element_id] is searchbox 'Filter by name'",
+          "click [1888] where [1888] is heading 'Byte Blaze / remove-board-movement-events-from-the-github-issue-timeline'": "click [element_id] where [element_id] is heading 'Byte Blaze / remove-board-movement-events-from-the-github-issue-timeline'",
+          "click [2730] where [2730] is link 'Project information'": "click [element_id] where [element_id] is link 'Project information'",
+          "click [4927] where [4927] is link 'Members'": "click [element_id] where [element_id] is link 'Members'",
+          "click [5269] where [5269] is button 'Invite members'": "click [element_id] where [element_id] is button 'Invite members'",
+          "type [6183] [abisubramanya27 ] where [6183] is textbox 'Username or email address' focused: True required: False describedby: __BVID__271__BV_description_": "type [element_id] [abisubramanya27 ] where [element_id] is textbox 'Username or email address' focused: True required: False describedby: __BVID__271__BV_description_",
+          "click [6261] where [6261] is menuitem 'Abishek S abisubramanya27'": "click [element_id] where [element_id] is menuitem 'Abishek S abisubramanya27'",
+          "type [6186] [Maintainer ] where [6186] is combobox 'Select a role' hasPopup: menu expanded: False describedby: __BVID__279__BV_description_": "type [element_id] [Maintainer ] where [element_id] is combobox 'Select a role' hasPopup: menu expanded: False describedby: __BVID__279__BV_description_",
+          "click [6228] where [6228] is button 'Invite'": "click [element_id] where [element_id] is button 'Invite'",
+          "click [6827] where [6827] is button 'Invite members'": "click [element_id] where [element_id] is button 'Invite members'",
+          "type [7857] [lahwaacz ] where [7857] is textbox 'Username or email address' focused: True required: False describedby: __BVID__326__BV_description_": "type [element_id] [lahwaacz ] where [element_id] is textbox 'Username or email address' focused: True required: False describedby: __BVID__326__BV_description_",
+          "click [7935] where [7935] is menuitem 'Jakub Klinkovsk\u00fd lahwaacz'": "click [element_id] where [element_id] is menuitem 'Jakub Klinkovsk\u00fd lahwaacz'",
+          "type [7860] [Maintainer ] where [7860] is combobox 'Select a role' hasPopup: menu expanded: False describedby: __BVID__334__BV_description_": "type [element_id] [Maintainer ] where [element_id] is combobox 'Select a role' hasPopup: menu expanded: False describedby: __BVID__334__BV_description_",
+          "click [7902] where [7902] is button 'Invite'": "click [element_id] where [element_id] is button 'Invite'",
+          "stop []": "stop [your_answer]"
+        }
+      },
+      "577_skip_1_abs_None_narr_False_ui_False": {
+        "param": {
+          "config_file": "/tmp/tmphm5t30yx/577.json",
+          "skip_step": 1,
+          "abstraction": "None",
+          "narrative": false,
+          "ui_change": false
+        },
+        "mapping": {
+          "type [324] [time ] where [324] is searchbox 'Filter by name'": "type [element_id] [time ] where [element_id] is searchbox 'Filter by name'",
+          "click [1888] where [1888] is heading 'Byte Blaze / remove-board-movement-events-from-the-github-issue-timeline'": "click [element_id] where [element_id] is heading 'Byte Blaze / remove-board-movement-events-from-the-github-issue-timeline'",
+          "click [2730] where [2730] is link 'Project information'": "click [element_id] where [element_id] is link 'Members'",
+          "click [4927] where [4927] is link 'Members'": "click [element_id] where [element_id] is button 'Invite members'",
+          "click [5269] where [5269] is button 'Invite members'": "type [element_id] [abisubramanya27 ] where [element_id] is textbox 'Username or email address' focused: True required: False describedby: __BVID__271__BV_description_",
+          "type [6183] [abisubramanya27 ] where [6183] is textbox 'Username or email address' focused: True required: False describedby: __BVID__271__BV_description_": "click [element_id] where [element_id] is menuitem 'Abishek S abisubramanya27'",
+          "click [6261] where [6261] is menuitem 'Abishek S abisubramanya27'": "type [element_id] [Maintainer ] where [element_id] is combobox 'Select a role' hasPopup: menu expanded: False describedby: __BVID__279__BV_description_",
+          "type [6186] [Maintainer ] where [6186] is combobox 'Select a role' hasPopup: menu expanded: False describedby: __BVID__279__BV_description_": "click [element_id] where [element_id] is button 'Invite'",
+          "click [6228] where [6228] is button 'Invite'": "click [element_id] where [element_id] is button 'Invite members'",
+          "click [6827] where [6827] is button 'Invite members'": "type [element_id] [lahwaacz ] where [element_id] is textbox 'Username or email address' focused: True required: False describedby: __BVID__326__BV_description_",
+          "type [7857] [lahwaacz ] where [7857] is textbox 'Username or email address' focused: True required: False describedby: __BVID__326__BV_description_": "click [element_id] where [element_id] is menuitem 'Jakub Klinkovsk\u00fd lahwaacz'",
+          "click [7935] where [7935] is menuitem 'Jakub Klinkovsk\u00fd lahwaacz'": "type [element_id] [Maintainer ] where [element_id] is combobox 'Select a role' hasPopup: menu expanded: False describedby: __BVID__334__BV_description_",
+          "type [7860] [Maintainer ] where [7860] is combobox 'Select a role' hasPopup: menu expanded: False describedby: __BVID__334__BV_description_": "click [element_id] where [element_id] is button 'Invite'",
+          "click [7902] where [7902] is button 'Invite'": "stop [your_answer]"
+        }
+      }
+    },
+    "578": {
+      "578_skip_1_abs_None_narr_False_ui_False": {
+        "param": {
+          "config_file": "/tmp/tmp8pz64ayz/578.json",
+          "skip_step": 1,
+          "abstraction": "None",
+          "narrative": false,
+          "ui_change": false
+        },
+        "mapping": {
+          "type [324] [millennials-to-snake-people ] where [324] is searchbox 'Filter by name'": "type [element_id] [millennials-to-snake-people ] where [element_id] is searchbox 'Filter by name'",
+          "click [1875] where [1875] is heading 'Byte Blaze / millennials-to-snake-people'": "click [element_id] where [element_id] is heading 'Byte Blaze / millennials-to-snake-people'",
+          "click [2705] where [2705] is link 'Project information'": "click [element_id] where [element_id] is link 'Project information'",
+          "click [4509] where [4509] is link 'Project information'": "click [element_id] where [element_id] is link 'Project information'",
+          "click [6256] where [6256] is link 'Members'": "click [element_id] where [element_id] is link 'Members'",
+          "click [6598] where [6598] is button 'Invite members'": "type [element_id] [yjlou ] where [element_id] is textbox 'Username or email address' focused: True required: False describedby: __BVID__271__BV_description_",
+          "type [7512] [yjlou ] where [7512] is textbox 'Username or email address' focused: True required: False describedby: __BVID__271__BV_description_": "click [element_id] where [element_id] is menuitem 'yjlou yjlou'",
+          "click [7590] where [7590] is menuitem 'yjlou yjlou'": "type [element_id] [Reporter ] where [element_id] is combobox 'Select a role' hasPopup: menu expanded: False describedby: __BVID__279__BV_description_",
+          "type [7515] [Reporter ] where [7515] is combobox 'Select a role' hasPopup: menu expanded: False describedby: __BVID__279__BV_description_": "click [element_id] where [element_id] is button 'Invite'",
+          "click [7557] where [7557] is button 'Invite'": "click [element_id] where [element_id] is button 'Invite members'",
+          "click [8156] where [8156] is button 'Invite members'": "type [element_id] [a11yproject ] where [element_id] is textbox 'Username or email address' focused: True required: False describedby: __BVID__326__BV_description_",
+          "type [9186] [a11yproject ] where [9186] is textbox 'Username or email address' focused: True required: False describedby: __BVID__326__BV_description_": "click [element_id] where [element_id] is menuitem 'The A11Y Project a11yproject'",
+          "click [9264] where [9264] is menuitem 'The A11Y Project a11yproject'": "type [element_id] [Reporter ] where [element_id] is combobox 'Select a role' hasPopup: menu expanded: False describedby: __BVID__334__BV_description_",
+          "type [9189] [Reporter ] where [9189] is combobox 'Select a role' hasPopup: menu expanded: False describedby: __BVID__334__BV_description_": "click [element_id] where [element_id] is button 'Invite'",
+          "click [9231] where [9231] is button 'Invite'": "stop [your_answer]"
+        }
+      },
+      "578_skip_0_abs_None_narr_False_ui_False": {
+        "param": {
+          "config_file": "/tmp/tmp8pz64ayz/578.json",
+          "skip_step": 0,
+          "abstraction": "None",
+          "narrative": false,
+          "ui_change": false
+        },
+        "mapping": {
+          "type [324] [millennials-to-snake-people ] where [324] is searchbox 'Filter by name'": "type [element_id] [millennials-to-snake-people ] where [element_id] is searchbox 'Filter by name'",
+          "click [1875] where [1875] is heading 'Byte Blaze / millennials-to-snake-people'": "click [element_id] where [element_id] is heading 'Byte Blaze / millennials-to-snake-people'",
+          "click [2705] where [2705] is link 'Project information'": "click [element_id] where [element_id] is link 'Project information'",
+          "click [4509] where [4509] is link 'Project information'": "click [element_id] where [element_id] is link 'Project information'",
+          "click [6256] where [6256] is link 'Members'": "click [element_id] where [element_id] is link 'Members'",
+          "click [6598] where [6598] is button 'Invite members'": "click [element_id] where [element_id] is button 'Invite members'",
+          "type [7512] [yjlou ] where [7512] is textbox 'Username or email address' focused: True required: False describedby: __BVID__271__BV_description_": "type [element_id] [yjlou ] where [element_id] is textbox 'Username or email address' focused: True required: False describedby: __BVID__271__BV_description_",
+          "click [7590] where [7590] is menuitem 'yjlou yjlou'": "click [element_id] where [element_id] is menuitem 'yjlou yjlou'",
+          "type [7515] [Reporter ] where [7515] is combobox 'Select a role' hasPopup: menu expanded: False describedby: __BVID__279__BV_description_": "type [element_id] [Reporter ] where [element_id] is combobox 'Select a role' hasPopup: menu expanded: False describedby: __BVID__279__BV_description_",
+          "click [7557] where [7557] is button 'Invite'": "click [element_id] where [element_id] is button 'Invite'",
+          "click [8156] where [8156] is button 'Invite members'": "click [element_id] where [element_id] is button 'Invite members'",
+          "type [9186] [a11yproject ] where [9186] is textbox 'Username or email address' focused: True required: False describedby: __BVID__326__BV_description_": "type [element_id] [a11yproject ] where [element_id] is textbox 'Username or email address' focused: True required: False describedby: __BVID__326__BV_description_",
+          "click [9264] where [9264] is menuitem 'The A11Y Project a11yproject'": "click [element_id] where [element_id] is menuitem 'The A11Y Project a11yproject'",
+          "type [9189] [Reporter ] where [9189] is combobox 'Select a role' hasPopup: menu expanded: False describedby: __BVID__334__BV_description_": "type [element_id] [Reporter ] where [element_id] is combobox 'Select a role' hasPopup: menu expanded: False describedby: __BVID__334__BV_description_",
+          "click [9231] where [9231] is button 'Invite'": "click [element_id] where [element_id] is button 'Invite'",
+          "stop []": "stop [your_answer]"
+        }
+      }
+    },
+    "579": {
+      "579_skip_1_abs_None_narr_False_ui_False": {
+        "param": {
+          "config_file": "/tmp/tmpli282ped/579.json",
+          "skip_step": 1,
+          "abstraction": "None",
+          "narrative": false,
+          "ui_change": false
+        },
+        "mapping": {
+          "type [312] [time ] where [312] is searchbox 'Filter by name'": "type [element_id] [time ] where [element_id] is searchbox 'Filter by name'",
+          "click [1860] where [1860] is heading 'Byte Blaze / timeit'": "click [element_id] where [element_id] is heading 'Byte Blaze / timeit'",
+          "click [2549] where [2549] is link 'Project information'": "click [element_id] where [element_id] is link 'Project information'",
+          "click [4779] where [4779] is link 'Members'": "click [element_id] where [element_id] is link 'Members'",
+          "click [5124] where [5124] is button 'Invite members'": "click [element_id] where [element_id] is button 'Invite members'",
+          "type [6038] [yjlou ] where [6038] is textbox 'Username or email address' focused: True required: False describedby: __BVID__271__BV_description_": "click [element_id] where [element_id] is menuitem 'yjlou yjlou'",
+          "click [6116] where [6116] is menuitem 'yjlou yjlou'": "click [element_id] where [element_id] is button 'Invite'",
+          "click [6083] where [6083] is button 'Invite'": "stop [your_answer]"
+        }
+      },
+      "579_skip_0_abs_None_narr_False_ui_False": {
+        "param": {
+          "config_file": "/tmp/tmpli282ped/579.json",
+          "skip_step": 0,
+          "abstraction": "None",
+          "narrative": false,
+          "ui_change": false
+        },
+        "mapping": {
+          "type [312] [time ] where [312] is searchbox 'Filter by name'": "type [element_id] [time ] where [element_id] is searchbox 'Filter by name'",
+          "click [1860] where [1860] is heading 'Byte Blaze / timeit'": "click [element_id] where [element_id] is heading 'Byte Blaze / timeit'",
+          "click [2549] where [2549] is link 'Project information'": "click [element_id] where [element_id] is link 'Project information'",
+          "click [4779] where [4779] is link 'Members'": "click [element_id] where [element_id] is link 'Members'",
+          "click [5124] where [5124] is button 'Invite members'": "click [element_id] where [element_id] is button 'Invite members'",
+          "type [6038] [yjlou ] where [6038] is textbox 'Username or email address' focused: True required: False describedby: __BVID__271__BV_description_": "type [element_id] [yjlou ] where [element_id] is textbox 'Username or email address' focused: True required: False describedby: __BVID__271__BV_description_",
+          "click [6116] where [6116] is menuitem 'yjlou yjlou'": "click [element_id] where [element_id] is menuitem 'yjlou yjlou'",
+          "click [6083] where [6083] is button 'Invite'": "click [element_id] where [element_id] is button 'Invite'",
+          "stop []": "stop [your_answer]"
+        }
+      }
+    },
+    "590": {
+      "590_skip_1_abs_None_narr_False_ui_False": {
+        "param": {
+          "config_file": "/tmp/tmpfst87j1t/590.json",
+          "skip_step": 1,
+          "abstraction": "None",
+          "narrative": false,
+          "ui_change": false
+        },
+        "mapping": {
+          "click [468] where [468] is link 'Issues'": "click [element_id] where [element_id] is link 'Milestones'",
+          "click [4231] where [4231] is link 'Milestones'": "click [element_id] where [element_id] is link 'New milestone'",
+          "click [4675] where [4675] is link 'New milestone'": "type [element_id] [product launch ] where [element_id] is textbox 'Title' focused: True required: True",
+          "type [5323] [product launch ] where [5323] is textbox 'Title' focused: True required: True": "type [element_id] [2023-01-16 ] where [element_id] is textbox 'Start Date' required: False",
+          "type [5574] [2023-01-16 ] where [5574] is textbox 'Start Date' required: False": "type [element_id] [2023-01-30 ] where [element_id] is textbox 'Due Date' required: False",
+          "type [5578] [2023-01-30 ] where [5578] is textbox 'Due Date' required: False": "click [element_id] where [element_id] is button 'Create milestone'",
+          "click [5587] where [5587] is button 'Create milestone'": "stop [your_answer]"
+        }
+      },
+      "590_skip_0_abs_None_narr_False_ui_False": {
+        "param": {
+          "config_file": "/tmp/tmpfst87j1t/590.json",
+          "skip_step": 0,
+          "abstraction": "None",
+          "narrative": false,
+          "ui_change": false
+        },
+        "mapping": {
+          "click [468] where [468] is link 'Issues'": "click [element_id] where [element_id] is link 'Issues'; There are multiple Issues on the page, this specific one is between ' link 'Repository'' and ' StaticText '21''. Above: ' link 'Project information''. Below: ' link 'Merge requests''.",
+          "click [4231] where [4231] is link 'Milestones'": "click [element_id] where [element_id] is link 'Milestones'",
+          "click [4675] where [4675] is link 'New milestone'": "click [element_id] where [element_id] is link 'New milestone'",
+          "type [5323] [product launch ] where [5323] is textbox 'Title' focused: True required: True": "type [element_id] [product launch ] where [element_id] is textbox 'Title' focused: True required: True",
+          "type [5574] [2023-01-16 ] where [5574] is textbox 'Start Date' required: False": "type [element_id] [2023-01-16 ] where [element_id] is textbox 'Start Date' required: False",
+          "type [5578] [2023-01-30 ] where [5578] is textbox 'Due Date' required: False": "type [element_id] [2023-01-30 ] where [element_id] is textbox 'Due Date' required: False",
+          "click [5587] where [5587] is button 'Create milestone'": "click [element_id] where [element_id] is button 'Create milestone'",
+          "stop []": "stop [your_answer]"
+        }
+      }
+    },
+    "591": {
+      "591_skip_1_abs_None_narr_False_ui_False": {
+        "param": {
+          "config_file": "/tmp/tmpo7r_kau1/591.json",
+          "skip_step": 1,
+          "abstraction": "None",
+          "narrative": false,
+          "ui_change": false
+        },
+        "mapping": {
+          "click [468] where [468] is link 'Issues'": "click [element_id] where [element_id] is link 'Issues'; There are multiple Issues on the page, this specific one is between ' link 'Repository'' and ' StaticText '21''. Above: ' link 'Project information''. Below: ' link 'Merge requests''.",
+          "click [4231] where [4231] is link 'Milestones'": "click [element_id] where [element_id] is link 'Milestones'",
+          "click [4595] where [4595] is link 'New milestone'": "click [element_id] where [element_id] is link 'New milestone'",
+          "type [5428] [collective code review ] where [5428] is textbox 'Title' focused: True required: True": "type [element_id] [2023-01-16 ] where [element_id] is textbox 'Start Date' required: False",
+          "type [5679] [2023-01-16 ] where [5679] is textbox 'Start Date' required: False": "type [element_id] [2023-02-05 ] where [element_id] is textbox 'Due Date' required: False",
+          "type [5683] [2023-02-05 ] where [5683] is textbox 'Due Date' required: False": "click [element_id] where [element_id] is button 'Create milestone'",
+          "click [5692] where [5692] is button 'Create milestone'": "stop [your_answer]"
+        }
+      },
+      "591_skip_0_abs_None_narr_False_ui_False": {
+        "param": {
+          "config_file": "/tmp/tmpo7r_kau1/591.json",
+          "skip_step": 0,
+          "abstraction": "None",
+          "narrative": false,
+          "ui_change": false
+        },
+        "mapping": {
+          "click [468] where [468] is link 'Issues'": "click [element_id] where [element_id] is link 'Issues'; There are multiple Issues on the page, this specific one is between ' link 'Repository'' and ' StaticText '21''. Above: ' link 'Project information''. Below: ' link 'Merge requests''.",
+          "click [4231] where [4231] is link 'Milestones'": "click [element_id] where [element_id] is link 'Milestones'",
+          "click [4595] where [4595] is link 'New milestone'": "click [element_id] where [element_id] is link 'New milestone'",
+          "type [5428] [collective code review ] where [5428] is textbox 'Title' focused: True required: True": "type [element_id] [collective code review ] where [element_id] is textbox 'Title' focused: True required: True",
+          "type [5679] [2023-01-16 ] where [5679] is textbox 'Start Date' required: False": "type [element_id] [2023-01-16 ] where [element_id] is textbox 'Start Date' required: False",
+          "type [5683] [2023-02-05 ] where [5683] is textbox 'Due Date' required: False": "type [element_id] [2023-02-05 ] where [element_id] is textbox 'Due Date' required: False",
+          "click [5692] where [5692] is button 'Create milestone'": "click [element_id] where [element_id] is button 'Create milestone'",
+          "stop []": "stop [your_answer]"
+        }
+      }
+    },
+    "592": {
+      "592_skip_1_abs_None_narr_False_ui_False": {
+        "param": {
+          "config_file": "/tmp/tmpr08lmxdp/592.json",
+          "skip_step": 1,
+          "abstraction": "None",
+          "narrative": false,
+          "ui_change": false
+        },
+        "mapping": {
+          "click [468] where [468] is link 'Issues'": "click [element_id] where [element_id] is link 'Issues'; There are multiple Issues on the page, this specific one is between ' link 'Repository'' and ' StaticText '21''. Above: ' link 'Project information''. Below: ' link 'Merge requests''.",
+          "click [4231] where [4231] is link 'Milestones'": "click [element_id] where [element_id] is link 'Milestones'",
+          "click [4595] where [4595] is link 'New milestone'": "click [element_id] where [element_id] is link 'New milestone'",
+          "type [5484] [cleaning sensitive information ] where [5484] is textbox 'Title' focused: True required: True": "type [element_id] [cleaning sensitive information ] where [element_id] is textbox 'Title' focused: True required: True",
+          "type [5735] [2023-02-16 ] where [5735] is textbox 'Start Date' required: False": "type [element_id] [2023-02-16 ] where [element_id] is textbox 'Start Date' required: False",
+          "type [5739] [2023-03-08 ] where [5739] is textbox 'Due Date' required: False": "click [element_id] where [element_id] is button 'Create milestone'",
+          "click [5748] where [5748] is button 'Create milestone'": "stop [your_answer]"
+        }
+      },
+      "592_skip_0_abs_None_narr_False_ui_False": {
+        "param": {
+          "config_file": "/tmp/tmpr08lmxdp/592.json",
+          "skip_step": 0,
+          "abstraction": "None",
+          "narrative": false,
+          "ui_change": false
+        },
+        "mapping": {
+          "click [468] where [468] is link 'Issues'": "click [element_id] where [element_id] is link 'Issues'; There are multiple Issues on the page, this specific one is between ' link 'Repository'' and ' StaticText '21''. Above: ' link 'Project information''. Below: ' link 'Merge requests''.",
+          "click [4231] where [4231] is link 'Milestones'": "click [element_id] where [element_id] is link 'Milestones'",
+          "click [4595] where [4595] is link 'New milestone'": "click [element_id] where [element_id] is link 'New milestone'",
+          "type [5484] [cleaning sensitive information ] where [5484] is textbox 'Title' focused: True required: True": "type [element_id] [cleaning sensitive information ] where [element_id] is textbox 'Title' focused: True required: True",
+          "type [5735] [2023-02-16 ] where [5735] is textbox 'Start Date' required: False": "type [element_id] [2023-02-16 ] where [element_id] is textbox 'Start Date' required: False",
+          "type [5739] [2023-03-08 ] where [5739] is textbox 'Due Date' required: False": "type [element_id] [2023-03-08 ] where [element_id] is textbox 'Due Date' required: False",
+          "click [5748] where [5748] is button 'Create milestone'": "click [element_id] where [element_id] is button 'Create milestone'",
+          "stop []": "stop [your_answer]"
+        }
+      }
+    },
+    "663": {
+      "663_skip_1_abs_None_narr_False_ui_False": {
+        "param": {
+          "config_file": "/tmp/tmp_h8ocp77/663.json",
+          "skip_step": 1,
+          "abstraction": "None",
+          "narrative": false,
+          "ui_change": false
+        },
+        "mapping": {
+          "type [384] [metaseq ] where [384] is searchbox 'Filter by name'": "type [element_id] [metaseq ] where [element_id] is searchbox 'Filter by name'",
+          "click [2249] where [2249] is heading 'Byte Blaze / metaseq'": "click [element_id] where [element_id] is link 'Issues'",
+          "click [3068] where [3068] is link 'Issues'": "click [element_id] where [element_id] is link 'New issue'",
+          "click [5168] where [5168] is link 'New issue'": "type [element_id] [plan on supporting Llama and other llama family models ] where [element_id] is textbox 'Title (required)' focused: True required: True",
+          "type [6014] [plan on supporting Llama and other llama family models ] where [6014] is textbox 'Title (required)' focused: True required: True": "scroll [down]",
+          "scroll [down]": "click [element_id] where [element_id] is button 'Create issue'",
+          "click [6331] where [6331] is button 'Create issue'": "click [element_id] where [element_id] is link 'Issues'",
+          "click [8042] where [8042] is link 'Issues'": "stop [your_answer]"
+        }
+      },
+      "663_skip_0_abs_None_narr_False_ui_False": {
+        "param": {
+          "config_file": "/tmp/tmp_h8ocp77/663.json",
+          "skip_step": 0,
+          "abstraction": "None",
+          "narrative": false,
+          "ui_change": false
+        },
+        "mapping": {
+          "type [384] [metaseq ] where [384] is searchbox 'Filter by name'": "type [element_id] [metaseq ] where [element_id] is searchbox 'Filter by name'",
+          "click [2249] where [2249] is heading 'Byte Blaze / metaseq'": "click [element_id] where [element_id] is heading 'Byte Blaze / metaseq'",
+          "click [3068] where [3068] is link 'Issues'": "click [element_id] where [element_id] is link 'Issues'; There are multiple Issues on the page, this specific one is between ' link 'Repository'' and ' link 'Merge requests''. Above: ' link 'Project information''. Below: ' link 'CI/CD''.",
+          "click [5168] where [5168] is link 'New issue'": "click [element_id] where [element_id] is link 'New issue'",
+          "type [6014] [plan on supporting Llama and other llama family models ] where [6014] is textbox 'Title (required)' focused: True required: True": "type [element_id] [plan on supporting Llama and other llama family models ] where [element_id] is textbox 'Title (required)' focused: True required: True",
+          "scroll [down]": "scroll [down]",
+          "click [6331] where [6331] is button 'Create issue'": "click [element_id] where [element_id] is button 'Create issue'",
+          "click [8042] where [8042] is link 'Issues'": "click [element_id] where [element_id] is link 'Issues'; There are multiple Issues on the page, this specific one is between ' link 'metaseq'' and ' link '#1''. Above: ' link 'Byte Blaze''. Below: ' main '''.",
+          "stop []": "stop [your_answer]"
+        }
+      }
+    },
+    "664": {
+      "664_skip_1_abs_None_narr_False_ui_False": {
+        "param": {
+          "config_file": "/tmp/tmpddeh5lij/664.json",
+          "skip_step": 1,
+          "abstraction": "None",
+          "narrative": false,
+          "ui_change": false
+        },
+        "mapping": {
+          "type [1753] [awesome-python ] where [1753] is textbox 'Search GitLab' required: False": "type [element_id] [awesome-python ] where [element_id] is textbox 'Search GitLab' required: False",
+          "click [2285] where [2285] is heading 'Vinta Chen / awesome-python'": "click [element_id] where [element_id] is heading 'Vinta Chen / awesome-python'",
+          "click [2750] where [2750] is link 'Issues'": "click [element_id] where [element_id] is link 'Issues'; There are multiple Issues on the page, this specific one is between ' link 'Repository'' and ' StaticText '13''. Above: ' link 'Project information''. Below: ' link 'Merge requests''.",
+          "click [6285] where [6285] is link 'New issue'": "click [element_id] where [element_id] is link 'New issue'",
+          "type [7670] [plans on adding Python 3.11 related resources ] where [7670] is textbox 'Title (required)' focused: True required: True": "type [element_id] [plans on adding Python 3.11 related resources ] where [element_id] is textbox 'Title (required)' focused: True required: True",
+          "click [7954] where [7954] is button 'Create issue'": "click [element_id] where [element_id] is button 'Create issue'",
+          "click [9256] where [9256] is link 'Issues'": "stop [your_answer]"
+        }
+      },
+      "664_skip_0_abs_None_narr_False_ui_False": {
+        "param": {
+          "config_file": "/tmp/tmpddeh5lij/664.json",
+          "skip_step": 0,
+          "abstraction": "None",
+          "narrative": false,
+          "ui_change": false
+        },
+        "mapping": {
+          "type [1753] [awesome-python ] where [1753] is textbox 'Search GitLab' required: False": "type [element_id] [awesome-python ] where [element_id] is textbox 'Search GitLab' required: False",
+          "click [2285] where [2285] is heading 'Vinta Chen / awesome-python'": "click [element_id] where [element_id] is heading 'Vinta Chen / awesome-python'",
+          "click [2750] where [2750] is link 'Issues'": "click [element_id] where [element_id] is link 'Issues'; There are multiple Issues on the page, this specific one is between ' link 'Repository'' and ' StaticText '13''. Above: ' link 'Project information''. Below: ' link 'Merge requests''.",
+          "click [6285] where [6285] is link 'New issue'": "click [element_id] where [element_id] is link 'New issue'",
+          "type [7670] [plans on adding Python 3.11 related resources ] where [7670] is textbox 'Title (required)' focused: True required: True": "type [element_id] [plans on adding Python 3.11 related resources ] where [element_id] is textbox 'Title (required)' focused: True required: True",
+          "click [7954] where [7954] is button 'Create issue'": "click [element_id] where [element_id] is button 'Create issue'",
+          "click [9256] where [9256] is link 'Issues'": "click [element_id] where [element_id] is link 'Issues'; There are multiple Issues on the page, this specific one is between ' link 'awesome-python'' and ' link '#2393''. Above: ' link 'Vinta Chen''. Below: ' main '''.",
+          "stop []": "stop [your_answer]"
+        }
+      }
+    },
+    "665": {
+      "665_skip_0_abs_None_narr_False_ui_False": {
+        "param": {
+          "config_file": "/tmp/tmplntsuzz9/665.json",
+          "skip_step": 0,
+          "abstraction": "None",
+          "narrative": false,
+          "ui_change": false
+        },
+        "mapping": {
+          "type [384] [a11y-syntax-highlighting ] where [384] is searchbox 'Filter by name'": "type [element_id] [a11y-syntax-highlighting ] where [element_id] is searchbox 'Filter by name'",
+          "click [2249] where [2249] is heading 'Byte Blaze / a11y-syntax-highlighting'": "click [element_id] where [element_id] is heading 'Byte Blaze / a11y-syntax-highlighting'",
+          "click [3111] where [3111] is link 'Issues'": "click [element_id] where [element_id] is link 'Issues'; There are multiple Issues on the page, this specific one is between ' link 'Repository'' and ' link 'Merge requests''. Above: ' link 'Project information''. Below: ' link 'CI/CD''.",
+          "click [4936] where [4936] is link 'New issue'": "click [element_id] where [element_id] is link 'New issue'",
+          "type [6087] [request adding support for MT theme editor ] where [6087] is textbox 'Title (required)' focused: True required: True": "type [element_id] [request adding support for MT theme editor ] where [element_id] is textbox 'Title (required)' focused: True required: True",
+          "scroll [down]": "scroll [down]",
+          "click [6404] where [6404] is button 'Create issue'": "click [element_id] where [element_id] is button 'Create issue'",
+          "click [7931] where [7931] is link 'Issues'": "click [element_id] where [element_id] is link 'Issues'; There are multiple Issues on the page, this specific one is between ' link 'a11y-syntax-highlighting'' and ' link '#3''. Above: ' link 'Byte Blaze''. Below: ' main '''.",
+          "stop []": "stop [your_answer]"
+        }
+      },
+      "665_skip_1_abs_None_narr_False_ui_False": {
+        "param": {
+          "config_file": "/tmp/tmplntsuzz9/665.json",
+          "skip_step": 1,
+          "abstraction": "None",
+          "narrative": false,
+          "ui_change": false
+        },
+        "mapping": {
+          "type [384] [a11y-syntax-highlighting ] where [384] is searchbox 'Filter by name'": "type [element_id] [a11y-syntax-highlighting ] where [element_id] is searchbox 'Filter by name'",
+          "click [2249] where [2249] is heading 'Byte Blaze / a11y-syntax-highlighting'": "click [element_id] where [element_id] is heading 'Byte Blaze / a11y-syntax-highlighting'",
+          "click [3111] where [3111] is link 'Issues'": "click [element_id] where [element_id] is link 'New issue'",
+          "click [4936] where [4936] is link 'New issue'": "type [element_id] [request adding support for MT theme editor ] where [element_id] is textbox 'Title (required)' focused: True required: True",
+          "type [6087] [request adding support for MT theme editor ] where [6087] is textbox 'Title (required)' focused: True required: True": "scroll [down]",
+          "scroll [down]": "click [element_id] where [element_id] is button 'Create issue'",
+          "click [6404] where [6404] is button 'Create issue'": "click [element_id] where [element_id] is link 'Issues'",
+          "click [7931] where [7931] is link 'Issues'": "stop [your_answer]"
+        }
+      }
+    },
+    "669": {
+      "669_skip_1_abs_None_narr_False_ui_False": {
+        "param": {
+          "config_file": "/tmp/tmpkiz7fraz/669.json",
+          "skip_step": 1,
+          "abstraction": "None",
+          "narrative": false,
+          "ui_change": false
+        },
+        "mapping": {
+          "click [470] where [470] is link 'Issues'": "click [element_id] where [element_id] is link 'Issues'; There are multiple Issues on the page, this specific one is between ' link 'Repository'' and ' link 'Merge requests''. Above: ' link 'Project information''. Below: ' link 'CI/CD''.",
+          "click [1940] where [1940] is link 'New issue'": "click [element_id] where [element_id] is link 'New issue'",
+          "type [2786] [the implementation of dark mode ] where [2786] is textbox 'Title (required)' focused: True required: True": "type [element_id] [the implementation of dark mode ] where [element_id] is textbox 'Title (required)' focused: True required: True",
+          "scroll [down]": "scroll [down]",
+          "click [3103] where [3103] is button 'Create issue'": "click [element_id] where [element_id] is link 'Issues'",
+          "click [4814] where [4814] is link 'Issues'": "stop [your_answer]"
+        }
+      },
+      "669_skip_0_abs_None_narr_False_ui_False": {
+        "param": {
+          "config_file": "/tmp/tmpkiz7fraz/669.json",
+          "skip_step": 0,
+          "abstraction": "None",
+          "narrative": false,
+          "ui_change": false
+        },
+        "mapping": {
+          "click [470] where [470] is link 'Issues'": "click [element_id] where [element_id] is link 'Issues'; There are multiple Issues on the page, this specific one is between ' link 'Repository'' and ' link 'Merge requests''. Above: ' link 'Project information''. Below: ' link 'CI/CD''.",
+          "click [1940] where [1940] is link 'New issue'": "click [element_id] where [element_id] is link 'New issue'",
+          "type [2786] [the implementation of dark mode ] where [2786] is textbox 'Title (required)' focused: True required: True": "type [element_id] [the implementation of dark mode ] where [element_id] is textbox 'Title (required)' focused: True required: True",
+          "scroll [down]": "scroll [down]",
+          "click [3103] where [3103] is button 'Create issue'": "click [element_id] where [element_id] is button 'Create issue'",
+          "click [4814] where [4814] is link 'Issues'": "click [element_id] where [element_id] is link 'Issues'; There are multiple Issues on the page, this specific one is between ' link 'solarized-prism-theme'' and ' link '#1''. Above: ' link 'Byte Blaze''. Below: ' main '''.",
+          "stop []": "stop [your_answer]"
+        }
+      }
+    },
+    "670": {
+      "670_skip_1_abs_None_narr_False_ui_False": {
+        "param": {
+          "config_file": "/tmp/tmp_tucrdfj/670.json",
+          "skip_step": 1,
+          "abstraction": "None",
+          "narrative": false,
+          "ui_change": false
+        },
+        "mapping": {
+          "click [876] where [876] is link 'Issues'": "click [element_id] where [element_id] is link 'Issues'; There are multiple Issues on the page, this specific one is between ' link 'Repository'' and ' StaticText '1''. Above: ' link 'Project information''. Below: ' link 'Merge requests''.",
+          "click [3481] where [3481] is link 'New issue'": "click [element_id] where [element_id] is link 'New issue'",
+          "type [4638] [the implementation of default plugins for .zsh ] where [4638] is textbox 'Title (required)' focused: True required: True": "type [element_id] [the implementation of default plugins for .zsh ] where [element_id] is textbox 'Title (required)' focused: True required: True",
+          "scroll [down]": "click [element_id] where [element_id] is button 'Create issue'",
+          "click [4955] where [4955] is button 'Create issue'": "click [element_id] where [element_id] is link 'Issues'",
+          "click [6611] where [6611] is link 'Issues'": "stop [your_answer]"
+        }
+      },
+      "670_skip_0_abs_None_narr_False_ui_False": {
+        "param": {
+          "config_file": "/tmp/tmp_tucrdfj/670.json",
+          "skip_step": 0,
+          "abstraction": "None",
+          "narrative": false,
+          "ui_change": false
+        },
+        "mapping": {
+          "click [876] where [876] is link 'Issues'": "click [element_id] where [element_id] is link 'Issues'; There are multiple Issues on the page, this specific one is between ' link 'Repository'' and ' StaticText '1''. Above: ' link 'Project information''. Below: ' link 'Merge requests''.",
+          "click [3481] where [3481] is link 'New issue'": "click [element_id] where [element_id] is link 'New issue'",
+          "type [4638] [the implementation of default plugins for .zsh ] where [4638] is textbox 'Title (required)' focused: True required: True": "type [element_id] [the implementation of default plugins for .zsh ] where [element_id] is textbox 'Title (required)' focused: True required: True",
+          "scroll [down]": "scroll [down]",
+          "click [4955] where [4955] is button 'Create issue'": "click [element_id] where [element_id] is button 'Create issue'",
+          "click [6611] where [6611] is link 'Issues'": "click [element_id] where [element_id] is link 'Issues'; There are multiple Issues on the page, this specific one is between ' link 'dotfiles'' and ' link '#2''. Above: ' link 'Byte Blaze''. Below: ' main '''.",
+          "stop []": "stop [your_answer]"
+        }
+      }
+    },
+    "742": {
+      "742_skip_1_abs_None_narr_False_ui_False": {
+        "param": {
+          "config_file": "/tmp/tmp5l733o00/742.json",
+          "skip_step": 1,
+          "abstraction": "None",
+          "narrative": false,
+          "ui_change": false
+        },
+        "mapping": {
+          "click [377] where [377] is link 'New project'": "click [element_id] where [element_id] is link 'New project'",
+          "click [2086] where [2086] is heading 'Create new project'": "click [element_id] where [element_id] is heading 'Create new project'",
+          "click [2097] where [2097] is heading 'Create blank project'": "click [element_id] where [element_id] is heading 'Create blank project'",
+          "type [3561] [planner] where [3561] is textbox 'Project name' required: True": "type [element_id] [planner] where [element_id] is textbox 'Project name' required: True",
+          "click [3538] where [3538] is radio ' Private Project access must be granted explicitly to each user. If this project is part of a group, access is granted to members of the group.' checked: false": "click [element_id] where [element_id] is radio ' Private Project access must be granted explicitly to each user. If this project is part of a group, access is granted to members of the group.' checked: false",
+          "click [3509] where [3509] is button 'Create project'": "click [element_id] where [element_id] is button 'Create project'",
+          "click [4102] where [4102] is link 'Project information'": "click [element_id] where [element_id] is link 'Project information'",
+          "click [6441] where [6441] is link 'Members'": "click [element_id] where [element_id] is link 'Members'",
+          "click [6794] where [6794] is button 'Invite members'": "click [element_id] where [element_id] is button 'Invite members'",
+          "type [7707] [Abishek ] where [7707] is textbox 'Username or email address' focused: True required: False describedby: __BVID__271__BV_description_": "type [element_id] [Abishek ] where [element_id] is textbox 'Username or email address' focused: True required: False describedby: __BVID__271__BV_description_",
+          "click [7785] where [7785] is menuitem 'Abishek S abisubramanya27'": "click [element_id] where [element_id] is menuitem 'Abishek S abisubramanya27'",
+          "click [7752] where [7752] is button 'Invite'": "click [element_id] where [element_id] is button 'Invite members'",
+          "click [8361] where [8361] is button 'Invite members'": "type [element_id] [Vinta ] where [element_id] is textbox 'Username or email address' focused: True required: False describedby: __BVID__326__BV_description_",
+          "type [9391] [Vinta ] where [9391] is textbox 'Username or email address' focused: True required: False describedby: __BVID__326__BV_description_": "click [element_id] where [element_id] is menuitem 'Vinta Chen vinta'",
+          "click [9469] where [9469] is menuitem 'Vinta Chen vinta'": "click [element_id] where [element_id] is button 'Invite'",
+          "click [9436] where [9436] is button 'Invite'": "stop [your_answer]"
+        }
+      },
+      "742_skip_0_abs_None_narr_False_ui_False": {
+        "param": {
+          "config_file": "/tmp/tmp5l733o00/742.json",
+          "skip_step": 0,
+          "abstraction": "None",
+          "narrative": false,
+          "ui_change": false
+        },
+        "mapping": {
+          "click [377] where [377] is link 'New project'": "click [element_id] where [element_id] is link 'New project'",
+          "click [2086] where [2086] is heading 'Create new project'": "click [element_id] where [element_id] is heading 'Create new project'",
+          "click [2097] where [2097] is heading 'Create blank project'": "click [element_id] where [element_id] is heading 'Create blank project'",
+          "type [3561] [planner] where [3561] is textbox 'Project name' required: True": "type [element_id] [planner] where [element_id] is textbox 'Project name' required: True",
+          "click [3538] where [3538] is radio ' Private Project access must be granted explicitly to each user. If this project is part of a group, access is granted to members of the group.' checked: false": "click [element_id] where [element_id] is radio ' Private Project access must be granted explicitly to each user. If this project is part of a group, access is granted to members of the group.' checked: false",
+          "click [3509] where [3509] is button 'Create project'": "click [element_id] where [element_id] is button 'Create project'",
+          "click [4102] where [4102] is link 'Project information'": "click [element_id] where [element_id] is link 'Project information'",
+          "click [6441] where [6441] is link 'Members'": "click [element_id] where [element_id] is link 'Members'",
+          "click [6794] where [6794] is button 'Invite members'": "click [element_id] where [element_id] is button 'Invite members'",
+          "type [7707] [Abishek ] where [7707] is textbox 'Username or email address' focused: True required: False describedby: __BVID__271__BV_description_": "type [element_id] [Abishek ] where [element_id] is textbox 'Username or email address' focused: True required: False describedby: __BVID__271__BV_description_",
+          "click [7785] where [7785] is menuitem 'Abishek S abisubramanya27'": "click [element_id] where [element_id] is menuitem 'Abishek S abisubramanya27'",
+          "click [7752] where [7752] is button 'Invite'": "click [element_id] where [element_id] is button 'Invite'",
+          "click [8361] where [8361] is button 'Invite members'": "click [element_id] where [element_id] is button 'Invite members'",
+          "type [9391] [Vinta ] where [9391] is textbox 'Username or email address' focused: True required: False describedby: __BVID__326__BV_description_": "type [element_id] [Vinta ] where [element_id] is textbox 'Username or email address' focused: True required: False describedby: __BVID__326__BV_description_",
+          "click [9469] where [9469] is menuitem 'Vinta Chen vinta'": "click [element_id] where [element_id] is menuitem 'Vinta Chen vinta'",
+          "click [9436] where [9436] is button 'Invite'": "click [element_id] where [element_id] is button 'Invite'",
+          "stop []": "stop [your_answer]"
+        }
+      }
+    },
+    "743": {
+      "743_skip_0_abs_None_narr_False_ui_False": {
+        "param": {
+          "config_file": "/tmp/tmpnyl9w9ij/743.json",
+          "skip_step": 0,
+          "abstraction": "None",
+          "narrative": false,
+          "ui_change": false
+        },
+        "mapping": {
+          "click [377] where [377] is link 'New project'": "click [element_id] where [element_id] is link 'New project'",
+          "click [2090] where [2090] is link 'Create blank project Create a blank project to store your files, plan your work, and collaborate on code, among other things.'": "click [element_id] where [element_id] is link 'Create blank project Create a blank project to store your files, plan your work, and collaborate on code, among other things.'",
+          "type [3551] [web_arena ] where [3551] is textbox 'Project name' required: True": "type [element_id] [web_arena ] where [element_id] is textbox 'Project name' required: True",
+          "click [4091] where [4091] is link 'Project information'": "click [element_id] where [element_id] is link 'Project information'",
+          "click [6430] where [6430] is link 'Members'": "click [element_id] where [element_id] is link 'Members'",
+          "click [6783] where [6783] is button 'Invite members'": "click [element_id] where [element_id] is button 'Invite members'",
+          "type [7696] [Abishek ] where [7696] is textbox 'Username or email address' focused: True required: False describedby: __BVID__271__BV_description_": "type [element_id] [Abishek ] where [element_id] is textbox 'Username or email address' focused: True required: False describedby: __BVID__271__BV_description_",
+          "click [7774] where [7774] is menuitem 'Abishek S abisubramanya27'": "click [element_id] where [element_id] is menuitem 'Abishek S abisubramanya27'",
+          "click [7741] where [7741] is button 'Invite'": "click [element_id] where [element_id] is button 'Invite'",
+          "click [8350] where [8350] is button 'Invite members'": "click [element_id] where [element_id] is button 'Invite members'",
+          "type [9380] [Vinta ] where [9380] is textbox 'Username or email address' focused: True required: False describedby: __BVID__326__BV_description_": "type [element_id] [Vinta ] where [element_id] is textbox 'Username or email address' focused: True required: False describedby: __BVID__326__BV_description_",
+          "click [9458] where [9458] is menuitem 'Vinta Chen vinta'": "click [element_id] where [element_id] is menuitem 'Vinta Chen vinta'",
+          "stop []": "stop [your_answer]"
+        }
+      },
+      "743_skip_1_abs_None_narr_False_ui_False": {
+        "param": {
+          "config_file": "/tmp/tmpnyl9w9ij/743.json",
+          "skip_step": 1,
+          "abstraction": "None",
+          "narrative": false,
+          "ui_change": false
+        },
+        "mapping": {
+          "click [377] where [377] is link 'New project'": "click [element_id] where [element_id] is link 'New project'",
+          "click [2090] where [2090] is link 'Create blank project Create a blank project to store your files, plan your work, and collaborate on code, among other things.'": "click [element_id] where [element_id] is link 'Create blank project Create a blank project to store your files, plan your work, and collaborate on code, among other things.'",
+          "type [3551] [web_arena ] where [3551] is textbox 'Project name' required: True": "type [element_id] [web_arena ] where [element_id] is textbox 'Project name' required: True",
+          "click [4091] where [4091] is link 'Project information'": "click [element_id] where [element_id] is link 'Project information'",
+          "click [6430] where [6430] is link 'Members'": "click [element_id] where [element_id] is link 'Members'",
+          "click [6783] where [6783] is button 'Invite members'": "click [element_id] where [element_id] is button 'Invite members'",
+          "type [7696] [Abishek ] where [7696] is textbox 'Username or email address' focused: True required: False describedby: __BVID__271__BV_description_": "type [element_id] [Abishek ] where [element_id] is textbox 'Username or email address' focused: True required: False describedby: __BVID__271__BV_description_",
+          "click [7774] where [7774] is menuitem 'Abishek S abisubramanya27'": "click [element_id] where [element_id] is button 'Invite'",
+          "click [7741] where [7741] is button 'Invite'": "click [element_id] where [element_id] is button 'Invite members'",
+          "click [8350] where [8350] is button 'Invite members'": "type [element_id] [Vinta ] where [element_id] is textbox 'Username or email address' focused: True required: False describedby: __BVID__326__BV_description_",
+          "type [9380] [Vinta ] where [9380] is textbox 'Username or email address' focused: True required: False describedby: __BVID__326__BV_description_": "click [element_id] where [element_id] is menuitem 'Vinta Chen vinta'",
+          "click [9458] where [9458] is menuitem 'Vinta Chen vinta'": "stop [your_answer]"
+        }
+      }
+    },
+    "744": {
+      "744_skip_0_abs_None_narr_False_ui_False": {
+        "param": {
+          "config_file": "/tmp/tmpaw2ybzg3/744.json",
+          "skip_step": 0,
+          "abstraction": "None",
+          "narrative": false,
+          "ui_change": false
+        },
+        "mapping": {
+          "click [377] where [377] is link 'New project'": "click [element_id] where [element_id] is link 'New project'",
+          "click [2088] where [2088] is link 'Create blank project Create a blank project to store your files, plan your work, and collaborate on code, among other things.'": "click [element_id] where [element_id] is link 'Create blank project Create a blank project to store your files, plan your work, and collaborate on code, among other things.'",
+          "type [3549] [AutoAGI ] where [3549] is textbox 'Project name' required: True": "type [element_id] [AutoAGI ] where [element_id] is textbox 'Project name' required: True",
+          "click [4089] where [4089] is link 'Project information'": "click [element_id] where [element_id] is link 'Project information'",
+          "click [6428] where [6428] is link 'Members'": "click [element_id] where [element_id] is link 'Members'",
+          "click [6781] where [6781] is button 'Invite members'": "click [element_id] where [element_id] is button 'Invite members'",
+          "type [7694] [primer ] where [7694] is textbox 'Username or email address' focused: True required: False describedby: __BVID__271__BV_description_": "type [element_id] [primer ] where [element_id] is textbox 'Username or email address' focused: True required: False describedby: __BVID__271__BV_description_",
+          "click [7772] where [7772] is menuitem 'Primer primer'": "click [element_id] where [element_id] is menuitem 'Primer primer'",
+          "click [7739] where [7739] is button 'Invite'": "click [element_id] where [element_id] is button 'Invite'",
+          "stop []": "stop [your_answer]"
+        }
+      },
+      "744_skip_1_abs_None_narr_False_ui_False": {
+        "param": {
+          "config_file": "/tmp/tmpaw2ybzg3/744.json",
+          "skip_step": 1,
+          "abstraction": "None",
+          "narrative": false,
+          "ui_change": false
+        },
+        "mapping": {
+          "click [377] where [377] is link 'New project'": "click [element_id] where [element_id] is link 'Create blank project Create a blank project to store your files, plan your work, and collaborate on code, among other things.'",
+          "click [2088] where [2088] is link 'Create blank project Create a blank project to store your files, plan your work, and collaborate on code, among other things.'": "type [element_id] [AutoAGI ] where [element_id] is textbox 'Project name' required: True",
+          "type [3549] [AutoAGI ] where [3549] is textbox 'Project name' required: True": "click [element_id] where [element_id] is link 'Project information'",
+          "click [4089] where [4089] is link 'Project information'": "click [element_id] where [element_id] is link 'Members'",
+          "click [6428] where [6428] is link 'Members'": "click [element_id] where [element_id] is button 'Invite members'",
+          "click [6781] where [6781] is button 'Invite members'": "type [element_id] [primer ] where [element_id] is textbox 'Username or email address' focused: True required: False describedby: __BVID__271__BV_description_",
+          "type [7694] [primer ] where [7694] is textbox 'Username or email address' focused: True required: False describedby: __BVID__271__BV_description_": "click [element_id] where [element_id] is menuitem 'Primer primer'",
+          "click [7772] where [7772] is menuitem 'Primer primer'": "click [element_id] where [element_id] is button 'Invite'",
+          "click [7739] where [7739] is button 'Invite'": "stop [your_answer]"
+        }
+      }
+    },
+    "783": {
+      "783_skip_0_abs_None_narr_False_ui_False": {
+        "param": {
+          "config_file": "/tmp/tmphvbh3qkv/783.json",
+          "skip_step": 0,
+          "abstraction": "None",
+          "narrative": false,
+          "ui_change": false
+        },
+        "mapping": {
+          "type [384] [ffmpeg-python ] where [384] is searchbox 'Filter by name'": "type [element_id] [ffmpeg-python ] where [element_id] is searchbox 'Filter by name'",
+          "stop [N/A]": "stop [your_answer]"
+        }
+      },
+      "783_skip_1_abs_None_narr_False_ui_False": {
+        "param": {
+          "config_file": "/tmp/tmphvbh3qkv/783.json",
+          "skip_step": 1,
+          "abstraction": "None",
+          "narrative": false,
+          "ui_change": false
+        },
+        "mapping": {}
+      }
+    },
+    "789": {
+      "789_skip_0_abs_None_narr_False_ui_False": {
+        "param": {
+          "config_file": "/tmp/tmpuhtj9yh0/789.json",
+          "skip_step": 0,
+          "abstraction": "None",
+          "narrative": false,
+          "ui_change": false
+        },
+        "mapping": {
+          "type [1908] [huggingface ] where [1908] is textbox 'Search GitLab' required: False": "type [element_id] [huggingface ] where [element_id] is textbox 'Search GitLab' required: False",
+          "stop [N/A]": "stop [your_answer]"
+        }
+      },
+      "789_skip_1_abs_None_narr_False_ui_False": {
+        "param": {
+          "config_file": "/tmp/tmpuhtj9yh0/789.json",
+          "skip_step": 1,
+          "abstraction": "None",
+          "narrative": false,
+          "ui_change": false
+        },
+        "mapping": {}
+      }
+    },
+    "799": {
+      "799_skip_0_abs_None_narr_False_ui_False": {
+        "param": {
+          "config_file": "/tmp/tmpupqgagbq/799.json",
+          "skip_step": 0,
+          "abstraction": "None",
+          "narrative": false,
+          "ui_change": false
+        },
+        "mapping": {
+          "click [489] where [489] is link 'Create new...'": "click [element_id] where [element_id] is link 'Create new...'",
+          "click [1920] where [1920] is link 'New group'": "click [element_id] where [element_id] is link 'New group'",
+          "click [2084] where [2084] is link 'Create group Assemble related projects together and grant members access to several projects at once.'": "click [element_id] where [element_id] is link 'Create group Assemble related projects together and grant members access to several projects at once.'",
+          "type [2729] [n-lab ] where [2729] is textbox 'Group name' required: True describedby: __BVID__4__BV_description_": "type [element_id] [n-lab ] where [element_id] is textbox 'Group name' required: True describedby: __BVID__4__BV_description_",
+          "click [3140] where [3140] is link 'Group information'": "click [element_id] where [element_id] is link 'Group information'",
+          "click [4475] where [4475] is link 'Members'": "click [element_id] where [element_id] is link 'Members'",
+          "click [4791] where [4791] is button 'Invite members'": "click [element_id] where [element_id] is button 'Invite members'",
+          "type [5446] [patou ] where [5446] is textbox 'Username or email address' focused: True required: False describedby: __BVID__249__BV_description_": "type [element_id] [patou ] where [element_id] is textbox 'Username or email address' focused: True required: False describedby: __BVID__249__BV_description_",
+          "click [5524] where [5524] is menuitem 'Patrice De Saint Steban patou'": "click [element_id] where [element_id] is menuitem 'Patrice De Saint Steban patou'",
+          "click [5491] where [5491] is button 'Invite'": "click [element_id] where [element_id] is button 'Invite'",
+          "click [6079] where [6079] is button 'Invite members'": "click [element_id] where [element_id] is button 'Invite members'",
+          "type [6857] [egpast ] where [6857] is textbox 'Username or email address' focused: True required: False describedby: __BVID__309__BV_description_": "type [element_id] [egpast ] where [element_id] is textbox 'Username or email address' focused: True required: False describedby: __BVID__309__BV_description_",
+          "click [6935] where [6935] is menuitem 'egpast egpast'": "click [element_id] where [element_id] is menuitem 'egpast egpast'",
+          "click [6902] where [6902] is button 'Invite'": "click [element_id] where [element_id] is button 'Invite'",
+          "click [7496] where [7496] is button 'Invite members'": "click [element_id] where [element_id] is button 'Invite members'",
+          "type [8382] [westurner ] where [8382] is textbox 'Username or email address' focused: True required: False describedby: __BVID__358__BV_description_": "type [element_id] [westurner ] where [element_id] is textbox 'Username or email address' focused: True required: False describedby: __BVID__358__BV_description_",
+          "click [8460] where [8460] is menuitem 'Wes Turner westurner'": "click [element_id] where [element_id] is menuitem 'Wes Turner westurner'",
+          "click [8427] where [8427] is button 'Invite'": "click [element_id] where [element_id] is button 'Invite'",
+          "click [9027] where [9027] is button 'Invite members'": "click [element_id] where [element_id] is button 'Invite members'",
+          "type [10021] [jontutcher ] where [10021] is textbox 'Username or email address' focused: True required: False describedby: __BVID__407__BV_description_": "type [element_id] [jontutcher ] where [element_id] is textbox 'Username or email address' focused: True required: False describedby: __BVID__407__BV_description_",
+          "click [10099] where [10099] is menuitem 'Jon Tutcher jontutcher'": "click [element_id] where [element_id] is menuitem 'Jon Tutcher jontutcher'",
+          "click [10066] where [10066] is button 'Invite'": "click [element_id] where [element_id] is button 'Invite'",
+          "stop []": "stop [your_answer]"
+        }
+      },
+      "799_skip_1_abs_None_narr_False_ui_False": {
+        "param": {
+          "config_file": "/tmp/tmpupqgagbq/799.json",
+          "skip_step": 1,
+          "abstraction": "None",
+          "narrative": false,
+          "ui_change": false
+        },
+        "mapping": {
+          "click [489] where [489] is link 'Create new...'": "click [element_id] where [element_id] is link 'Create new...'",
+          "click [1920] where [1920] is link 'New group'": "click [element_id] where [element_id] is link 'New group'",
+          "click [2084] where [2084] is link 'Create group Assemble related projects together and grant members access to several projects at once.'": "click [element_id] where [element_id] is link 'Create group Assemble related projects together and grant members access to several projects at once.'",
+          "type [2729] [n-lab ] where [2729] is textbox 'Group name' required: True describedby: __BVID__4__BV_description_": "type [element_id] [n-lab ] where [element_id] is textbox 'Group name' required: True describedby: __BVID__4__BV_description_",
+          "click [3140] where [3140] is link 'Group information'": "click [element_id] where [element_id] is link 'Group information'",
+          "click [4475] where [4475] is link 'Members'": "click [element_id] where [element_id] is link 'Members'",
+          "click [4791] where [4791] is button 'Invite members'": "click [element_id] where [element_id] is button 'Invite members'",
+          "type [5446] [patou ] where [5446] is textbox 'Username or email address' focused: True required: False describedby: __BVID__249__BV_description_": "type [element_id] [patou ] where [element_id] is textbox 'Username or email address' focused: True required: False describedby: __BVID__249__BV_description_",
+          "click [5524] where [5524] is menuitem 'Patrice De Saint Steban patou'": "click [element_id] where [element_id] is menuitem 'Patrice De Saint Steban patou'",
+          "click [5491] where [5491] is button 'Invite'": "click [element_id] where [element_id] is button 'Invite'",
+          "click [6079] where [6079] is button 'Invite members'": "click [element_id] where [element_id] is button 'Invite members'",
+          "type [6857] [egpast ] where [6857] is textbox 'Username or email address' focused: True required: False describedby: __BVID__309__BV_description_": "type [element_id] [egpast ] where [element_id] is textbox 'Username or email address' focused: True required: False describedby: __BVID__309__BV_description_",
+          "click [6935] where [6935] is menuitem 'egpast egpast'": "click [element_id] where [element_id] is menuitem 'egpast egpast'",
+          "click [6902] where [6902] is button 'Invite'": "click [element_id] where [element_id] is button 'Invite'",
+          "click [7496] where [7496] is button 'Invite members'": "click [element_id] where [element_id] is button 'Invite members'",
+          "type [8382] [westurner ] where [8382] is textbox 'Username or email address' focused: True required: False describedby: __BVID__358__BV_description_": "click [element_id] where [element_id] is menuitem 'Wes Turner westurner'",
+          "click [8460] where [8460] is menuitem 'Wes Turner westurner'": "click [element_id] where [element_id] is button 'Invite'",
+          "click [8427] where [8427] is button 'Invite'": "click [element_id] where [element_id] is button 'Invite members'",
+          "click [9027] where [9027] is button 'Invite members'": "type [element_id] [jontutcher ] where [element_id] is textbox 'Username or email address' focused: True required: False describedby: __BVID__407__BV_description_",
+          "type [10021] [jontutcher ] where [10021] is textbox 'Username or email address' focused: True required: False describedby: __BVID__407__BV_description_": "click [element_id] where [element_id] is menuitem 'Jon Tutcher jontutcher'",
+          "click [10099] where [10099] is menuitem 'Jon Tutcher jontutcher'": "click [element_id] where [element_id] is button 'Invite'",
+          "click [10066] where [10066] is button 'Invite'": "stop [your_answer]"
+        }
+      }
+    },
+    "800": {
+      "800_skip_0_abs_None_narr_False_ui_False": {
+        "param": {
+          "config_file": "/tmp/tmpmi7082no/800.json",
+          "skip_step": 0,
+          "abstraction": "None",
+          "narrative": false,
+          "ui_change": false
+        },
+        "mapping": {
+          "click [489] where [489] is link 'Create new...'": "click [element_id] where [element_id] is link 'Create new...'",
+          "click [1920] where [1920] is link 'New group'": "click [element_id] where [element_id] is link 'New group'",
+          "click [2084] where [2084] is link 'Create group Assemble related projects together and grant members access to several projects at once.'": "click [element_id] where [element_id] is link 'Create group Assemble related projects together and grant members access to several projects at once.'",
+          "type [2729] [x-lab ] where [2729] is textbox 'Group name' required: True describedby: __BVID__4__BV_description_": "type [element_id] [x-lab ] where [element_id] is textbox 'Group name' required: True describedby: __BVID__4__BV_description_",
+          "click [3140] where [3140] is link 'Group information'": "click [element_id] where [element_id] is link 'Group information'",
+          "click [4475] where [4475] is link 'Members'": "click [element_id] where [element_id] is link 'Members'",
+          "click [4791] where [4791] is button 'Invite members'": "click [element_id] where [element_id] is button 'Invite members'",
+          "type [5446] [JonasVautherin ] where [5446] is textbox 'Username or email address' focused: True required: False describedby: __BVID__249__BV_description_": "type [element_id] [JonasVautherin ] where [element_id] is textbox 'Username or email address' focused: True required: False describedby: __BVID__249__BV_description_",
+          "click [5524] where [5524] is menuitem 'Jonas Vautherin JonasVautherin'": "click [element_id] where [element_id] is menuitem 'Jonas Vautherin JonasVautherin'",
+          "click [5491] where [5491] is button 'Invite'": "click [element_id] where [element_id] is button 'Invite'",
+          "click [6079] where [6079] is button 'Invite members'": "click [element_id] where [element_id] is button 'Invite members'",
+          "type [6857] [dilipchandima ] where [6857] is textbox 'Username or email address' focused: True required: False describedby: __BVID__309__BV_description_": "type [element_id] [dilipchandima ] where [element_id] is textbox 'Username or email address' focused: True required: False describedby: __BVID__309__BV_description_",
+          "click [6935] where [6935] is menuitem 'Dileepa Chandima dilipchandima'": "click [element_id] where [element_id] is menuitem 'Dileepa Chandima dilipchandima'",
+          "click [6902] where [6902] is button 'Invite'": "click [element_id] where [element_id] is button 'Invite'",
+          "click [7496] where [7496] is button 'Invite members'": "click [element_id] where [element_id] is button 'Invite members'",
+          "type [8382] [dawiss1337 ] where [8382] is textbox 'Username or email address' focused: True required: False describedby: __BVID__358__BV_description_": "type [element_id] [dawiss1337 ] where [element_id] is textbox 'Username or email address' focused: True required: False describedby: __BVID__358__BV_description_",
+          "click [8460] where [8460] is menuitem 'Davis dawiss1337'": "click [element_id] where [element_id] is menuitem 'Davis dawiss1337'",
+          "click [8427] where [8427] is button 'Invite'": "click [element_id] where [element_id] is button 'Invite'",
+          "click [9027] where [9027] is button 'Invite members'": "click [element_id] where [element_id] is button 'Invite members'",
+          "type [10021] [bmyun ] where [10021] is textbox 'Username or email address' focused: True required: False describedby: __BVID__407__BV_description_": "type [element_id] [bmyun ] where [element_id] is textbox 'Username or email address' focused: True required: False describedby: __BVID__407__BV_description_",
+          "click [10099] where [10099] is menuitem '\uc724\ubcf4\ubbf8 bmyun'": "click [element_id] where [element_id] is menuitem '\uc724\ubcf4\ubbf8 bmyun'",
+          "click [10066] where [10066] is button 'Invite'": "click [element_id] where [element_id] is button 'Invite'",
+          "click [10672] where [10672] is button 'Invite members'": "click [element_id] where [element_id] is button 'Invite members'",
+          "type [11774] [DCMJY ] where [11774] is textbox 'Username or email address' focused: True required: False describedby: __BVID__456__BV_description_": "type [element_id] [DCMJY ] where [element_id] is textbox 'Username or email address' focused: True required: False describedby: __BVID__456__BV_description_",
+          "click [11852] where [11852] is menuitem 'DCMJY DCMJY'": "click [element_id] where [element_id] is menuitem 'DCMJY DCMJY'",
+          "click [11819] where [11819] is button 'Invite'": "click [element_id] where [element_id] is button 'Invite'",
+          "stop []": "stop [your_answer]"
+        }
+      },
+      "800_skip_1_abs_None_narr_False_ui_False": {
+        "param": {
+          "config_file": "/tmp/tmpmi7082no/800.json",
+          "skip_step": 1,
+          "abstraction": "None",
+          "narrative": false,
+          "ui_change": false
+        },
+        "mapping": {
+          "click [489] where [489] is link 'Create new...'": "click [element_id] where [element_id] is link 'Create new...'",
+          "click [1920] where [1920] is link 'New group'": "click [element_id] where [element_id] is link 'Create group Assemble related projects together and grant members access to several projects at once.'",
+          "click [2084] where [2084] is link 'Create group Assemble related projects together and grant members access to several projects at once.'": "type [element_id] [x-lab ] where [element_id] is textbox 'Group name' required: True describedby: __BVID__4__BV_description_",
+          "type [2729] [x-lab ] where [2729] is textbox 'Group name' required: True describedby: __BVID__4__BV_description_": "click [element_id] where [element_id] is link 'Group information'",
+          "click [3140] where [3140] is link 'Group information'": "click [element_id] where [element_id] is link 'Members'",
+          "click [4475] where [4475] is link 'Members'": "click [element_id] where [element_id] is button 'Invite members'",
+          "click [4791] where [4791] is button 'Invite members'": "type [element_id] [JonasVautherin ] where [element_id] is textbox 'Username or email address' focused: True required: False describedby: __BVID__249__BV_description_",
+          "type [5446] [JonasVautherin ] where [5446] is textbox 'Username or email address' focused: True required: False describedby: __BVID__249__BV_description_": "click [element_id] where [element_id] is menuitem 'Jonas Vautherin JonasVautherin'",
+          "click [5524] where [5524] is menuitem 'Jonas Vautherin JonasVautherin'": "click [element_id] where [element_id] is button 'Invite'",
+          "click [5491] where [5491] is button 'Invite'": "click [element_id] where [element_id] is button 'Invite members'",
+          "click [6079] where [6079] is button 'Invite members'": "type [element_id] [dilipchandima ] where [element_id] is textbox 'Username or email address' focused: True required: False describedby: __BVID__309__BV_description_",
+          "type [6857] [dilipchandima ] where [6857] is textbox 'Username or email address' focused: True required: False describedby: __BVID__309__BV_description_": "click [element_id] where [element_id] is menuitem 'Dileepa Chandima dilipchandima'",
+          "click [6935] where [6935] is menuitem 'Dileepa Chandima dilipchandima'": "click [element_id] where [element_id] is button 'Invite'",
+          "click [6902] where [6902] is button 'Invite'": "click [element_id] where [element_id] is button 'Invite members'",
+          "click [7496] where [7496] is button 'Invite members'": "type [element_id] [dawiss1337 ] where [element_id] is textbox 'Username or email address' focused: True required: False describedby: __BVID__358__BV_description_",
+          "type [8382] [dawiss1337 ] where [8382] is textbox 'Username or email address' focused: True required: False describedby: __BVID__358__BV_description_": "click [element_id] where [element_id] is menuitem 'Davis dawiss1337'",
+          "click [8460] where [8460] is menuitem 'Davis dawiss1337'": "click [element_id] where [element_id] is button 'Invite'",
+          "click [8427] where [8427] is button 'Invite'": "click [element_id] where [element_id] is button 'Invite members'",
+          "click [9027] where [9027] is button 'Invite members'": "type [element_id] [bmyun ] where [element_id] is textbox 'Username or email address' focused: True required: False describedby: __BVID__407__BV_description_",
+          "type [10021] [bmyun ] where [10021] is textbox 'Username or email address' focused: True required: False describedby: __BVID__407__BV_description_": "click [element_id] where [element_id] is menuitem '\uc724\ubcf4\ubbf8 bmyun'",
+          "click [10099] where [10099] is menuitem '\uc724\ubcf4\ubbf8 bmyun'": "click [element_id] where [element_id] is button 'Invite'",
+          "click [10066] where [10066] is button 'Invite'": "click [element_id] where [element_id] is button 'Invite members'",
+          "click [10672] where [10672] is button 'Invite members'": "type [element_id] [DCMJY ] where [element_id] is textbox 'Username or email address' focused: True required: False describedby: __BVID__456__BV_description_",
+          "type [11774] [DCMJY ] where [11774] is textbox 'Username or email address' focused: True required: False describedby: __BVID__456__BV_description_": "click [element_id] where [element_id] is menuitem 'DCMJY DCMJY'",
+          "click [11852] where [11852] is menuitem 'DCMJY DCMJY'": "click [element_id] where [element_id] is button 'Invite'",
+          "click [11819] where [11819] is button 'Invite'": "stop [your_answer]"
+        }
+      }
+    },
+    "801": {
+      "801_skip_0_abs_None_narr_False_ui_False": {
+        "param": {
+          "config_file": "/tmp/tmpwwuaw2bc/801.json",
+          "skip_step": 0,
+          "abstraction": "None",
+          "narrative": false,
+          "ui_change": false
+        },
+        "mapping": {
+          "click [440] where [440] is link 'Create new...'": "click [element_id] where [element_id] is link 'Create new...'",
+          "click [1760] where [1760] is link 'New group'": "click [element_id] where [element_id] is link 'New group'",
+          "click [1929] where [1929] is link 'Create group Assemble related projects together and grant members access to several projects at once.'": "click [element_id] where [element_id] is link 'Create group Assemble related projects together and grant members access to several projects at once.'",
+          "type [2574] [crew ] where [2574] is textbox 'Group name' required: True describedby: __BVID__4__BV_description_": "type [element_id] [crew ] where [element_id] is textbox 'Group name' required: True describedby: __BVID__4__BV_description_",
+          "click [2985] where [2985] is link 'Group information'": "click [element_id] where [element_id] is link 'Group information'",
+          "click [4320] where [4320] is link 'Members'": "click [element_id] where [element_id] is link 'Members'",
+          "click [4636] where [4636] is button 'Invite members'": "click [element_id] where [element_id] is button 'Invite members'",
+          "type [5291] [ASWATFZLLC ] where [5291] is textbox 'Username or email address' focused: True required: False describedby: __BVID__249__BV_description_": "type [element_id] [ASWATFZLLC ] where [element_id] is textbox 'Username or email address' focused: True required: False describedby: __BVID__249__BV_description_",
+          "click [5369] where [5369] is menuitem 'Aswat FZ LLC ASWATFZLLC'": "click [element_id] where [element_id] is menuitem 'Aswat FZ LLC ASWATFZLLC'",
+          "click [5336] where [5336] is button 'Invite'": "click [element_id] where [element_id] is button 'Invite'",
+          "click [5924] where [5924] is button 'Invite members'": "click [element_id] where [element_id] is button 'Invite members'",
+          "type [6702] [patrickhlauke ] where [6702] is textbox 'Username or email address' focused: True required: False describedby: __BVID__309__BV_description_": "type [element_id] [patrickhlauke ] where [element_id] is textbox 'Username or email address' focused: True required: False describedby: __BVID__309__BV_description_",
+          "click [6780] where [6780] is menuitem 'Patrick H. Lauke patrickhlauke'": "click [element_id] where [element_id] is menuitem 'Patrick H. Lauke patrickhlauke'",
+          "click [6747] where [6747] is button 'Invite'": "click [element_id] where [element_id] is button 'Invite'",
+          "click [7341] where [7341] is button 'Invite members'": "click [element_id] where [element_id] is button 'Invite members'",
+          "type [8227] [westurner ] where [8227] is textbox 'Username or email address' focused: True required: False describedby: __BVID__358__BV_description_": "type [element_id] [westurner ] where [element_id] is textbox 'Username or email address' focused: True required: False describedby: __BVID__358__BV_description_",
+          "click [8305] where [8305] is menuitem 'Wes Turner westurner'": "click [element_id] where [element_id] is menuitem 'Wes Turner westurner'",
+          "click [8272] where [8272] is button 'Invite'": "click [element_id] where [element_id] is button 'Invite'",
+          "click [8872] where [8872] is button 'Invite members'": "click [element_id] where [element_id] is button 'Invite members'",
+          "type [9866] [linkmatrix ] where [9866] is textbox 'Username or email address' focused: True required: False describedby: __BVID__407__BV_description_": "type [element_id] [linkmatrix ] where [element_id] is textbox 'Username or email address' focused: True required: False describedby: __BVID__407__BV_description_",
+          "click [9944] where [9944] is menuitem 'Robert linkmatrix'": "click [element_id] where [element_id] is menuitem 'Robert linkmatrix'",
+          "click [9911] where [9911] is button 'Invite'": "click [element_id] where [element_id] is button 'Invite'",
+          "stop []": "stop [your_answer]"
+        }
+      },
+      "801_skip_1_abs_None_narr_False_ui_False": {
+        "param": {
+          "config_file": "/tmp/tmpwwuaw2bc/801.json",
+          "skip_step": 1,
+          "abstraction": "None",
+          "narrative": false,
+          "ui_change": false
+        },
+        "mapping": {
+          "click [440] where [440] is link 'Create new...'": "click [element_id] where [element_id] is link 'Create new...'",
+          "click [1760] where [1760] is link 'New group'": "click [element_id] where [element_id] is link 'New group'",
+          "click [1929] where [1929] is link 'Create group Assemble related projects together and grant members access to several projects at once.'": "click [element_id] where [element_id] is link 'Create group Assemble related projects together and grant members access to several projects at once.'",
+          "type [2574] [crew ] where [2574] is textbox 'Group name' required: True describedby: __BVID__4__BV_description_": "type [element_id] [crew ] where [element_id] is textbox 'Group name' required: True describedby: __BVID__4__BV_description_",
+          "click [2985] where [2985] is link 'Group information'": "click [element_id] where [element_id] is link 'Group information'",
+          "click [4320] where [4320] is link 'Members'": "click [element_id] where [element_id] is link 'Members'",
+          "click [4636] where [4636] is button 'Invite members'": "click [element_id] where [element_id] is button 'Invite members'",
+          "type [5291] [ASWATFZLLC ] where [5291] is textbox 'Username or email address' focused: True required: False describedby: __BVID__249__BV_description_": "type [element_id] [ASWATFZLLC ] where [element_id] is textbox 'Username or email address' focused: True required: False describedby: __BVID__249__BV_description_",
+          "click [5369] where [5369] is menuitem 'Aswat FZ LLC ASWATFZLLC'": "click [element_id] where [element_id] is menuitem 'Aswat FZ LLC ASWATFZLLC'",
+          "click [5336] where [5336] is button 'Invite'": "click [element_id] where [element_id] is button 'Invite members'",
+          "click [5924] where [5924] is button 'Invite members'": "type [element_id] [patrickhlauke ] where [element_id] is textbox 'Username or email address' focused: True required: False describedby: __BVID__309__BV_description_",
+          "type [6702] [patrickhlauke ] where [6702] is textbox 'Username or email address' focused: True required: False describedby: __BVID__309__BV_description_": "click [element_id] where [element_id] is menuitem 'Patrick H. Lauke patrickhlauke'",
+          "click [6780] where [6780] is menuitem 'Patrick H. Lauke patrickhlauke'": "click [element_id] where [element_id] is button 'Invite'",
+          "click [6747] where [6747] is button 'Invite'": "click [element_id] where [element_id] is button 'Invite members'",
+          "click [7341] where [7341] is button 'Invite members'": "type [element_id] [westurner ] where [element_id] is textbox 'Username or email address' focused: True required: False describedby: __BVID__358__BV_description_",
+          "type [8227] [westurner ] where [8227] is textbox 'Username or email address' focused: True required: False describedby: __BVID__358__BV_description_": "click [element_id] where [element_id] is menuitem 'Wes Turner westurner'",
+          "click [8305] where [8305] is menuitem 'Wes Turner westurner'": "click [element_id] where [element_id] is button 'Invite'",
+          "click [8272] where [8272] is button 'Invite'": "click [element_id] where [element_id] is button 'Invite members'",
+          "click [8872] where [8872] is button 'Invite members'": "type [element_id] [linkmatrix ] where [element_id] is textbox 'Username or email address' focused: True required: False describedby: __BVID__407__BV_description_",
+          "type [9866] [linkmatrix ] where [9866] is textbox 'Username or email address' focused: True required: False describedby: __BVID__407__BV_description_": "click [element_id] where [element_id] is menuitem 'Robert linkmatrix'",
+          "click [9944] where [9944] is menuitem 'Robert linkmatrix'": "click [element_id] where [element_id] is button 'Invite'",
+          "click [9911] where [9911] is button 'Invite'": "stop [your_answer]"
+        }
+      }
+    },
+    "802": {
+      "802_skip_1_abs_None_narr_False_ui_False": {
+        "param": {
+          "config_file": "/tmp/tmptw4rshyc/802.json",
+          "skip_step": 1,
+          "abstraction": "None",
+          "narrative": false,
+          "ui_change": false
+        },
+        "mapping": {
+          "click [489] where [489] is link 'Create new...'": "click [element_id] where [element_id] is link 'Create new...'",
+          "click [1920] where [1920] is link 'New group'": "click [element_id] where [element_id] is link 'New group'",
+          "click [2084] where [2084] is link 'Create group Assemble related projects together and grant members access to several projects at once.'": "click [element_id] where [element_id] is link 'Create group Assemble related projects together and grant members access to several projects at once.'",
+          "type [2729] [coding_friends ] where [2729] is textbox 'Group name' required: True describedby: __BVID__4__BV_description_": "type [element_id] [coding_friends ] where [element_id] is textbox 'Group name' required: True describedby: __BVID__4__BV_description_",
+          "click [3140] where [3140] is link 'Group information'": "click [element_id] where [element_id] is link 'Group information'",
+          "click [4475] where [4475] is link 'Members'": "click [element_id] where [element_id] is link 'Members'",
+          "click [4791] where [4791] is button 'Invite members'": "click [element_id] where [element_id] is button 'Invite members'",
+          "type [5446] [qhduan ] where [5446] is textbox 'Username or email address' focused: True required: False describedby: __BVID__249__BV_description_": "type [element_id] [qhduan ] where [element_id] is textbox 'Username or email address' focused: True required: False describedby: __BVID__249__BV_description_",
+          "click [5524] where [5524] is menuitem '\u6bb5\u6e05\u534eDEAN qhduan'": "click [element_id] where [element_id] is menuitem '\u6bb5\u6e05\u534eDEAN qhduan'",
+          "click [5491] where [5491] is button 'Invite'": "click [element_id] where [element_id] is button 'Invite'",
+          "click [6079] where [6079] is button 'Invite members'": "click [element_id] where [element_id] is button 'Invite members'",
+          "type [6857] [Agnes-U ] where [6857] is textbox 'Username or email address' focused: True required: False describedby: __BVID__309__BV_description_": "click [element_id] where [element_id] is menuitem 'Agnes-U Agnes-U'",
+          "click [6935] where [6935] is menuitem 'Agnes-U Agnes-U'": "click [element_id] where [element_id] is button 'Invite'",
+          "click [6902] where [6902] is button 'Invite'": "stop [your_answer]"
+        }
+      },
+      "802_skip_0_abs_None_narr_False_ui_False": {
+        "param": {
+          "config_file": "/tmp/tmptw4rshyc/802.json",
+          "skip_step": 0,
+          "abstraction": "None",
+          "narrative": false,
+          "ui_change": false
+        },
+        "mapping": {
+          "click [489] where [489] is link 'Create new...'": "click [element_id] where [element_id] is link 'Create new...'",
+          "click [1920] where [1920] is link 'New group'": "click [element_id] where [element_id] is link 'New group'",
+          "click [2084] where [2084] is link 'Create group Assemble related projects together and grant members access to several projects at once.'": "click [element_id] where [element_id] is link 'Create group Assemble related projects together and grant members access to several projects at once.'",
+          "type [2729] [coding_friends ] where [2729] is textbox 'Group name' required: True describedby: __BVID__4__BV_description_": "type [element_id] [coding_friends ] where [element_id] is textbox 'Group name' required: True describedby: __BVID__4__BV_description_",
+          "click [3140] where [3140] is link 'Group information'": "click [element_id] where [element_id] is link 'Group information'",
+          "click [4475] where [4475] is link 'Members'": "click [element_id] where [element_id] is link 'Members'",
+          "click [4791] where [4791] is button 'Invite members'": "click [element_id] where [element_id] is button 'Invite members'",
+          "type [5446] [qhduan ] where [5446] is textbox 'Username or email address' focused: True required: False describedby: __BVID__249__BV_description_": "type [element_id] [qhduan ] where [element_id] is textbox 'Username or email address' focused: True required: False describedby: __BVID__249__BV_description_",
+          "click [5524] where [5524] is menuitem '\u6bb5\u6e05\u534eDEAN qhduan'": "click [element_id] where [element_id] is menuitem '\u6bb5\u6e05\u534eDEAN qhduan'",
+          "click [5491] where [5491] is button 'Invite'": "click [element_id] where [element_id] is button 'Invite'",
+          "click [6079] where [6079] is button 'Invite members'": "click [element_id] where [element_id] is button 'Invite members'",
+          "type [6857] [Agnes-U ] where [6857] is textbox 'Username or email address' focused: True required: False describedby: __BVID__309__BV_description_": "type [element_id] [Agnes-U ] where [element_id] is textbox 'Username or email address' focused: True required: False describedby: __BVID__309__BV_description_",
+          "click [6935] where [6935] is menuitem 'Agnes-U Agnes-U'": "click [element_id] where [element_id] is menuitem 'Agnes-U Agnes-U'",
+          "click [6902] where [6902] is button 'Invite'": "click [element_id] where [element_id] is button 'Invite'",
+          "stop []": "stop [your_answer]"
+        }
+      }
+    },
+    "803": {
+      "803_skip_1_abs_None_narr_False_ui_False": {
+        "param": {
+          "config_file": "/tmp/tmptn2gi3ht/803.json",
+          "skip_step": 1,
+          "abstraction": "None",
+          "narrative": false,
+          "ui_change": false
+        },
+        "mapping": {
+          "click [489] where [489] is link 'Create new...'": "click [element_id] where [element_id] is link 'Create new...'",
+          "click [1920] where [1920] is link 'New group'": "click [element_id] where [element_id] is link 'New group'",
+          "click [2084] where [2084] is link 'Create group Assemble related projects together and grant members access to several projects at once.'": "click [element_id] where [element_id] is link 'Create group Assemble related projects together and grant members access to several projects at once.'",
+          "type [2729] [webagent ] where [2729] is textbox 'Group name' required: True describedby: __BVID__4__BV_description_": "type [element_id] [webagent ] where [element_id] is textbox 'Group name' required: True describedby: __BVID__4__BV_description_",
+          "click [3140] where [3140] is link 'Group information'": "click [element_id] where [element_id] is link 'Group information'",
+          "click [4475] where [4475] is link 'Members'": "click [element_id] where [element_id] is link 'Members'",
+          "click [4791] where [4791] is button 'Invite members'": "click [element_id] where [element_id] is button 'Invite members'",
+          "type [5446] [pandey2000 ] where [5446] is textbox 'Username or email address' focused: True required: False describedby: __BVID__249__BV_description_": "type [element_id] [pandey2000 ] where [element_id] is textbox 'Username or email address' focused: True required: False describedby: __BVID__249__BV_description_",
+          "click [5524] where [5524] is menuitem 'Aman Pandey pandey2000'": "click [element_id] where [element_id] is menuitem 'Aman Pandey pandey2000'",
+          "click [5491] where [5491] is button 'Invite'": "click [element_id] where [element_id] is button 'Invite'",
+          "click [6079] where [6079] is button 'Invite members'": "click [element_id] where [element_id] is button 'Invite members'",
+          "type [6857] [sayakpaul ] where [6857] is textbox 'Username or email address' focused: True required: False describedby: __BVID__309__BV_description_": "type [element_id] [sayakpaul ] where [element_id] is textbox 'Username or email address' focused: True required: False describedby: __BVID__309__BV_description_",
+          "click [6935] where [6935] is menuitem 'Sayak Paul sayakpaul'": "click [element_id] where [element_id] is menuitem 'Sayak Paul sayakpaul'",
+          "click [6902] where [6902] is button 'Invite'": "stop [your_answer]"
+        }
+      },
+      "803_skip_0_abs_None_narr_False_ui_False": {
+        "param": {
+          "config_file": "/tmp/tmptn2gi3ht/803.json",
+          "skip_step": 0,
+          "abstraction": "None",
+          "narrative": false,
+          "ui_change": false
+        },
+        "mapping": {
+          "click [489] where [489] is link 'Create new...'": "click [element_id] where [element_id] is link 'Create new...'",
+          "click [1920] where [1920] is link 'New group'": "click [element_id] where [element_id] is link 'New group'",
+          "click [2084] where [2084] is link 'Create group Assemble related projects together and grant members access to several projects at once.'": "click [element_id] where [element_id] is link 'Create group Assemble related projects together and grant members access to several projects at once.'",
+          "type [2729] [webagent ] where [2729] is textbox 'Group name' required: True describedby: __BVID__4__BV_description_": "type [element_id] [webagent ] where [element_id] is textbox 'Group name' required: True describedby: __BVID__4__BV_description_",
+          "click [3140] where [3140] is link 'Group information'": "click [element_id] where [element_id] is link 'Group information'",
+          "click [4475] where [4475] is link 'Members'": "click [element_id] where [element_id] is link 'Members'",
+          "click [4791] where [4791] is button 'Invite members'": "click [element_id] where [element_id] is button 'Invite members'",
+          "type [5446] [pandey2000 ] where [5446] is textbox 'Username or email address' focused: True required: False describedby: __BVID__249__BV_description_": "type [element_id] [pandey2000 ] where [element_id] is textbox 'Username or email address' focused: True required: False describedby: __BVID__249__BV_description_",
+          "click [5524] where [5524] is menuitem 'Aman Pandey pandey2000'": "click [element_id] where [element_id] is menuitem 'Aman Pandey pandey2000'",
+          "click [5491] where [5491] is button 'Invite'": "click [element_id] where [element_id] is button 'Invite'",
+          "click [6079] where [6079] is button 'Invite members'": "click [element_id] where [element_id] is button 'Invite members'",
+          "type [6857] [sayakpaul ] where [6857] is textbox 'Username or email address' focused: True required: False describedby: __BVID__309__BV_description_": "type [element_id] [sayakpaul ] where [element_id] is textbox 'Username or email address' focused: True required: False describedby: __BVID__309__BV_description_",
+          "click [6935] where [6935] is menuitem 'Sayak Paul sayakpaul'": "click [element_id] where [element_id] is menuitem 'Sayak Paul sayakpaul'",
+          "click [6902] where [6902] is button 'Invite'": "click [element_id] where [element_id] is button 'Invite'",
+          "stop []": "stop [your_answer]"
+        }
+      }
+    },
+    "810": {
+      "810_skip_1_abs_None_narr_False_ui_False": {
+        "param": {
+          "config_file": "/tmp/tmpj4kxqvfu/810.json",
+          "skip_step": 1,
+          "abstraction": "None",
+          "narrative": false,
+          "ui_change": false
+        },
+        "mapping": {
+          "type [384] [primer design ] where [384] is searchbox 'Filter by name'": "type [element_id] [primer design ] where [element_id] is searchbox 'Filter by name'",
+          "click [2212] where [2212] is heading 'Primer / design'": "click [element_id] where [element_id] is heading 'Primer / design'",
+          "click [2995] where [2995] is link 'Issues'": "click [element_id] where [element_id] is link 'Issues'; There are multiple Issues on the page, this specific one is between ' link 'Repository'' and ' StaticText '21''. Above: ' link 'Project information''. Below: ' link 'Merge requests''.",
+          "type [5296] [flash alerts ] where [5296] is textbox 'Search or filter results...' required: False": "type [element_id] [flash alerts ] where [element_id] is textbox 'Search or filter results...' required: False",
+          "click [7033] where [7033] is link 'Clarify usage of flash alert'": "click [element_id] where [element_id] is link 'Clarify usage of flash alert'",
+          "click [8689] where [8689] is button 'assign yourself'": "click [element_id] where [element_id] is button 'assign yourself'",
+          "click [7695] where [7695] is link 'Issues'": "click [element_id] where [element_id] is link 'Issues'; There are multiple Issues on the page, this specific one is between ' link 'design'' and ' link '#316''. Above: ' link 'Primer''. Below: ' main '''.",
+          "type [10064] [flash alerts ] where [10064] is textbox 'Search or filter results...' required: False": "type [element_id] [flash alerts ] where [element_id] is textbox 'Search or filter results...' required: False",
+          "click [11813] where [11813] is link 'Add documentation on using Flash alerts in dialog components'": "click [element_id] where [element_id] is link 'Add documentation on using Flash alerts in dialog components'",
+          "click [13426] where [13426] is link 'Edit'": "click [element_id] where [element_id] is link 'Byte Blaze @byteblaze'",
+          "click [14162] where [14162] is link 'Byte Blaze @byteblaze'": "stop [your_answer]"
+        }
+      },
+      "810_skip_0_abs_None_narr_False_ui_False": {
+        "param": {
+          "config_file": "/tmp/tmpj4kxqvfu/810.json",
+          "skip_step": 0,
+          "abstraction": "None",
+          "narrative": false,
+          "ui_change": false
+        },
+        "mapping": {
+          "type [384] [primer design ] where [384] is searchbox 'Filter by name'": "type [element_id] [primer design ] where [element_id] is searchbox 'Filter by name'",
+          "click [2212] where [2212] is heading 'Primer / design'": "click [element_id] where [element_id] is heading 'Primer / design'",
+          "click [2995] where [2995] is link 'Issues'": "click [element_id] where [element_id] is link 'Issues'; There are multiple Issues on the page, this specific one is between ' link 'Repository'' and ' StaticText '21''. Above: ' link 'Project information''. Below: ' link 'Merge requests''.",
+          "type [5296] [flash alerts ] where [5296] is textbox 'Search or filter results...' required: False": "type [element_id] [flash alerts ] where [element_id] is textbox 'Search or filter results...' required: False",
+          "click [7033] where [7033] is link 'Clarify usage of flash alert'": "click [element_id] where [element_id] is link 'Clarify usage of flash alert'",
+          "click [8689] where [8689] is button 'assign yourself'": "click [element_id] where [element_id] is button 'assign yourself'",
+          "click [7695] where [7695] is link 'Issues'": "click [element_id] where [element_id] is link 'Issues'; There are multiple Issues on the page, this specific one is between ' link 'design'' and ' link '#316''. Above: ' link 'Primer''. Below: ' main '''.",
+          "type [10064] [flash alerts ] where [10064] is textbox 'Search or filter results...' required: False": "type [element_id] [flash alerts ] where [element_id] is textbox 'Search or filter results...' required: False",
+          "click [11813] where [11813] is link 'Add documentation on using Flash alerts in dialog components'": "click [element_id] where [element_id] is link 'Add documentation on using Flash alerts in dialog components'",
+          "click [13426] where [13426] is link 'Edit'": "click [element_id] where [element_id] is link 'Edit'; There are multiple Edit on the page, this specific one is between ' StaticText 'Assignee'' and ' link \"Inayaili Le\u00f3n's avatar Inayaili Le\u00f3n\"'. Above: ' button 'Add a to do''. Below: ' img \"Inayaili Le\u00f3n's avatar\"'.",
+          "click [14162] where [14162] is link 'Byte Blaze @byteblaze'": "click [element_id] where [element_id] is link 'Byte Blaze @byteblaze'",
+          "stop []": "stop [your_answer]"
+        }
+      }
+    },
+    "811": {
+      "811_skip_0_abs_None_narr_False_ui_False": {
+        "param": {
+          "config_file": "/tmp/tmpbrr33iyw/811.json",
+          "skip_step": 0,
+          "abstraction": "None",
+          "narrative": false,
+          "ui_change": false
+        },
+        "mapping": {
+          "click [551] where [551] is heading 'The A11Y Project / a11yproject.com'": "click [element_id] where [element_id] is heading 'The A11Y Project / a11yproject.com'",
+          "click [2411] where [2411] is link 'Issues'": "click [element_id] where [element_id] is link 'Issues'; There are multiple Issues on the page, this specific one is between ' link 'Repository'' and ' StaticText '42''. Above: ' link 'Project information''. Below: ' link 'Merge requests''.",
+          "type [5053] [404 ] where [5053] is textbox 'Search or filter results...' required: False": "type [element_id] [404 ] where [element_id] is textbox 'Search or filter results...' required: False",
+          "click [6953] where [6953] is link '[Bug] 404s, bad host, timeouts, bad urls for URLs linked from website '": "click [element_id] where [element_id] is link '[Bug] 404s, bad host, timeouts, bad urls for URLs linked from website '",
+          "click [9333] where [9333] is link 'Edit'": "click [element_id] where [element_id] is link 'Edit'; There are multiple Edit on the page, this specific one is between ' StaticText 'Assignee'' and ' link \"Roshan Jossy's avatar Roshan Jossy\"'. Above: ' button 'Add a to do''. Below: ' img \"Roshan Jossy's avatar\"'.",
+          "click [10556] where [10556] is link 'Byte Blaze @byteblaze'": "click [element_id] where [element_id] is link 'Byte Blaze @byteblaze'",
+          "stop []": "stop [your_answer]"
+        }
+      },
+      "811_skip_1_abs_None_narr_False_ui_False": {
+        "param": {
+          "config_file": "/tmp/tmpbrr33iyw/811.json",
+          "skip_step": 1,
+          "abstraction": "None",
+          "narrative": false,
+          "ui_change": false
+        },
+        "mapping": {
+          "click [551] where [551] is heading 'The A11Y Project / a11yproject.com'": "click [element_id] where [element_id] is heading 'The A11Y Project / a11yproject.com'",
+          "click [2411] where [2411] is link 'Issues'": "click [element_id] where [element_id] is link 'Issues'; There are multiple Issues on the page, this specific one is between ' link 'Repository'' and ' StaticText '42''. Above: ' link 'Project information''. Below: ' link 'Merge requests''.",
+          "type [5053] [404 ] where [5053] is textbox 'Search or filter results...' required: False": "type [element_id] [404 ] where [element_id] is textbox 'Search or filter results...' required: False",
+          "click [6953] where [6953] is link '[Bug] 404s, bad host, timeouts, bad urls for URLs linked from website '": "click [element_id] where [element_id] is link '[Bug] 404s, bad host, timeouts, bad urls for URLs linked from website '",
+          "click [9333] where [9333] is link 'Edit'": "click [element_id] where [element_id] is link 'Byte Blaze @byteblaze'",
+          "click [10556] where [10556] is link 'Byte Blaze @byteblaze'": "stop [your_answer]"
+        }
+      }
+    }
+  }
+}

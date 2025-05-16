@@ -1,0 +1,2220 @@
+{
+  "shopping_admin": {
+    "0": {
+      "0_skip_0_abs_None_narr_False_ui_False": {
+        "param": {
+          "config_file": "/tmp/tmpxw6s0v_h/0.json",
+          "skip_step": 0,
+          "abstraction": "None",
+          "narrative": false,
+          "ui_change": false
+        },
+        "mapping": {
+          "click [754] where [754] is link '\\ue60a REPORTS' url: http://luma.com/admin/admin/dashboard/#": "click [element_id] where [element_id] is link '\\ue60a REPORTS' url: http://luma.com/admin/admin/dashboard/#",
+          "click [846] where [846] is link 'Bestsellers' url: http://luma.com/admin/reports/report_sales/bestsellers/": "click [element_id] where [element_id] is link 'Bestsellers' url: http://luma.com/admin/reports/report_sales/bestsellers/; There are multiple Bestsellers on the page, this specific one is between ' link 'Views' url: http://141.212.113.63:7780/admin/reports/report_product/viewed/' and ' link 'Low Stock' url: http://141.212.113.63:7780/admin/reports/report_product/lowstock/'. Above: ' menu '' orientation: vertical'. Below: ' link 'Ordered' url: http://141.212.113.63:7780/admin/reports/report_product/sold/'.",
+          "type [2730] [Year ] where [2730] is combobox 'Period' hasPopup: menu expanded: False": "type [element_id] [Year ] where [element_id] is combobox 'Period' hasPopup: menu expanded: False",
+          "type [2740] [1/1/22 ] where [2740] is textbox 'From *' required: True": "type [element_id] [1/1/22 ] where [element_id] is textbox 'From *' required: True",
+          "type [2746] [12/31/22 ] where [2746] is textbox 'To *' required: True": "type [element_id] [12/31/22 ] where [element_id] is textbox 'To *' required: True",
+          "click [2703] where [2703] is button 'Show Report'": "click [element_id] where [element_id] is button 'Show Report'",
+          "scroll [down]": "scroll [down]",
+          "stop [Quest Lumaflex\u2122 Band]": "stop [your_answer]"
+        }
+      },
+      "0_skip_1_abs_None_narr_False_ui_False": {
+        "param": {
+          "config_file": "/tmp/tmpxw6s0v_h/0.json",
+          "skip_step": 1,
+          "abstraction": "None",
+          "narrative": false,
+          "ui_change": false
+        },
+        "mapping": {
+          "click [754] where [754] is link '\\ue60a REPORTS' url: http://luma.com/admin/admin/dashboard/#": "click [element_id] where [element_id] is link '\\ue60a REPORTS' url: http://luma.com/admin/admin/dashboard/#",
+          "click [846] where [846] is link 'Bestsellers' url: http://luma.com/admin/reports/report_sales/bestsellers/": "type [element_id] [Year ] where [element_id] is combobox 'Period' hasPopup: menu expanded: False",
+          "type [2730] [Year ] where [2730] is combobox 'Period' hasPopup: menu expanded: False": "type [element_id] [1/1/22 ] where [element_id] is textbox 'From *' required: True",
+          "type [2740] [1/1/22 ] where [2740] is textbox 'From *' required: True": "type [element_id] [12/31/22 ] where [element_id] is textbox 'To *' required: True",
+          "type [2746] [12/31/22 ] where [2746] is textbox 'To *' required: True": "click [element_id] where [element_id] is button 'Show Report'",
+          "click [2703] where [2703] is button 'Show Report'": "scroll [down]",
+          "scroll [down]": "stop [your_answer]"
+        }
+      }
+    },
+    "1": {
+      "1_skip_0_abs_None_narr_False_ui_False": {
+        "param": {
+          "config_file": "/tmp/tmp5o003qcq/1.json",
+          "skip_step": 0,
+          "abstraction": "None",
+          "narrative": false,
+          "ui_change": false
+        },
+        "mapping": {
+          "click [739] where [739] is link '\\ue60a REPORTS' url: http://luma.com/admin/admin/dashboard/#": "click [element_id] where [element_id] is link '\\ue60a REPORTS' url: http://luma.com/admin/admin/dashboard/#",
+          "click [831] where [831] is link 'Bestsellers' url: http://luma.com/admin/reports/report_sales/bestsellers/": "click [element_id] where [element_id] is link 'Bestsellers' url: http://luma.com/admin/reports/report_sales/bestsellers/; There are multiple Bestsellers on the page, this specific one is between ' link 'Views' url: http://141.212.113.63:7780/admin/reports/report_product/viewed/' and ' link 'Low Stock' url: http://141.212.113.63:7780/admin/reports/report_product/lowstock/'. Above: ' menu '' orientation: vertical'. Below: ' link 'Ordered' url: http://141.212.113.63:7780/admin/reports/report_product/sold/'.",
+          "type [2880] [Month ] where [2880] is combobox 'Period' hasPopup: menu expanded: False": "type [element_id] [Month ] where [element_id] is combobox 'Period' hasPopup: menu expanded: False",
+          "type [2890] [1/1/22 ] where [2890] is textbox 'From *' required: True": "type [element_id] [1/1/22 ] where [element_id] is textbox 'From *' required: True",
+          "type [2896] [4/30/22 ] where [2896] is textbox 'To *' required: True": "type [element_id] [4/30/22 ] where [element_id] is textbox 'To *' required: True",
+          "click [2853] where [2853] is button 'Show Report'": "click [element_id] where [element_id] is button 'Show Report'",
+          "scroll [down]": "scroll [down]",
+          "stop [Sprite]": "stop [your_answer]"
+        }
+      },
+      "1_skip_1_abs_None_narr_False_ui_False": {
+        "param": {
+          "config_file": "/tmp/tmp5o003qcq/1.json",
+          "skip_step": 1,
+          "abstraction": "None",
+          "narrative": false,
+          "ui_change": false
+        },
+        "mapping": {
+          "click [739] where [739] is link '\\ue60a REPORTS' url: http://luma.com/admin/admin/dashboard/#": "click [element_id] where [element_id] is link '\\ue60a REPORTS' url: http://luma.com/admin/admin/dashboard/#",
+          "click [831] where [831] is link 'Bestsellers' url: http://luma.com/admin/reports/report_sales/bestsellers/": "click [element_id] where [element_id] is link 'Bestsellers' url: http://luma.com/admin/reports/report_sales/bestsellers/; There are multiple Bestsellers on the page, this specific one is between ' link 'Views' url: http://141.212.113.63:7780/admin/reports/report_product/viewed/' and ' link 'Low Stock' url: http://141.212.113.63:7780/admin/reports/report_product/lowstock/'. Above: ' menu '' orientation: vertical'. Below: ' link 'Ordered' url: http://141.212.113.63:7780/admin/reports/report_product/sold/'.",
+          "type [2880] [Month ] where [2880] is combobox 'Period' hasPopup: menu expanded: False": "type [element_id] [Month ] where [element_id] is combobox 'Period' hasPopup: menu expanded: False",
+          "type [2890] [1/1/22 ] where [2890] is textbox 'From *' required: True": "type [element_id] [1/1/22 ] where [element_id] is textbox 'From *' required: True",
+          "type [2896] [4/30/22 ] where [2896] is textbox 'To *' required: True": "click [element_id] where [element_id] is button 'Show Report'",
+          "click [2853] where [2853] is button 'Show Report'": "scroll [down]",
+          "scroll [down]": "stop [your_answer]"
+        }
+      }
+    },
+    "3": {
+      "3_skip_0_abs_None_narr_False_ui_False": {
+        "param": {
+          "config_file": "/tmp/tmpui0ko1dz/3.json",
+          "skip_step": 0,
+          "abstraction": "None",
+          "narrative": false,
+          "ui_change": false
+        },
+        "mapping": {
+          "click [746] where [746] is link '\\ue60a REPORTS' url: http://luma.com/admin/admin/dashboard/#": "click [element_id] where [element_id] is link '\\ue60a REPORTS' url: http://luma.com/admin/admin/dashboard/#",
+          "click [838] where [838] is link 'Bestsellers' url: http://luma.com/admin/reports/report_sales/bestsellers/": "click [element_id] where [element_id] is link 'Bestsellers' url: http://luma.com/admin/reports/report_sales/bestsellers/; There are multiple Bestsellers on the page, this specific one is between ' link 'Views' url: http://141.212.113.63:7780/admin/reports/report_product/viewed/' and ' link 'Low Stock' url: http://141.212.113.63:7780/admin/reports/report_product/lowstock/'. Above: ' menu '' orientation: vertical'. Below: ' link 'Ordered' url: http://141.212.113.63:7780/admin/reports/report_product/sold/'.",
+          "type [2880] [Year ] where [2880] is combobox 'Period' hasPopup: menu expanded: False": "type [element_id] [Year ] where [element_id] is combobox 'Period' hasPopup: menu expanded: False",
+          "type [2890] [1/1/22 ] where [2890] is textbox 'From *' required: True": "type [element_id] [1/1/22 ] where [element_id] is textbox 'From *' required: True",
+          "type [2896] [12/31/22 ] where [2896] is textbox 'To *' required: True": "type [element_id] [12/31/22 ] where [element_id] is textbox 'To *' required: True",
+          "click [2853] where [2853] is button 'Show Report'": "click [element_id] where [element_id] is button 'Show Report'",
+          "scroll [down]": "scroll [down]",
+          "stop [Quest Lumaflex\u2122 Band, Sprite Stasis Ball 55 cm, Sprite Stasis Ball 65 cm, Cruise Dual Analog Watch, Sprite Stasis Ball 75 cm]": "stop [your_answer]"
+        }
+      },
+      "3_skip_1_abs_None_narr_False_ui_False": {
+        "param": {
+          "config_file": "/tmp/tmpui0ko1dz/3.json",
+          "skip_step": 1,
+          "abstraction": "None",
+          "narrative": false,
+          "ui_change": false
+        },
+        "mapping": {
+          "click [746] where [746] is link '\\ue60a REPORTS' url: http://luma.com/admin/admin/dashboard/#": "click [element_id] where [element_id] is link '\\ue60a REPORTS' url: http://luma.com/admin/admin/dashboard/#",
+          "click [838] where [838] is link 'Bestsellers' url: http://luma.com/admin/reports/report_sales/bestsellers/": "click [element_id] where [element_id] is link 'Bestsellers' url: http://luma.com/admin/reports/report_sales/bestsellers/; There are multiple Bestsellers on the page, this specific one is between ' link 'Views' url: http://141.212.113.63:7780/admin/reports/report_product/viewed/' and ' link 'Low Stock' url: http://141.212.113.63:7780/admin/reports/report_product/lowstock/'. Above: ' menu '' orientation: vertical'. Below: ' link 'Ordered' url: http://141.212.113.63:7780/admin/reports/report_product/sold/'.",
+          "type [2880] [Year ] where [2880] is combobox 'Period' hasPopup: menu expanded: False": "type [element_id] [Year ] where [element_id] is combobox 'Period' hasPopup: menu expanded: False",
+          "type [2890] [1/1/22 ] where [2890] is textbox 'From *' required: True": "type [element_id] [1/1/22 ] where [element_id] is textbox 'From *' required: True",
+          "type [2896] [12/31/22 ] where [2896] is textbox 'To *' required: True": "type [element_id] [12/31/22 ] where [element_id] is textbox 'To *' required: True",
+          "click [2853] where [2853] is button 'Show Report'": "click [element_id] where [element_id] is button 'Show Report'",
+          "scroll [down]": "stop [your_answer]"
+        }
+      }
+    },
+    "4": {
+      "4_skip_0_abs_None_narr_False_ui_False": {
+        "param": {
+          "config_file": "/tmp/tmpkse0b5e0/4.json",
+          "skip_step": 0,
+          "abstraction": "None",
+          "narrative": false,
+          "ui_change": false
+        },
+        "mapping": {
+          "click [753] where [753] is link '\\ue60a REPORTS' url: http://luma.com/admin/admin/dashboard/#": "click [element_id] where [element_id] is link '\\ue60a REPORTS' url: http://luma.com/admin/admin/dashboard/#",
+          "click [845] where [845] is link 'Bestsellers' url: http://luma.com/admin/reports/report_sales/bestsellers/": "click [element_id] where [element_id] is link 'Bestsellers' url: http://luma.com/admin/reports/report_sales/bestsellers/; There are multiple Bestsellers on the page, this specific one is between ' link 'Views' url: http://141.212.113.63:7780/admin/reports/report_product/viewed/' and ' link 'Low Stock' url: http://141.212.113.63:7780/admin/reports/report_product/lowstock/'. Above: ' menu '' orientation: vertical'. Below: ' link 'Ordered' url: http://141.212.113.63:7780/admin/reports/report_product/sold/'.",
+          "type [2886] [Month ] where [2886] is combobox 'Period' hasPopup: menu expanded: False": "type [element_id] [Month ] where [element_id] is combobox 'Period' hasPopup: menu expanded: False",
+          "type [2896] [1/1/23 ] where [2896] is textbox 'From *' required: True": "type [element_id] [1/1/23 ] where [element_id] is textbox 'From *' required: True",
+          "type [2902] [12/31/23 ] where [2902] is textbox 'To *' required: True": "type [element_id] [12/31/23 ] where [element_id] is textbox 'To *' required: True",
+          "click [2859] where [2859] is button 'Show Report'": "click [element_id] where [element_id] is button 'Show Report'",
+          "scroll [down]": "scroll [down]",
+          "stop [Overnight Duffle, Hawkeye Yoga Short-32-Blue, Impulse Duffle]": "stop [your_answer]"
+        }
+      },
+      "4_skip_1_abs_None_narr_False_ui_False": {
+        "param": {
+          "config_file": "/tmp/tmpkse0b5e0/4.json",
+          "skip_step": 1,
+          "abstraction": "None",
+          "narrative": false,
+          "ui_change": false
+        },
+        "mapping": {
+          "click [753] where [753] is link '\\ue60a REPORTS' url: http://luma.com/admin/admin/dashboard/#": "click [element_id] where [element_id] is link '\\ue60a REPORTS' url: http://luma.com/admin/admin/dashboard/#",
+          "click [845] where [845] is link 'Bestsellers' url: http://luma.com/admin/reports/report_sales/bestsellers/": "click [element_id] where [element_id] is link 'Bestsellers' url: http://luma.com/admin/reports/report_sales/bestsellers/; There are multiple Bestsellers on the page, this specific one is between ' link 'Views' url: http://141.212.113.63:7780/admin/reports/report_product/viewed/' and ' link 'Low Stock' url: http://141.212.113.63:7780/admin/reports/report_product/lowstock/'. Above: ' menu '' orientation: vertical'. Below: ' link 'Ordered' url: http://141.212.113.63:7780/admin/reports/report_product/sold/'.",
+          "type [2886] [Month ] where [2886] is combobox 'Period' hasPopup: menu expanded: False": "type [element_id] [Month ] where [element_id] is combobox 'Period' hasPopup: menu expanded: False",
+          "type [2896] [1/1/23 ] where [2896] is textbox 'From *' required: True": "type [element_id] [1/1/23 ] where [element_id] is textbox 'From *' required: True",
+          "type [2902] [12/31/23 ] where [2902] is textbox 'To *' required: True": "type [element_id] [12/31/23 ] where [element_id] is textbox 'To *' required: True",
+          "click [2859] where [2859] is button 'Show Report'": "click [element_id] where [element_id] is button 'Show Report'",
+          "scroll [down]": "stop [your_answer]"
+        }
+      }
+    },
+    "11": {
+      "11_skip_0_abs_None_narr_False_ui_False": {
+        "param": {
+          "config_file": "/tmp/tmpbieogf21/11.json",
+          "skip_step": 0,
+          "abstraction": "None",
+          "narrative": false,
+          "ui_change": false
+        },
+        "mapping": {
+          "click [637] where [637] is link '\\ue609 MARKETING' url: http://luma.com/admin/admin/dashboard/#": "click [element_id] where [element_id] is link '\\ue609 MARKETING' url: http://luma.com/admin/admin/dashboard/#",
+          "click [698] where [698] is link 'All Reviews' url: http://luma.com/admin/review/product/index/": "click [element_id] where [element_id] is link 'All Reviews' url: http://luma.com/admin/review/product/index/",
+          "type [3148] [disappointed ] where [3148] is textbox '' required: False": "type [element_id] [disappointed ] where [element_id] is textbox '' required: False",
+          "stop [6]": "stop [your_answer]"
+        }
+      },
+      "11_skip_1_abs_None_narr_False_ui_False": {
+        "param": {
+          "config_file": "/tmp/tmpbieogf21/11.json",
+          "skip_step": 1,
+          "abstraction": "None",
+          "narrative": false,
+          "ui_change": false
+        },
+        "mapping": {
+          "click [637] where [637] is link '\\ue609 MARKETING' url: http://luma.com/admin/admin/dashboard/#": "click [element_id] where [element_id] is link 'All Reviews' url: http://luma.com/admin/review/product/index/",
+          "click [698] where [698] is link 'All Reviews' url: http://luma.com/admin/review/product/index/": "type [element_id] [disappointed ] where [element_id] is textbox '' required: False",
+          "type [3148] [disappointed ] where [3148] is textbox '' required: False": "stop [your_answer]"
+        }
+      }
+    },
+    "12": {
+      "12_skip_0_abs_None_narr_False_ui_False": {
+        "param": {
+          "config_file": "/tmp/tmpnj4gfrwa/12.json",
+          "skip_step": 0,
+          "abstraction": "None",
+          "narrative": false,
+          "ui_change": false
+        },
+        "mapping": {
+          "click [626] where [626] is link '\\ue609 MARKETING' url: http://luma.com/admin/admin/dashboard/#": "click [element_id] where [element_id] is link '\\ue609 MARKETING' url: http://luma.com/admin/admin/dashboard/#",
+          "click [687] where [687] is link 'All Reviews' url: http://luma.com/admin/review/product/index/": "click [element_id] where [element_id] is link 'All Reviews' url: http://luma.com/admin/review/product/index/",
+          "type [3148] [satisfied ] where [3148] is textbox '' required: False": "type [element_id] [satisfied ] where [element_id] is textbox '' required: False",
+          "stop [2]": "stop [your_answer]"
+        }
+      },
+      "12_skip_1_abs_None_narr_False_ui_False": {
+        "param": {
+          "config_file": "/tmp/tmpnj4gfrwa/12.json",
+          "skip_step": 1,
+          "abstraction": "None",
+          "narrative": false,
+          "ui_change": false
+        },
+        "mapping": {
+          "click [626] where [626] is link '\\ue609 MARKETING' url: http://luma.com/admin/admin/dashboard/#": "click [element_id] where [element_id] is link '\\ue609 MARKETING' url: http://luma.com/admin/admin/dashboard/#",
+          "click [687] where [687] is link 'All Reviews' url: http://luma.com/admin/review/product/index/": "type [element_id] [satisfied ] where [element_id] is textbox '' required: False",
+          "type [3148] [satisfied ] where [3148] is textbox '' required: False": "stop [your_answer]"
+        }
+      }
+    },
+    "13": {
+      "13_skip_0_abs_None_narr_False_ui_False": {
+        "param": {
+          "config_file": "/tmp/tmpa_k87v6y/13.json",
+          "skip_step": 0,
+          "abstraction": "None",
+          "narrative": false,
+          "ui_change": false
+        },
+        "mapping": {
+          "click [625] where [625] is link '\\ue609 MARKETING' url: http://luma.com/admin/admin/dashboard/#": "click [element_id] where [element_id] is link '\\ue609 MARKETING' url: http://luma.com/admin/admin/dashboard/#",
+          "click [686] where [686] is link 'All Reviews' url: http://luma.com/admin/review/product/index/": "click [element_id] where [element_id] is link 'All Reviews' url: http://luma.com/admin/review/product/index/",
+          "type [3148] [decent ] where [3148] is textbox '' required: False": "type [element_id] [decent ] where [element_id] is textbox '' required: False",
+          "stop [2]": "stop [your_answer]"
+        }
+      },
+      "13_skip_1_abs_None_narr_False_ui_False": {
+        "param": {
+          "config_file": "/tmp/tmpa_k87v6y/13.json",
+          "skip_step": 1,
+          "abstraction": "None",
+          "narrative": false,
+          "ui_change": false
+        },
+        "mapping": {
+          "click [625] where [625] is link '\\ue609 MARKETING' url: http://luma.com/admin/admin/dashboard/#": "click [element_id] where [element_id] is link 'All Reviews' url: http://luma.com/admin/review/product/index/",
+          "click [686] where [686] is link 'All Reviews' url: http://luma.com/admin/review/product/index/": "type [element_id] [decent ] where [element_id] is textbox '' required: False",
+          "type [3148] [decent ] where [3148] is textbox '' required: False": "stop [your_answer]"
+        }
+      }
+    },
+    "14": {
+      "14_skip_0_abs_None_narr_False_ui_False": {
+        "param": {
+          "config_file": "/tmp/tmpp29bc5d9/14.json",
+          "skip_step": 0,
+          "abstraction": "None",
+          "narrative": false,
+          "ui_change": false
+        },
+        "mapping": {
+          "click [641] where [641] is link '\\ue609 MARKETING' url: http://luma.com/admin/admin/dashboard/#": "click [element_id] where [element_id] is link '\\ue609 MARKETING' url: http://luma.com/admin/admin/dashboard/#",
+          "click [702] where [702] is link 'All Reviews' url: http://luma.com/admin/review/product/index/": "click [element_id] where [element_id] is link 'All Reviews' url: http://luma.com/admin/review/product/index/",
+          "type [3148] [not useful ] where [3148] is textbox '' required: False": "type [element_id] [not useful ] where [element_id] is textbox '' required: False",
+          "stop [0]": "stop [your_answer]"
+        }
+      },
+      "14_skip_1_abs_None_narr_False_ui_False": {
+        "param": {
+          "config_file": "/tmp/tmpp29bc5d9/14.json",
+          "skip_step": 1,
+          "abstraction": "None",
+          "narrative": false,
+          "ui_change": false
+        },
+        "mapping": {
+          "click [641] where [641] is link '\\ue609 MARKETING' url: http://luma.com/admin/admin/dashboard/#": "click [element_id] where [element_id] is link '\\ue609 MARKETING' url: http://luma.com/admin/admin/dashboard/#",
+          "click [702] where [702] is link 'All Reviews' url: http://luma.com/admin/review/product/index/": "type [element_id] [not useful ] where [element_id] is textbox '' required: False",
+          "type [3148] [not useful ] where [3148] is textbox '' required: False": "stop [your_answer]"
+        }
+      }
+    },
+    "15": {
+      "15_skip_0_abs_None_narr_False_ui_False": {
+        "param": {
+          "config_file": "/tmp/tmp_5ujynv6/15.json",
+          "skip_step": 0,
+          "abstraction": "None",
+          "narrative": false,
+          "ui_change": false
+        },
+        "mapping": {
+          "click [641] where [641] is link '\\ue609 MARKETING' url: http://luma.com/admin/admin/dashboard/#": "click [element_id] where [element_id] is link '\\ue609 MARKETING' url: http://luma.com/admin/admin/dashboard/#",
+          "click [702] where [702] is link 'All Reviews' url: http://luma.com/admin/review/product/index/": "click [element_id] where [element_id] is link 'All Reviews' url: http://luma.com/admin/review/product/index/",
+          "type [3148] [best ] where [3148] is textbox '' required: False": "type [element_id] [best ] where [element_id] is textbox '' required: False",
+          "stop [2]": "stop [your_answer]"
+        }
+      },
+      "15_skip_1_abs_None_narr_False_ui_False": {
+        "param": {
+          "config_file": "/tmp/tmp_5ujynv6/15.json",
+          "skip_step": 1,
+          "abstraction": "None",
+          "narrative": false,
+          "ui_change": false
+        },
+        "mapping": {
+          "click [641] where [641] is link '\\ue609 MARKETING' url: http://luma.com/admin/admin/dashboard/#": "click [element_id] where [element_id] is link '\\ue609 MARKETING' url: http://luma.com/admin/admin/dashboard/#",
+          "click [702] where [702] is link 'All Reviews' url: http://luma.com/admin/review/product/index/": "type [element_id] [best ] where [element_id] is textbox '' required: False",
+          "type [3148] [best ] where [3148] is textbox '' required: False": "stop [your_answer]"
+        }
+      }
+    },
+    "41": {
+      "41_skip_0_abs_None_narr_False_ui_False": {
+        "param": {
+          "config_file": "/tmp/tmpencxbu1e/41.json",
+          "skip_step": 0,
+          "abstraction": "None",
+          "narrative": false,
+          "ui_change": false
+        },
+        "mapping": {
+          "click [739] where [739] is link '\\ue60a REPORTS' url: http://luma.com/admin/admin/dashboard/#": "click [element_id] where [element_id] is link '\\ue60a REPORTS' url: http://luma.com/admin/admin/dashboard/#",
+          "click [756] where [756] is link 'Search Terms' url: http://luma.com/admin/search/term/report/": "click [element_id] where [element_id] is link 'Search Terms' url: http://luma.com/admin/search/term/report/",
+          "click [2802] where [2802] is columnheader 'Hits' required: False": "click [element_id] where [element_id] is columnheader 'Hits' required: False",
+          "click [4467] where [4467] is columnheader '\u2193 Hits' required: False": "click [element_id] where [element_id] is columnheader '\u2193 Hits' required: False",
+          "stop [hollister]": "stop [your_answer]"
+        }
+      },
+      "41_skip_1_abs_None_narr_False_ui_False": {
+        "param": {
+          "config_file": "/tmp/tmpencxbu1e/41.json",
+          "skip_step": 1,
+          "abstraction": "None",
+          "narrative": false,
+          "ui_change": false
+        },
+        "mapping": {
+          "click [739] where [739] is link '\\ue60a REPORTS' url: http://luma.com/admin/admin/dashboard/#": "click [element_id] where [element_id] is link '\\ue60a REPORTS' url: http://luma.com/admin/admin/dashboard/#",
+          "click [756] where [756] is link 'Search Terms' url: http://luma.com/admin/search/term/report/": "click [element_id] where [element_id] is link 'Search Terms' url: http://luma.com/admin/search/term/report/",
+          "click [2802] where [2802] is columnheader 'Hits' required: False": "click [element_id] where [element_id] is columnheader 'Hits' required: False",
+          "click [4467] where [4467] is columnheader '\u2193 Hits' required: False": "stop [your_answer]"
+        }
+      }
+    },
+    "42": {
+      "42_skip_0_abs_None_narr_False_ui_False": {
+        "param": {
+          "config_file": "/tmp/tmpbbca5f6z/42.json",
+          "skip_step": 0,
+          "abstraction": "None",
+          "narrative": false,
+          "ui_change": false
+        },
+        "mapping": {
+          "click [739] where [739] is link '\\ue60a REPORTS' url: http://luma.com/admin/admin/dashboard/#": "click [element_id] where [element_id] is link '\\ue60a REPORTS' url: http://luma.com/admin/admin/dashboard/#",
+          "click [756] where [756] is link 'Search Terms' url: http://luma.com/admin/search/term/report/": "click [element_id] where [element_id] is link 'Search Terms' url: http://luma.com/admin/search/term/report/",
+          "click [2802] where [2802] is columnheader 'Hits' required: False": "click [element_id] where [element_id] is columnheader 'Hits' required: False",
+          "click [4419] where [4419] is columnheader '\u2193 Hits' required: False": "click [element_id] where [element_id] is columnheader '\u2193 Hits' required: False",
+          "stop [hollister, Joust Bag]": "stop [your_answer]"
+        }
+      },
+      "42_skip_1_abs_None_narr_False_ui_False": {
+        "param": {
+          "config_file": "/tmp/tmpbbca5f6z/42.json",
+          "skip_step": 1,
+          "abstraction": "None",
+          "narrative": false,
+          "ui_change": false
+        },
+        "mapping": {
+          "click [739] where [739] is link '\\ue60a REPORTS' url: http://luma.com/admin/admin/dashboard/#": "click [element_id] where [element_id] is link '\\ue60a REPORTS' url: http://luma.com/admin/admin/dashboard/#",
+          "click [756] where [756] is link 'Search Terms' url: http://luma.com/admin/search/term/report/": "click [element_id] where [element_id] is link 'Search Terms' url: http://luma.com/admin/search/term/report/",
+          "click [2802] where [2802] is columnheader 'Hits' required: False": "click [element_id] where [element_id] is columnheader 'Hits' required: False",
+          "click [4419] where [4419] is columnheader '\u2193 Hits' required: False": "stop [your_answer]"
+        }
+      }
+    },
+    "43": {
+      "43_skip_0_abs_None_narr_False_ui_False": {
+        "param": {
+          "config_file": "/tmp/tmpl2pdoop2/43.json",
+          "skip_step": 0,
+          "abstraction": "None",
+          "narrative": false,
+          "ui_change": false
+        },
+        "mapping": {
+          "click [753] where [753] is link '\\ue60a REPORTS' url: http://luma.com/admin/admin/dashboard/#": "click [element_id] where [element_id] is link '\\ue60a REPORTS' url: http://luma.com/admin/admin/dashboard/#",
+          "click [770] where [770] is link 'Search Terms' url: http://luma.com/admin/search/term/report/": "click [element_id] where [element_id] is link 'Search Terms' url: http://luma.com/admin/search/term/report/",
+          "click [2802] where [2802] is columnheader 'Hits' required: False": "click [element_id] where [element_id] is columnheader 'Hits' required: False",
+          "click [4421] where [4421] is columnheader '\u2193 Hits' required: False": "click [element_id] where [element_id] is columnheader '\u2193 Hits' required: False",
+          "stop [hollister, Joust Bag, nike]": "stop [your_answer]"
+        }
+      },
+      "43_skip_1_abs_None_narr_False_ui_False": {
+        "param": {
+          "config_file": "/tmp/tmpl2pdoop2/43.json",
+          "skip_step": 1,
+          "abstraction": "None",
+          "narrative": false,
+          "ui_change": false
+        },
+        "mapping": {
+          "click [753] where [753] is link '\\ue60a REPORTS' url: http://luma.com/admin/admin/dashboard/#": "click [element_id] where [element_id] is link '\\ue60a REPORTS' url: http://luma.com/admin/admin/dashboard/#",
+          "click [770] where [770] is link 'Search Terms' url: http://luma.com/admin/search/term/report/": "click [element_id] where [element_id] is columnheader 'Hits' required: False",
+          "click [2802] where [2802] is columnheader 'Hits' required: False": "click [element_id] where [element_id] is columnheader '\u2193 Hits' required: False",
+          "click [4421] where [4421] is columnheader '\u2193 Hits' required: False": "stop [your_answer]"
+        }
+      }
+    },
+    "77": {
+      "77_skip_0_abs_None_narr_False_ui_False": {
+        "param": {
+          "config_file": "/tmp/tmp8_grrrap/77.json",
+          "skip_step": 0,
+          "abstraction": "None",
+          "narrative": false,
+          "ui_change": false
+        },
+        "mapping": {
+          "click [640] where [640] is link '\\ue609 MARKETING' url: http://luma.com/admin/admin/dashboard/#": "click [element_id] where [element_id] is link '\\ue609 MARKETING' url: http://luma.com/admin/admin/dashboard/#",
+          "click [704] where [704] is link 'Pending Reviews' url: http://luma.com/admin/review/product/pending/": "click [element_id] where [element_id] is link 'Pending Reviews' url: http://luma.com/admin/review/product/pending/",
+          "stop [5]": "stop [your_answer]"
+        }
+      },
+      "77_skip_1_abs_None_narr_False_ui_False": {
+        "param": {
+          "config_file": "/tmp/tmp8_grrrap/77.json",
+          "skip_step": 1,
+          "abstraction": "None",
+          "narrative": false,
+          "ui_change": false
+        },
+        "mapping": {
+          "click [640] where [640] is link '\\ue609 MARKETING' url: http://luma.com/admin/admin/dashboard/#": "click [element_id] where [element_id] is link 'Pending Reviews' url: http://luma.com/admin/review/product/pending/",
+          "click [704] where [704] is link 'Pending Reviews' url: http://luma.com/admin/review/product/pending/": "stop [your_answer]"
+        }
+      }
+    },
+    "78": {
+      "78_skip_0_abs_None_narr_False_ui_False": {
+        "param": {
+          "config_file": "/tmp/tmp1uth9i4z/78.json",
+          "skip_step": 0,
+          "abstraction": "None",
+          "narrative": false,
+          "ui_change": false
+        },
+        "mapping": {
+          "click [626] where [626] is link '\\ue609 MARKETING' url: http://luma.com/admin/admin/dashboard/#": "click [element_id] where [element_id] is link '\\ue609 MARKETING' url: http://luma.com/admin/admin/dashboard/#",
+          "click [687] where [687] is link 'All Reviews' url: http://luma.com/admin/review/product/index/": "click [element_id] where [element_id] is link 'All Reviews' url: http://luma.com/admin/review/product/index/",
+          "type [3284] [Approved ] where [3284] is combobox '' hasPopup: menu expanded: False": "type [element_id] [Approved ] where [element_id] is combobox '' hasPopup: menu expanded: False",
+          "stop [346]": "stop [your_answer]"
+        }
+      },
+      "78_skip_1_abs_None_narr_False_ui_False": {
+        "param": {
+          "config_file": "/tmp/tmp1uth9i4z/78.json",
+          "skip_step": 1,
+          "abstraction": "None",
+          "narrative": false,
+          "ui_change": false
+        },
+        "mapping": {
+          "click [626] where [626] is link '\\ue609 MARKETING' url: http://luma.com/admin/admin/dashboard/#": "click [element_id] where [element_id] is link '\\ue609 MARKETING' url: http://luma.com/admin/admin/dashboard/#",
+          "click [687] where [687] is link 'All Reviews' url: http://luma.com/admin/review/product/index/": "type [element_id] [Approved ] where [element_id] is combobox '' hasPopup: menu expanded: False",
+          "type [3284] [Approved ] where [3284] is combobox '' hasPopup: menu expanded: False": "stop [your_answer]"
+        }
+      }
+    },
+    "79": {
+      "79_skip_0_abs_None_narr_False_ui_False": {
+        "param": {
+          "config_file": "/tmp/tmp8zq72_qx/79.json",
+          "skip_step": 0,
+          "abstraction": "None",
+          "narrative": false,
+          "ui_change": false
+        },
+        "mapping": {
+          "click [640] where [640] is link '\\ue609 MARKETING' url: http://luma.com/admin/admin/dashboard/#": "click [element_id] where [element_id] is link '\\ue609 MARKETING' url: http://luma.com/admin/admin/dashboard/#",
+          "click [701] where [701] is link 'All Reviews' url: http://luma.com/admin/review/product/index/": "click [element_id] where [element_id] is link 'All Reviews' url: http://luma.com/admin/review/product/index/",
+          "type [3284] [Not Approved ] where [3284] is combobox '' hasPopup: menu expanded: False": "type [element_id] [Not Approved ] where [element_id] is combobox '' hasPopup: menu expanded: False",
+          "stop [0]": "stop [your_answer]"
+        }
+      },
+      "79_skip_1_abs_None_narr_False_ui_False": {
+        "param": {
+          "config_file": "/tmp/tmp8zq72_qx/79.json",
+          "skip_step": 1,
+          "abstraction": "None",
+          "narrative": false,
+          "ui_change": false
+        },
+        "mapping": {
+          "click [640] where [640] is link '\\ue609 MARKETING' url: http://luma.com/admin/admin/dashboard/#": "click [element_id] where [element_id] is link 'All Reviews' url: http://luma.com/admin/review/product/index/",
+          "click [701] where [701] is link 'All Reviews' url: http://luma.com/admin/review/product/index/": "type [element_id] [Not Approved ] where [element_id] is combobox '' hasPopup: menu expanded: False",
+          "type [3284] [Not Approved ] where [3284] is combobox '' hasPopup: menu expanded: False": "stop [your_answer]"
+        }
+      }
+    },
+    "94": {
+      "94_skip_0_abs_None_narr_False_ui_False": {
+        "param": {
+          "config_file": "/tmp/tmp0skuw5fx/94.json",
+          "skip_step": 0,
+          "abstraction": "None",
+          "narrative": false,
+          "ui_change": false
+        },
+        "mapping": {
+          "click [571] where [571] is link '\\ue60b SALES' url: http://luma.com/admin/admin/dashboard/#": "click [element_id] where [element_id] is link '\\ue60b SALES' url: http://luma.com/admin/admin/dashboard/#",
+          "click [586] where [586] is link 'Invoices' url: http://luma.com/admin/sales/invoice/": "click [element_id] where [element_id] is link 'Invoices' url: http://luma.com/admin/sales/invoice/",
+          "click [3337] where [3337] is textbox 'Search by keyword' required: False": "click [element_id] where [element_id] is textbox 'Search by keyword' required: False",
+          "type [3337] [000000001 ] where [3337] is textbox 'Search by keyword' focused: True required: False": "type [element_id] [000000001 ] where [element_id] is textbox 'Search by keyword' focused: True required: False",
+          "stop [$36.39]": "stop [your_answer]"
+        }
+      },
+      "94_skip_1_abs_None_narr_False_ui_False": {
+        "param": {
+          "config_file": "/tmp/tmp0skuw5fx/94.json",
+          "skip_step": 1,
+          "abstraction": "None",
+          "narrative": false,
+          "ui_change": false
+        },
+        "mapping": {
+          "click [571] where [571] is link '\\ue60b SALES' url: http://luma.com/admin/admin/dashboard/#": "click [element_id] where [element_id] is link '\\ue60b SALES' url: http://luma.com/admin/admin/dashboard/#",
+          "click [586] where [586] is link 'Invoices' url: http://luma.com/admin/sales/invoice/": "click [element_id] where [element_id] is link 'Invoices' url: http://luma.com/admin/sales/invoice/",
+          "click [3337] where [3337] is textbox 'Search by keyword' required: False": "click [element_id] where [element_id] is textbox 'Search by keyword' required: False",
+          "type [3337] [000000001 ] where [3337] is textbox 'Search by keyword' focused: True required: False": "stop [your_answer]"
+        }
+      }
+    },
+    "95": {
+      "95_skip_0_abs_None_narr_False_ui_False": {
+        "param": {
+          "config_file": "/tmp/tmp215a952e/95.json",
+          "skip_step": 0,
+          "abstraction": "None",
+          "narrative": false,
+          "ui_change": false
+        },
+        "mapping": {
+          "click [570] where [570] is link '\\ue60b SALES' url: http://luma.com/admin/admin/dashboard/#": "click [element_id] where [element_id] is link '\\ue60b SALES' url: http://luma.com/admin/admin/dashboard/#",
+          "click [585] where [585] is link 'Invoices' url: http://luma.com/admin/sales/invoice/": "click [element_id] where [element_id] is link 'Invoices' url: http://luma.com/admin/sales/invoice/",
+          "click [3533] where [3533] is button 'Clear all'": "click [element_id] where [element_id] is button 'Clear all'",
+          "type [3359] [000000002 ] where [3359] is textbox 'Search by keyword' required: False": "type [element_id] [000000002 ] where [element_id] is textbox 'Search by keyword' required: False",
+          "stop [$39.64]": "stop [your_answer]"
+        }
+      },
+      "95_skip_1_abs_None_narr_False_ui_False": {
+        "param": {
+          "config_file": "/tmp/tmp215a952e/95.json",
+          "skip_step": 1,
+          "abstraction": "None",
+          "narrative": false,
+          "ui_change": false
+        },
+        "mapping": {
+          "click [570] where [570] is link '\\ue60b SALES' url: http://luma.com/admin/admin/dashboard/#": "click [element_id] where [element_id] is link '\\ue60b SALES' url: http://luma.com/admin/admin/dashboard/#",
+          "click [585] where [585] is link 'Invoices' url: http://luma.com/admin/sales/invoice/": "click [element_id] where [element_id] is link 'Invoices' url: http://luma.com/admin/sales/invoice/",
+          "click [3533] where [3533] is button 'Clear all'": "click [element_id] where [element_id] is button 'Clear all'",
+          "type [3359] [000000002 ] where [3359] is textbox 'Search by keyword' required: False": "stop [your_answer]"
+        }
+      }
+    },
+    "112": {
+      "112_skip_0_abs_None_narr_False_ui_False": {
+        "param": {
+          "config_file": "/tmp/tmp9pqwz5__/112.json",
+          "skip_step": 0,
+          "abstraction": "None",
+          "narrative": false,
+          "ui_change": false
+        },
+        "mapping": {
+          "click [753] where [753] is link '\\ue60a REPORTS' url: http://luma.com/admin/admin/dashboard/#": "click [element_id] where [element_id] is link '\\ue60a REPORTS' url: http://luma.com/admin/admin/dashboard/#",
+          "click [787] where [787] is link 'By Products' url: http://luma.com/admin/reports/report_review/product/": "click [element_id] where [element_id] is link 'By Products' url: http://luma.com/admin/reports/report_review/product/",
+          "type [3033] [Circe ] where [3033] is textbox '' required: False": "type [element_id] [Circe ] where [element_id] is textbox '' required: False",
+          "click [9179] where [9179] is link 'Show Reviews' url: http://luma.com/admin/review/product/index/productId/1210/": "click [element_id] where [element_id] is link 'Show Reviews' url: http://luma.com/admin/review/product/index/productId/1210/",
+          "click [15029] where [15029] is link 'Edit' url: http://luma.com/admin/review/product/edit/id/353/": "click [element_id] where [element_id] is link 'Edit' url: http://luma.com/admin/review/product/edit/id/353/; There are multiple Edit on the page, this specific one is between ' cell 'Edit'' and ' row 'http://141.212.113.63:7780/admin/review/product/edit/id/352/productId/1210/''. Above: ' cell 'WH12''. Below: ' cell '''.",
+          "stop [Hannah Lim]": "stop [your_answer]"
+        }
+      },
+      "112_skip_1_abs_None_narr_False_ui_False": {
+        "param": {
+          "config_file": "/tmp/tmp9pqwz5__/112.json",
+          "skip_step": 1,
+          "abstraction": "None",
+          "narrative": false,
+          "ui_change": false
+        },
+        "mapping": {
+          "click [753] where [753] is link '\\ue60a REPORTS' url: http://luma.com/admin/admin/dashboard/#": "click [element_id] where [element_id] is link '\\ue60a REPORTS' url: http://luma.com/admin/admin/dashboard/#",
+          "click [787] where [787] is link 'By Products' url: http://luma.com/admin/reports/report_review/product/": "click [element_id] where [element_id] is link 'By Products' url: http://luma.com/admin/reports/report_review/product/",
+          "type [3033] [Circe ] where [3033] is textbox '' required: False": "type [element_id] [Circe ] where [element_id] is textbox '' required: False",
+          "click [9179] where [9179] is link 'Show Reviews' url: http://luma.com/admin/review/product/index/productId/1210/": "click [element_id] where [element_id] is link 'Show Reviews' url: http://luma.com/admin/review/product/index/productId/1210/",
+          "click [15029] where [15029] is link 'Edit' url: http://luma.com/admin/review/product/edit/id/353/": "stop [your_answer]"
+        }
+      }
+    },
+    "113": {
+      "113_skip_0_abs_None_narr_False_ui_False": {
+        "param": {
+          "config_file": "/tmp/tmpex6yne20/113.json",
+          "skip_step": 0,
+          "abstraction": "None",
+          "narrative": false,
+          "ui_change": false
+        },
+        "mapping": {
+          "click [753] where [753] is link '\\ue60a REPORTS' url: http://luma.com/admin/admin/dashboard/#": "click [element_id] where [element_id] is link '\\ue60a REPORTS' url: http://luma.com/admin/admin/dashboard/#",
+          "click [787] where [787] is link 'By Products' url: http://luma.com/admin/reports/report_review/product/": "click [element_id] where [element_id] is link 'By Products' url: http://luma.com/admin/reports/report_review/product/",
+          "type [3033] [Olivia ] where [3033] is textbox '' required: False": "type [element_id] [Olivia ] where [element_id] is textbox '' required: False",
+          "click [9230] where [9230] is link 'Show Reviews' url: http://luma.com/admin/review/product/index/productId/1396/": "click [element_id] where [element_id] is link 'Show Reviews' url: http://luma.com/admin/review/product/index/productId/1396/",
+          "scroll [down]": "scroll [down]",
+          "click [15043] where [15043] is link 'Edit' url: http://luma.com/admin/review/product/edit/id/351/": "click [element_id] where [element_id] is link 'Edit' url: http://luma.com/admin/review/product/edit/id/351/; There are multiple Edit on the page, this specific one is between ' cell 'Edit'' and ' row 'http://141.212.113.63:7780/admin/review/product/edit/id/349/productId/1396/''. Above: ' cell 'WJ12''. Below: ' cell '''.",
+          "go_back": "go_back",
+          "click [22737] where [22737] is link 'Edit' url: http://luma.com/admin/review/product/edit/id/349/": "click [element_id] where [element_id] is link 'Edit' url: http://luma.com/admin/review/product/edit/id/349/; There are multiple Edit on the page, this specific one is between ' cell 'Edit'' and ' row 'http://141.212.113.63:7780/admin/review/product/edit/id/347/productId/1396/''. Above: ' cell 'WJ12''. Below: ' cell '''.",
+          "stop [Emma Lopez, Seam Miller]": "stop [your_answer]"
+        }
+      },
+      "113_skip_1_abs_None_narr_False_ui_False": {
+        "param": {
+          "config_file": "/tmp/tmpex6yne20/113.json",
+          "skip_step": 1,
+          "abstraction": "None",
+          "narrative": false,
+          "ui_change": false
+        },
+        "mapping": {
+          "click [753] where [753] is link '\\ue60a REPORTS' url: http://luma.com/admin/admin/dashboard/#": "click [element_id] where [element_id] is link 'By Products' url: http://luma.com/admin/reports/report_review/product/",
+          "click [787] where [787] is link 'By Products' url: http://luma.com/admin/reports/report_review/product/": "type [element_id] [Olivia ] where [element_id] is textbox '' required: False",
+          "type [3033] [Olivia ] where [3033] is textbox '' required: False": "click [element_id] where [element_id] is link 'Show Reviews' url: http://luma.com/admin/review/product/index/productId/1396/",
+          "click [9230] where [9230] is link 'Show Reviews' url: http://luma.com/admin/review/product/index/productId/1396/": "scroll [down]",
+          "scroll [down]": "click [element_id] where [element_id] is link 'Edit' url: http://luma.com/admin/review/product/edit/id/351/; There are multiple Edit on the page, this specific one is between ' cell 'Edit'' and ' row 'http://141.212.113.63:7780/admin/review/product/edit/id/349/productId/1396/''. Above: ' cell 'WJ12''. Below: ' cell '''.",
+          "click [15043] where [15043] is link 'Edit' url: http://luma.com/admin/review/product/edit/id/351/": "go_back",
+          "go_back": "stop [your_answer]",
+          "click [22737] where [22737] is link 'Edit' url: http://luma.com/admin/review/product/edit/id/349/": "go_back"
+        }
+      }
+    },
+    "114": {
+      "114_skip_0_abs_None_narr_False_ui_False": {
+        "param": {
+          "config_file": "/tmp/tmpww_mi7cz/114.json",
+          "skip_step": 0,
+          "abstraction": "None",
+          "narrative": false,
+          "ui_change": false
+        },
+        "mapping": {
+          "click [739] where [739] is link '\\ue60a REPORTS' url: http://luma.com/admin/admin/dashboard/#": "click [element_id] where [element_id] is link '\\ue60a REPORTS' url: http://luma.com/admin/admin/dashboard/#",
+          "click [773] where [773] is link 'By Products' url: http://luma.com/admin/reports/report_review/product/": "click [element_id] where [element_id] is link 'By Products' url: http://luma.com/admin/reports/report_review/product/",
+          "type [3033] [Antonia ] where [3033] is textbox '' required: False": "type [element_id] [Antonia ] where [element_id] is textbox '' required: False",
+          "click [9179] where [9179] is link 'Show Reviews' url: http://luma.com/admin/review/product/index/productId/1796/": "click [element_id] where [element_id] is link 'Show Reviews' url: http://luma.com/admin/review/product/index/productId/1796/",
+          "scroll [down]": "scroll [down]",
+          "stop [Shaunte, Merrie]": "stop [your_answer]"
+        }
+      },
+      "114_skip_1_abs_None_narr_False_ui_False": {
+        "param": {
+          "config_file": "/tmp/tmpww_mi7cz/114.json",
+          "skip_step": 1,
+          "abstraction": "None",
+          "narrative": false,
+          "ui_change": false
+        },
+        "mapping": {
+          "click [739] where [739] is link '\\ue60a REPORTS' url: http://luma.com/admin/admin/dashboard/#": "click [element_id] where [element_id] is link '\\ue60a REPORTS' url: http://luma.com/admin/admin/dashboard/#",
+          "click [773] where [773] is link 'By Products' url: http://luma.com/admin/reports/report_review/product/": "click [element_id] where [element_id] is link 'By Products' url: http://luma.com/admin/reports/report_review/product/",
+          "type [3033] [Antonia ] where [3033] is textbox '' required: False": "type [element_id] [Antonia ] where [element_id] is textbox '' required: False",
+          "click [9179] where [9179] is link 'Show Reviews' url: http://luma.com/admin/review/product/index/productId/1796/": "scroll [down]",
+          "scroll [down]": "stop [your_answer]"
+        }
+      }
+    },
+    "115": {
+      "115_skip_0_abs_None_narr_False_ui_False": {
+        "param": {
+          "config_file": "/tmp/tmplx18q0nv/115.json",
+          "skip_step": 0,
+          "abstraction": "None",
+          "narrative": false,
+          "ui_change": false
+        },
+        "mapping": {
+          "click [747] where [747] is link '\\ue60a REPORTS' url: http://luma.com/admin/admin/dashboard/#": "click [element_id] where [element_id] is link '\\ue60a REPORTS' url: http://luma.com/admin/admin/dashboard/#",
+          "click [781] where [781] is link 'By Products' url: http://luma.com/admin/reports/report_review/product/": "click [element_id] where [element_id] is link 'By Products' url: http://luma.com/admin/reports/report_review/product/",
+          "type [3033] [Chloe ] where [3033] is textbox '' required: False": "type [element_id] [Chloe ] where [element_id] is textbox '' required: False",
+          "click [9179] where [9179] is link 'Show Reviews' url: http://luma.com/admin/review/product/index/productId/1764/": "click [element_id] where [element_id] is link 'Show Reviews' url: http://luma.com/admin/review/product/index/productId/1764/",
+          "scroll [down]": "scroll [down]",
+          "stop [Teofila]": "stop [your_answer]"
+        }
+      },
+      "115_skip_1_abs_None_narr_False_ui_False": {
+        "param": {
+          "config_file": "/tmp/tmplx18q0nv/115.json",
+          "skip_step": 1,
+          "abstraction": "None",
+          "narrative": false,
+          "ui_change": false
+        },
+        "mapping": {
+          "click [747] where [747] is link '\\ue60a REPORTS' url: http://luma.com/admin/admin/dashboard/#": "click [element_id] where [element_id] is link '\\ue60a REPORTS' url: http://luma.com/admin/admin/dashboard/#",
+          "click [781] where [781] is link 'By Products' url: http://luma.com/admin/reports/report_review/product/": "click [element_id] where [element_id] is link 'By Products' url: http://luma.com/admin/reports/report_review/product/",
+          "type [3033] [Chloe ] where [3033] is textbox '' required: False": "click [element_id] where [element_id] is link 'Show Reviews' url: http://luma.com/admin/review/product/index/productId/1764/",
+          "click [9179] where [9179] is link 'Show Reviews' url: http://luma.com/admin/review/product/index/productId/1764/": "scroll [down]",
+          "scroll [down]": "stop [your_answer]"
+        }
+      }
+    },
+    "119": {
+      "119_skip_0_abs_None_narr_False_ui_False": {
+        "param": {
+          "config_file": "/tmp/tmpadf47k65/119.json",
+          "skip_step": 0,
+          "abstraction": "None",
+          "narrative": false,
+          "ui_change": false
+        },
+        "mapping": {
+          "click [739] where [739] is link '\\ue60a REPORTS' url: http://metis.lti.cs.cmu.edu:7780/admin/admin/dashboard/#": "click [element_id] where [element_id] is link '\\ue60a REPORTS' url: http://metis.lti.cs.cmu.edu:7780/admin/admin/dashboard/#",
+          "click [773] where [773] is link 'By Products' url: http://metis.lti.cs.cmu.edu:7780/admin/reports/report_review/product/": "click [element_id] where [element_id] is link 'By Products' url: http://metis.lti.cs.cmu.edu:7780/admin/reports/report_review/product/",
+          "type [2883] [Antonia ] where [2883] is textbox '' required: False": "type [element_id] [Antonia ] where [element_id] is textbox '' required: False",
+          "click [12817] where [12817] is link 'Show Reviews' url: http://metis.lti.cs.cmu.edu:7780/admin/review/product/index/productId/1796/": "click [element_id] where [element_id] is link 'Show Reviews' url: http://metis.lti.cs.cmu.edu:7780/admin/review/product/index/productId/1796/",
+          "click [14619] where [14619] is link 'Edit' url: http://metis.lti.cs.cmu.edu:7780/admin/review/product/edit/id/337/": "click [element_id] where [element_id] is link 'Edit' url: http://metis.lti.cs.cmu.edu:7780/admin/review/product/edit/id/337/; There are multiple Edit on the page, this specific one is between ' cell 'Edit'' and ' row 'http://metis.lti.cs.cmu.edu:7780/admin/review/product/edit/id/338/productId/1796/''. Above: ' cell 'WT08''. Below: ' cell '''.",
+          "scroll [down]": "scroll [down]",
+          "click [20287] where [20287] is button 'Next'": "click [element_id] where [element_id] is button 'Next'",
+          "write_to_note [Note]": "write_to_note [<something_important_to_write_down>]",
+          "click [21764] where [21764] is button 'Next'": "click [element_id] where [element_id] is button 'Next'",
+          "stop [Its color and style is good]": "stop [your_answer]"
+        }
+      },
+      "119_skip_1_abs_None_narr_False_ui_False": {
+        "param": {
+          "config_file": "/tmp/tmpadf47k65/119.json",
+          "skip_step": 1,
+          "abstraction": "None",
+          "narrative": false,
+          "ui_change": false
+        },
+        "mapping": {
+          "click [739] where [739] is link '\\ue60a REPORTS' url: http://metis.lti.cs.cmu.edu:7780/admin/admin/dashboard/#": "click [element_id] where [element_id] is link '\\ue60a REPORTS' url: http://metis.lti.cs.cmu.edu:7780/admin/admin/dashboard/#",
+          "click [773] where [773] is link 'By Products' url: http://metis.lti.cs.cmu.edu:7780/admin/reports/report_review/product/": "click [element_id] where [element_id] is link 'By Products' url: http://metis.lti.cs.cmu.edu:7780/admin/reports/report_review/product/",
+          "type [2883] [Antonia ] where [2883] is textbox '' required: False": "type [element_id] [Antonia ] where [element_id] is textbox '' required: False",
+          "click [12817] where [12817] is link 'Show Reviews' url: http://metis.lti.cs.cmu.edu:7780/admin/review/product/index/productId/1796/": "click [element_id] where [element_id] is link 'Show Reviews' url: http://metis.lti.cs.cmu.edu:7780/admin/review/product/index/productId/1796/",
+          "click [14619] where [14619] is link 'Edit' url: http://metis.lti.cs.cmu.edu:7780/admin/review/product/edit/id/337/": "click [element_id] where [element_id] is link 'Edit' url: http://metis.lti.cs.cmu.edu:7780/admin/review/product/edit/id/337/; There are multiple Edit on the page, this specific one is between ' cell 'Edit'' and ' row 'http://metis.lti.cs.cmu.edu:7780/admin/review/product/edit/id/338/productId/1796/''. Above: ' cell 'WT08''. Below: ' cell '''.",
+          "scroll [down]": "scroll [down]",
+          "click [20287] where [20287] is button 'Next'": "click [element_id] where [element_id] is button 'Next'",
+          "write_to_note [Note]": "stop [your_answer]",
+          "click [21764] where [21764] is button 'Next'": "click [element_id] where [element_id] is button 'Next'"
+        }
+      }
+    },
+    "121": {
+      "121_skip_0_abs_None_narr_False_ui_False": {
+        "param": {
+          "config_file": "/tmp/tmp60kscqtp/121.json",
+          "skip_step": 0,
+          "abstraction": "None",
+          "narrative": false,
+          "ui_change": false
+        },
+        "mapping": {
+          "click [739] where [739] is link '\\ue60a REPORTS' url: http://metis.lti.cs.cmu.edu:7780/admin/admin/dashboard/#": "click [element_id] where [element_id] is link '\\ue60a REPORTS' url: http://metis.lti.cs.cmu.edu:7780/admin/admin/dashboard/#",
+          "click [773] where [773] is link 'By Products' url: http://metis.lti.cs.cmu.edu:7780/admin/reports/report_review/product/": "click [element_id] where [element_id] is link 'By Products' url: http://metis.lti.cs.cmu.edu:7780/admin/reports/report_review/product/",
+          "type [2883] [circe ] where [2883] is textbox '' required: False": "type [element_id] [circe ] where [element_id] is textbox '' required: False",
+          "click [8930] where [8930] is link 'Show Reviews' url: http://metis.lti.cs.cmu.edu:7780/admin/review/product/index/productId/1210/": "click [element_id] where [element_id] is link 'Show Reviews' url: http://metis.lti.cs.cmu.edu:7780/admin/review/product/index/productId/1210/",
+          "click [14622] where [14622] is link 'Edit' url: http://metis.lti.cs.cmu.edu:7780/admin/review/product/edit/id/353/": "click [element_id] where [element_id] is link 'Edit' url: http://metis.lti.cs.cmu.edu:7780/admin/review/product/edit/id/353/; There are multiple Edit on the page, this specific one is between ' cell 'Edit'' and ' row 'http://metis.lti.cs.cmu.edu:7780/admin/review/product/edit/id/352/productId/1210/''. Above: ' cell 'WH12''. Below: ' cell '''.",
+          "scroll [down]": "scroll [down]",
+          "write_to_note [N/A]": "write_to_note [<something_important_to_write_down>]",
+          "click [20263] where [20263] is button 'Next'": "click [element_id] where [element_id] is button 'Next'",
+          "write_to_note [I recently purchased the Circe Hooded Ice Fleece and overall, I'm quite happy with it. The fleece material is incredibly soft and cozy, and I love the addition of the hood for extra warmth. The fit is true to size and the sleeves are long enough, which is often a problem for me. The only reason I'm not giving it a full 5 stars is because I was hoping the color would be a bit more vibrant - it's a bit muted compared to what I was expecting. But overall, I would definitely recommend the Circe Hooded Ice Fleece for anyone in need of a warm and comfortable layer for outdoor activities.]": "write_to_note [<something_important_to_write_down>]",
+          "stop [Warm and comfortable. True to size]": "stop [your_answer]"
+        }
+      },
+      "121_skip_1_abs_None_narr_False_ui_False": {
+        "param": {
+          "config_file": "/tmp/tmp60kscqtp/121.json",
+          "skip_step": 1,
+          "abstraction": "None",
+          "narrative": false,
+          "ui_change": false
+        },
+        "mapping": {
+          "click [739] where [739] is link '\\ue60a REPORTS' url: http://metis.lti.cs.cmu.edu:7780/admin/admin/dashboard/#": "click [element_id] where [element_id] is link '\\ue60a REPORTS' url: http://metis.lti.cs.cmu.edu:7780/admin/admin/dashboard/#",
+          "click [773] where [773] is link 'By Products' url: http://metis.lti.cs.cmu.edu:7780/admin/reports/report_review/product/": "click [element_id] where [element_id] is link 'By Products' url: http://metis.lti.cs.cmu.edu:7780/admin/reports/report_review/product/",
+          "type [2883] [circe ] where [2883] is textbox '' required: False": "type [element_id] [circe ] where [element_id] is textbox '' required: False",
+          "click [8930] where [8930] is link 'Show Reviews' url: http://metis.lti.cs.cmu.edu:7780/admin/review/product/index/productId/1210/": "click [element_id] where [element_id] is link 'Edit' url: http://metis.lti.cs.cmu.edu:7780/admin/review/product/edit/id/353/",
+          "click [14622] where [14622] is link 'Edit' url: http://metis.lti.cs.cmu.edu:7780/admin/review/product/edit/id/353/": "scroll [down]",
+          "scroll [down]": "write_to_note [<something_important_to_write_down>]",
+          "write_to_note [N/A]": "click [element_id] where [element_id] is button 'Next'",
+          "click [20263] where [20263] is button 'Next'": "scroll [down]",
+          "write_to_note [I recently purchased the Circe Hooded Ice Fleece and overall, I'm quite happy with it. The fleece material is incredibly soft and cozy, and I love the addition of the hood for extra warmth. The fit is true to size and the sleeves are long enough, which is often a problem for me. The only reason I'm not giving it a full 5 stars is because I was hoping the color would be a bit more vibrant - it's a bit muted compared to what I was expecting. But overall, I would definitely recommend the Circe Hooded Ice Fleece for anyone in need of a warm and comfortable layer for outdoor activities.]": "stop [your_answer]"
+        }
+      }
+    },
+    "122": {
+      "122_skip_0_abs_None_narr_False_ui_False": {
+        "param": {
+          "config_file": "/tmp/tmps8lx8blj/122.json",
+          "skip_step": 0,
+          "abstraction": "None",
+          "narrative": false,
+          "ui_change": false
+        },
+        "mapping": {
+          "click [754] where [754] is link '\\ue60a REPORTS' url: http://metis.lti.cs.cmu.edu:7780/admin/admin/dashboard/#": "click [element_id] where [element_id] is link '\\ue60a REPORTS' url: http://metis.lti.cs.cmu.edu:7780/admin/admin/dashboard/#",
+          "click [788] where [788] is link 'By Products' url: http://metis.lti.cs.cmu.edu:7780/admin/reports/report_review/product/": "click [element_id] where [element_id] is link 'By Products' url: http://metis.lti.cs.cmu.edu:7780/admin/reports/report_review/product/",
+          "type [2883] [Olivia ] where [2883] is textbox '' required: False": "type [element_id] [Olivia ] where [element_id] is textbox '' required: False",
+          "click [8940] where [8940] is link 'Show Reviews' url: http://metis.lti.cs.cmu.edu:7780/admin/review/product/index/productId/1396/": "click [element_id] where [element_id] is link 'Show Reviews' url: http://metis.lti.cs.cmu.edu:7780/admin/review/product/index/productId/1396/",
+          "click [14652] where [14652] is link 'Edit' url: http://metis.lti.cs.cmu.edu:7780/admin/review/product/edit/id/351/": "click [element_id] where [element_id] is link 'Edit' url: http://metis.lti.cs.cmu.edu:7780/admin/review/product/edit/id/351/; There are multiple Edit on the page, this specific one is between ' cell 'Edit'' and ' row 'http://metis.lti.cs.cmu.edu:7780/admin/review/product/edit/id/349/productId/1396/''. Above: ' cell 'WJ12''. Below: ' cell '''.",
+          "scroll [down]": "scroll [down]",
+          "write_to_note [N/A]": "write_to_note [<something_important_to_write_down>]",
+          "click [20321] where [20321] is button 'Next'": "click [element_id] where [element_id] is button 'Next'",
+          "click [21793] where [21793] is button 'Next'": "click [element_id] where [element_id] is button 'Next'",
+          "write_to_note [lightweight and comfortable, versatile enough to be dressed up or down, comfortable and stylish lightweight jacket]": "write_to_note [<something_important_to_write_down>]",
+          "stop [Lightweight, comfortable and stylish. Good design and details.]": "stop [your_answer]"
+        }
+      },
+      "122_skip_1_abs_None_narr_False_ui_False": {
+        "param": {
+          "config_file": "/tmp/tmps8lx8blj/122.json",
+          "skip_step": 1,
+          "abstraction": "None",
+          "narrative": false,
+          "ui_change": false
+        },
+        "mapping": {
+          "click [754] where [754] is link '\\ue60a REPORTS' url: http://metis.lti.cs.cmu.edu:7780/admin/admin/dashboard/#": "click [element_id] where [element_id] is link '\\ue60a REPORTS' url: http://metis.lti.cs.cmu.edu:7780/admin/admin/dashboard/#",
+          "click [788] where [788] is link 'By Products' url: http://metis.lti.cs.cmu.edu:7780/admin/reports/report_review/product/": "click [element_id] where [element_id] is link 'By Products' url: http://metis.lti.cs.cmu.edu:7780/admin/reports/report_review/product/",
+          "type [2883] [Olivia ] where [2883] is textbox '' required: False": "type [element_id] [Olivia ] where [element_id] is textbox '' required: False",
+          "click [8940] where [8940] is link 'Show Reviews' url: http://metis.lti.cs.cmu.edu:7780/admin/review/product/index/productId/1396/": "click [element_id] where [element_id] is link 'Show Reviews' url: http://metis.lti.cs.cmu.edu:7780/admin/review/product/index/productId/1396/",
+          "click [14652] where [14652] is link 'Edit' url: http://metis.lti.cs.cmu.edu:7780/admin/review/product/edit/id/351/": "click [element_id] where [element_id] is link 'Edit' url: http://metis.lti.cs.cmu.edu:7780/admin/review/product/edit/id/351/; There are multiple Edit on the page, this specific one is between ' cell 'Edit'' and ' row 'http://metis.lti.cs.cmu.edu:7780/admin/review/product/edit/id/349/productId/1396/''. Above: ' cell 'WJ12''. Below: ' cell '''.",
+          "scroll [down]": "write_to_note [<something_important_to_write_down>]",
+          "write_to_note [N/A]": "click [element_id] where [element_id] is button 'Next'",
+          "click [20321] where [20321] is button 'Next'": "click [element_id] where [element_id] is button 'Next'",
+          "click [21793] where [21793] is button 'Next'": "scroll [down]",
+          "write_to_note [lightweight and comfortable, versatile enough to be dressed up or down, comfortable and stylish lightweight jacket]": "stop [your_answer]"
+        }
+      }
+    },
+    "123": {
+      "123_skip_0_abs_None_narr_False_ui_False": {
+        "param": {
+          "config_file": "/tmp/tmpl4khli_w/123.json",
+          "skip_step": 0,
+          "abstraction": "None",
+          "narrative": false,
+          "ui_change": false
+        },
+        "mapping": {
+          "click [739] where [739] is link '\\ue60a REPORTS' url: http://metis.lti.cs.cmu.edu:7780/admin/admin/dashboard/#": "click [element_id] where [element_id] is link '\\ue60a REPORTS' url: http://metis.lti.cs.cmu.edu:7780/admin/admin/dashboard/#",
+          "click [773] where [773] is link 'By Products' url: http://metis.lti.cs.cmu.edu:7780/admin/reports/report_review/product/": "click [element_id] where [element_id] is link 'By Products' url: http://metis.lti.cs.cmu.edu:7780/admin/reports/report_review/product/",
+          "type [2883] [Circe ] where [2883] is textbox '' required: False": "type [element_id] [Circe ] where [element_id] is textbox '' required: False",
+          "click [8938] where [8938] is link 'Show Reviews' url: http://metis.lti.cs.cmu.edu:7780/admin/review/product/index/productId/1210/": "click [element_id] where [element_id] is link 'Show Reviews' url: http://metis.lti.cs.cmu.edu:7780/admin/review/product/index/productId/1210/",
+          "click [14629] where [14629] is link 'Edit' url: http://metis.lti.cs.cmu.edu:7780/admin/review/product/edit/id/353/": "click [element_id] where [element_id] is link 'Edit' url: http://metis.lti.cs.cmu.edu:7780/admin/review/product/edit/id/353/; There are multiple Edit on the page, this specific one is between ' cell 'Edit'' and ' row 'http://metis.lti.cs.cmu.edu:7780/admin/review/product/edit/id/352/productId/1210/''. Above: ' cell 'WH12''. Below: ' cell '''.",
+          "scroll [down]": "scroll [down]",
+          "write_to_note [N/A]": "write_to_note [<something_important_to_write_down>]",
+          "click [20265] where [20265] is button 'Next'": "click [element_id] where [element_id] is button 'Next'",
+          "write_to_note [The fleece material is incredibly soft and cozy, and I love the addition of the hood for extra warmth. The fit is true to size and the sleeves are long enough]": "write_to_note [<something_important_to_write_down>]",
+          "stop [Warm and comfortable. True to size.]": "stop [your_answer]"
+        }
+      },
+      "123_skip_1_abs_None_narr_False_ui_False": {
+        "param": {
+          "config_file": "/tmp/tmpl4khli_w/123.json",
+          "skip_step": 1,
+          "abstraction": "None",
+          "narrative": false,
+          "ui_change": false
+        },
+        "mapping": {
+          "click [739] where [739] is link '\\ue60a REPORTS' url: http://metis.lti.cs.cmu.edu:7780/admin/admin/dashboard/#": "click [element_id] where [element_id] is link '\\ue60a REPORTS' url: http://metis.lti.cs.cmu.edu:7780/admin/admin/dashboard/#",
+          "click [773] where [773] is link 'By Products' url: http://metis.lti.cs.cmu.edu:7780/admin/reports/report_review/product/": "type [element_id] [Circe ] where [element_id] is textbox '' required: False",
+          "type [2883] [Circe ] where [2883] is textbox '' required: False": "click [element_id] where [element_id] is link 'Show Reviews' url: http://metis.lti.cs.cmu.edu:7780/admin/review/product/index/productId/1210/",
+          "click [8938] where [8938] is link 'Show Reviews' url: http://metis.lti.cs.cmu.edu:7780/admin/review/product/index/productId/1210/": "click [element_id] where [element_id] is link 'Edit' url: http://metis.lti.cs.cmu.edu:7780/admin/review/product/edit/id/353/",
+          "click [14629] where [14629] is link 'Edit' url: http://metis.lti.cs.cmu.edu:7780/admin/review/product/edit/id/353/": "scroll [down]",
+          "scroll [down]": "write_to_note [<something_important_to_write_down>]",
+          "write_to_note [N/A]": "click [element_id] where [element_id] is button 'Next'",
+          "click [20265] where [20265] is button 'Next'": "scroll [down]",
+          "write_to_note [The fleece material is incredibly soft and cozy, and I love the addition of the hood for extra warmth. The fit is true to size and the sleeves are long enough]": "stop [your_answer]"
+        }
+      }
+    },
+    "127": {
+      "127_skip_0_abs_None_narr_False_ui_False": {
+        "param": {
+          "config_file": "/tmp/tmple84fo7m/127.json",
+          "skip_step": 0,
+          "abstraction": "None",
+          "narrative": false,
+          "ui_change": false
+        },
+        "mapping": {
+          "click [754] where [754] is link '\\ue60a REPORTS' url: http://luma.com/admin/admin/dashboard/#": "click [element_id] where [element_id] is link '\\ue60a REPORTS' url: http://luma.com/admin/admin/dashboard/#",
+          "click [771] where [771] is link 'Search Terms' url: http://luma.com/admin/search/term/report/": "click [element_id] where [element_id] is link 'Search Terms' url: http://luma.com/admin/search/term/report/",
+          "click [2952] where [2952] is columnheader 'Hits' required: False": "click [element_id] where [element_id] is columnheader 'Hits' required: False",
+          "click [4721] where [4721] is columnheader '\u2193 Hits' required: False": "click [element_id] where [element_id] is columnheader '\u2193 Hits' required: False",
+          "stop [Hollister, Joust, Nike, Antonia]": "stop [your_answer]"
+        }
+      },
+      "127_skip_1_abs_None_narr_False_ui_False": {
+        "param": {
+          "config_file": "/tmp/tmple84fo7m/127.json",
+          "skip_step": 1,
+          "abstraction": "None",
+          "narrative": false,
+          "ui_change": false
+        },
+        "mapping": {
+          "click [754] where [754] is link '\\ue60a REPORTS' url: http://luma.com/admin/admin/dashboard/#": "click [element_id] where [element_id] is link '\\ue60a REPORTS' url: http://luma.com/admin/admin/dashboard/#",
+          "click [771] where [771] is link 'Search Terms' url: http://luma.com/admin/search/term/report/": "click [element_id] where [element_id] is link 'Search Terms' url: http://luma.com/admin/search/term/report/",
+          "click [2952] where [2952] is columnheader 'Hits' required: False": "click [element_id] where [element_id] is columnheader '\u2193 Hits' required: False",
+          "click [4721] where [4721] is columnheader '\u2193 Hits' required: False": "stop [your_answer]"
+        }
+      }
+    },
+    "128": {
+      "128_skip_0_abs_None_narr_False_ui_False": {
+        "param": {
+          "config_file": "/tmp/tmpz00qp9xe/128.json",
+          "skip_step": 0,
+          "abstraction": "None",
+          "narrative": false,
+          "ui_change": false
+        },
+        "mapping": {
+          "click [739] where [739] is link '\\ue60a REPORTS' url: http://luma.com/admin/admin/dashboard/#": "click [element_id] where [element_id] is link '\\ue60a REPORTS' url: http://luma.com/admin/admin/dashboard/#",
+          "click [783] where [783] is link 'Orders' url: http://luma.com/admin/reports/report_sales/sales/": "click [element_id] where [element_id] is link 'Orders' url: http://luma.com/admin/reports/report_sales/sales/",
+          "type [2921] [Day ] where [2921] is combobox 'Period' hasPopup: menu expanded: False": "type [element_id] [Day ] where [element_id] is combobox 'Period' hasPopup: menu expanded: False",
+          "type [2931] [1/1/22 ] where [2931] is textbox 'From *' required: True": "type [element_id] [1/1/22 ] where [element_id] is textbox 'From *' required: True",
+          "type [2937] [2/2/25 ] where [2937] is textbox 'To *' required: True": "type [element_id] [2/2/25 ] where [element_id] is textbox 'To *' required: True",
+          "click [2884] where [2884] is button 'Show Report'": "click [element_id] where [element_id] is button 'Show Report'",
+          "scroll [down]": "scroll [down]",
+          "stop [9]": "stop [your_answer]"
+        }
+      },
+      "128_skip_1_abs_None_narr_False_ui_False": {
+        "param": {
+          "config_file": "/tmp/tmpz00qp9xe/128.json",
+          "skip_step": 1,
+          "abstraction": "None",
+          "narrative": false,
+          "ui_change": false
+        },
+        "mapping": {
+          "click [739] where [739] is link '\\ue60a REPORTS' url: http://luma.com/admin/admin/dashboard/#": "click [element_id] where [element_id] is link 'Orders' url: http://luma.com/admin/reports/report_sales/sales/",
+          "click [783] where [783] is link 'Orders' url: http://luma.com/admin/reports/report_sales/sales/": "type [element_id] [Day ] where [element_id] is combobox 'Period' hasPopup: menu expanded: False",
+          "type [2921] [Day ] where [2921] is combobox 'Period' hasPopup: menu expanded: False": "type [element_id] [1/1/22 ] where [element_id] is textbox 'From *' required: True",
+          "type [2931] [1/1/22 ] where [2931] is textbox 'From *' required: True": "type [element_id] [2/2/25 ] where [element_id] is textbox 'To *' required: True",
+          "type [2937] [2/2/25 ] where [2937] is textbox 'To *' required: True": "click [element_id] where [element_id] is button 'Show Report'",
+          "click [2884] where [2884] is button 'Show Report'": "scroll [down]",
+          "scroll [down]": "stop [your_answer]"
+        }
+      }
+    },
+    "129": {
+      "129_skip_0_abs_None_narr_False_ui_False": {
+        "param": {
+          "config_file": "/tmp/tmpy4z_zq8w/129.json",
+          "skip_step": 0,
+          "abstraction": "None",
+          "narrative": false,
+          "ui_change": false
+        },
+        "mapping": {
+          "click [555] where [555] is link '\\ue60b SALES' url: http://luma.com/admin/admin/dashboard/#": "click [element_id] where [element_id] is link '\\ue60b SALES' url: http://luma.com/admin/admin/dashboard/#",
+          "click [567] where [567] is link 'Orders' url: http://luma.com/admin/sales/order/": "click [element_id] where [element_id] is link 'Orders' url: http://luma.com/admin/sales/order/",
+          "click [13716] where [13716] is link 'View' url: http://luma.com/admin/sales/order/view/order_id/299/": "click [element_id] where [element_id] is link 'View' url: http://luma.com/admin/sales/order/view/order_id/299/; There are multiple View on the page, this specific one is between ' cell 'View'' and ' cell '''. Above: ' cell 'Pending''. Below: ' cell '''.",
+          "scroll [down]": "scroll [down]",
+          "go_back": "go_back",
+          "click [88062] where [88062] is link 'View' url: http://luma.com/admin/sales/order/view/order_id/65/": "click [element_id] where [element_id] is link 'View' url: http://luma.com/admin/sales/order/view/order_id/65/; There are multiple View on the page, this specific one is between ' cell 'View'' and ' cell '''. Above: ' cell 'Pending''. Below: ' cell '''.",
+          "click [163031] where [163031] is link 'View' url: http://luma.com/admin/sales/order/view/order_id/125/": "click [element_id] where [element_id] is link 'View' url: http://luma.com/admin/sales/order/view/order_id/125/; There are multiple View on the page, this specific one is between ' cell 'View'' and ' cell '''. Above: ' cell 'Processing''. Below: ' cell '''.",
+          "click [163051] where [163051] is link 'View' url: http://luma.com/admin/sales/order/view/order_id/136/": "click [element_id] where [element_id] is link 'View' url: http://luma.com/admin/sales/order/view/order_id/136/; There are multiple View on the page, this specific one is between ' cell 'View'' and ' cell '''. Above: ' cell 'Canceled''. Below: ' cell '''.",
+          "stop [16]": "stop [your_answer]"
+        }
+      },
+      "129_skip_1_abs_None_narr_False_ui_False": {
+        "param": {
+          "config_file": "/tmp/tmpy4z_zq8w/129.json",
+          "skip_step": 1,
+          "abstraction": "None",
+          "narrative": false,
+          "ui_change": false
+        },
+        "mapping": {
+          "click [555] where [555] is link '\\ue60b SALES' url: http://luma.com/admin/admin/dashboard/#": "click [element_id] where [element_id] is link 'Orders' url: http://luma.com/admin/sales/order/",
+          "click [567] where [567] is link 'Orders' url: http://luma.com/admin/sales/order/": "click [element_id] where [element_id] is link 'View' url: http://luma.com/admin/sales/order/view/order_id/299/",
+          "click [13716] where [13716] is link 'View' url: http://luma.com/admin/sales/order/view/order_id/299/": "scroll [down]",
+          "scroll [down]": "click [element_id] where [element_id] is link 'View' url: http://luma.com/admin/sales/order/view/order_id/125/",
+          "go_back": "scroll [down]",
+          "click [88062] where [88062] is link 'View' url: http://luma.com/admin/sales/order/view/order_id/65/": "scroll [down]",
+          "click [163031] where [163031] is link 'View' url: http://luma.com/admin/sales/order/view/order_id/125/": "click [element_id] where [element_id] is link 'View' url: http://luma.com/admin/sales/order/view/order_id/136/; There are multiple View on the page, this specific one is between ' cell 'View'' and ' cell '''. Above: ' cell 'Canceled''. Below: ' cell '''.",
+          "click [163051] where [163051] is link 'View' url: http://luma.com/admin/sales/order/view/order_id/136/": "stop [your_answer]"
+        }
+      }
+    },
+    "157": {
+      "157_skip_0_abs_None_narr_False_ui_False": {
+        "param": {
+          "config_file": "/tmp/tmpow8lfxw_/157.json",
+          "skip_step": 0,
+          "abstraction": "None",
+          "narrative": false,
+          "ui_change": false
+        },
+        "mapping": {
+          "click [622] where [622] is link '\\ue603 CUSTOMERS' url: http://luma.com/admin/admin/dashboard/#": "click [element_id] where [element_id] is link '\\ue603 CUSTOMERS' url: http://luma.com/admin/admin/dashboard/#",
+          "click [629] where [629] is link 'All Customers' url: http://luma.com/admin/customer/index/": "click [element_id] where [element_id] is link 'All Customers' url: http://luma.com/admin/customer/index/",
+          "stop [http://luma.com/admin/customer/index/]": "stop [your_answer]"
+        }
+      },
+      "157_skip_1_abs_None_narr_False_ui_False": {
+        "param": {
+          "config_file": "/tmp/tmpow8lfxw_/157.json",
+          "skip_step": 1,
+          "abstraction": "None",
+          "narrative": false,
+          "ui_change": false
+        },
+        "mapping": {
+          "click [622] where [622] is link '\\ue603 CUSTOMERS' url: http://luma.com/admin/admin/dashboard/#": "click [element_id] where [element_id] is link 'All Customers' url: http://luma.com/admin/customer/index/",
+          "click [629] where [629] is link 'All Customers' url: http://luma.com/admin/customer/index/": "stop [your_answer]"
+        }
+      }
+    },
+    "183": {
+      "183_skip_0_abs_None_narr_False_ui_False": {
+        "param": {
+          "config_file": "/tmp/tmpnj321iiu/183.json",
+          "skip_step": 0,
+          "abstraction": "None",
+          "narrative": false,
+          "ui_change": false
+        },
+        "mapping": {
+          "click [589] where [589] is link '\\ue608 CATALOG' url: http://luma.com/admin/admin/dashboard/#": "click [element_id] where [element_id] is link '\\ue608 CATALOG' url: http://luma.com/admin/admin/dashboard/#",
+          "click [601] where [601] is link 'Products' url: http://luma.com/admin/catalog/product/": "click [element_id] where [element_id] is link 'Products' url: http://luma.com/admin/catalog/product/",
+          "click [3430] where [3430] is button '\\ue605Filters'": "click [element_id] where [element_id] is button '\\ue605Filters'",
+          "type [8582] [10 ] where [8582] is textbox 'from' required: False": "type [element_id] [10 ] where [element_id] is textbox 'from' required: False",
+          "type [8584] [10 ] where [8584] is textbox 'to' required: False": "type [element_id] [10 ] where [element_id] is textbox 'to' required: False",
+          "click [3440] where [3440] is button 'Apply Filters'": "click [element_id] where [element_id] is button 'Apply Filters'",
+          "stop [N/A]": "stop [your_answer]"
+        }
+      },
+      "183_skip_1_abs_None_narr_False_ui_False": {
+        "param": {
+          "config_file": "/tmp/tmpnj321iiu/183.json",
+          "skip_step": 1,
+          "abstraction": "None",
+          "narrative": false,
+          "ui_change": false
+        },
+        "mapping": {
+          "click [589] where [589] is link '\\ue608 CATALOG' url: http://luma.com/admin/admin/dashboard/#": "click [element_id] where [element_id] is link '\\ue608 CATALOG' url: http://luma.com/admin/admin/dashboard/#",
+          "click [601] where [601] is link 'Products' url: http://luma.com/admin/catalog/product/": "click [element_id] where [element_id] is link 'Products' url: http://luma.com/admin/catalog/product/",
+          "click [3430] where [3430] is button '\\ue605Filters'": "click [element_id] where [element_id] is button '\\ue605Filters'",
+          "type [8582] [10 ] where [8582] is textbox 'from' required: False": "type [element_id] [10 ] where [element_id] is textbox 'from' required: False",
+          "type [8584] [10 ] where [8584] is textbox 'to' required: False": "type [element_id] [10 ] where [element_id] is textbox 'to' required: False",
+          "click [3440] where [3440] is button 'Apply Filters'": "stop [your_answer]"
+        }
+      }
+    },
+    "184": {
+      "184_skip_0_abs_None_narr_False_ui_False": {
+        "param": {
+          "config_file": "/tmp/tmpy9a69t93/184.json",
+          "skip_step": 0,
+          "abstraction": "None",
+          "narrative": false,
+          "ui_change": false
+        },
+        "mapping": {
+          "click [604] where [604] is link '\\ue608 CATALOG' url: http://luma.com/admin/admin/dashboard/#": "click [element_id] where [element_id] is link '\\ue608 CATALOG' url: http://luma.com/admin/admin/dashboard/#",
+          "click [616] where [616] is link 'Products' url: http://luma.com/admin/catalog/product/": "click [element_id] where [element_id] is link 'Products' url: http://luma.com/admin/catalog/product/",
+          "click [3605] where [3605] is button '\\ue605Filters'": "click [element_id] where [element_id] is button '\\ue605Filters'",
+          "type [6806] ['0' ] where [6806] is textbox 'from' required: False": "type [element_id] ['0' ] where [element_id] is textbox 'from' required: False",
+          "type [6808] ['0' ] where [6808] is textbox 'to' required: False": "type [element_id] ['0' ] where [element_id] is textbox 'to' required: False",
+          "click [3615] where [3615] is button 'Apply Filters'": "click [element_id] where [element_id] is button 'Apply Filters'",
+          "click [3348] where [3348] is columnheader 'Quantity' required: False": "click [element_id] where [element_id] is columnheader 'Quantity' required: False",
+          "stop [Geo Insulated Jogging Pant]": "stop [your_answer]"
+        }
+      },
+      "184_skip_1_abs_None_narr_False_ui_False": {
+        "param": {
+          "config_file": "/tmp/tmpy9a69t93/184.json",
+          "skip_step": 1,
+          "abstraction": "None",
+          "narrative": false,
+          "ui_change": false
+        },
+        "mapping": {
+          "click [604] where [604] is link '\\ue608 CATALOG' url: http://luma.com/admin/admin/dashboard/#": "click [element_id] where [element_id] is link '\\ue608 CATALOG' url: http://luma.com/admin/admin/dashboard/#",
+          "click [616] where [616] is link 'Products' url: http://luma.com/admin/catalog/product/": "click [element_id] where [element_id] is link 'Products' url: http://luma.com/admin/catalog/product/",
+          "click [3605] where [3605] is button '\\ue605Filters'": "click [element_id] where [element_id] is button '\\ue605Filters'",
+          "type [6806] ['0' ] where [6806] is textbox 'from' required: False": "type [element_id] ['0' ] where [element_id] is textbox 'from' required: False",
+          "type [6808] ['0' ] where [6808] is textbox 'to' required: False": "click [element_id] where [element_id] is button 'Apply Filters'",
+          "click [3615] where [3615] is button 'Apply Filters'": "click [element_id] where [element_id] is columnheader 'Quantity' required: False",
+          "click [3348] where [3348] is columnheader 'Quantity' required: False": "stop [your_answer]"
+        }
+      }
+    },
+    "185": {
+      "185_skip_0_abs_None_narr_False_ui_False": {
+        "param": {
+          "config_file": "/tmp/tmp3006rwjb/185.json",
+          "skip_step": 0,
+          "abstraction": "None",
+          "narrative": false,
+          "ui_change": false
+        },
+        "mapping": {
+          "click [604] where [604] is link '\\ue608 CATALOG' url: http://luma.com/admin/admin/dashboard/#": "click [element_id] where [element_id] is link '\\ue608 CATALOG' url: http://luma.com/admin/admin/dashboard/#",
+          "click [616] where [616] is link 'Products' url: http://luma.com/admin/catalog/product/": "click [element_id] where [element_id] is link 'Products' url: http://luma.com/admin/catalog/product/",
+          "click [4241] where [4241] is button 'Clear all'": "click [element_id] where [element_id] is button 'Clear all'",
+          "click [3662] where [3662] is button '\\ue605Filters'": "click [element_id] where [element_id] is button '\\ue605Filters'",
+          "type [8606] [3 ] where [8606] is textbox 'from' required: False": "type [element_id] [3 ] where [element_id] is textbox 'from' required: False",
+          "type [8608] [3 ] where [8608] is textbox 'to' required: False": "type [element_id] [3 ] where [element_id] is textbox 'to' required: False",
+          "click [3672] where [3672] is button 'Apply Filters'": "click [element_id] where [element_id] is button 'Apply Filters'",
+          "stop [Eos, Minerva]": "stop [your_answer]"
+        }
+      },
+      "185_skip_1_abs_None_narr_False_ui_False": {
+        "param": {
+          "config_file": "/tmp/tmp3006rwjb/185.json",
+          "skip_step": 1,
+          "abstraction": "None",
+          "narrative": false,
+          "ui_change": false
+        },
+        "mapping": {
+          "click [604] where [604] is link '\\ue608 CATALOG' url: http://luma.com/admin/admin/dashboard/#": "click [element_id] where [element_id] is link 'Products' url: http://luma.com/admin/catalog/product/",
+          "click [616] where [616] is link 'Products' url: http://luma.com/admin/catalog/product/": "click [element_id] where [element_id] is button 'Clear all'",
+          "click [4241] where [4241] is button 'Clear all'": "click [element_id] where [element_id] is button '\\ue605Filters'",
+          "click [3662] where [3662] is button '\\ue605Filters'": "type [element_id] [3 ] where [element_id] is textbox 'from' required: False",
+          "type [8606] [3 ] where [8606] is textbox 'from' required: False": "type [element_id] [3 ] where [element_id] is textbox 'to' required: False",
+          "type [8608] [3 ] where [8608] is textbox 'to' required: False": "click [element_id] where [element_id] is button 'Apply Filters'",
+          "click [3672] where [3672] is button 'Apply Filters'": "stop [your_answer]"
+        }
+      }
+    },
+    "186": {
+      "186_skip_0_abs_None_narr_False_ui_False": {
+        "param": {
+          "config_file": "/tmp/tmp01wl_8xo/186.json",
+          "skip_step": 0,
+          "abstraction": "None",
+          "narrative": false,
+          "ui_change": false
+        },
+        "mapping": {
+          "click [604] where [604] is link '\\ue608 CATALOG' url: http://luma.com/admin/admin/dashboard/#": "click [element_id] where [element_id] is link '\\ue608 CATALOG' url: http://luma.com/admin/admin/dashboard/#",
+          "click [616] where [616] is link 'Products' url: http://luma.com/admin/catalog/product/": "click [element_id] where [element_id] is link 'Products' url: http://luma.com/admin/catalog/product/",
+          "click [4178] where [4178] is button 'Clear all'": "click [element_id] where [element_id] is button 'Clear all'",
+          "click [3657] where [3657] is button '\\ue605Filters'": "click [element_id] where [element_id] is button '\\ue605Filters'",
+          "type [8583] [2 ] where [8583] is textbox 'from' required: False": "type [element_id] [2 ] where [element_id] is textbox 'from' required: False",
+          "click [8585] where [8585] is textbox 'to' required: False": "click [element_id] where [element_id] is textbox 'to' required: False",
+          "click [3667] where [3667] is button 'Apply Filters'": "click [element_id] where [element_id] is button 'Apply Filters'",
+          "type [8585] [3 ] where [8585] is textbox 'to' required: False": "type [element_id] [3 ] where [element_id] is textbox 'to' required: False",
+          "stop [Minerva LumaTech\u2122 V-Tee-XS-Blue,Eos V-Neck Hoodie-S-Blue]": "stop [your_answer]"
+        }
+      },
+      "186_skip_1_abs_None_narr_False_ui_False": {
+        "param": {
+          "config_file": "/tmp/tmp01wl_8xo/186.json",
+          "skip_step": 1,
+          "abstraction": "None",
+          "narrative": false,
+          "ui_change": false
+        },
+        "mapping": {
+          "click [604] where [604] is link '\\ue608 CATALOG' url: http://luma.com/admin/admin/dashboard/#": "click [element_id] where [element_id] is link '\\ue608 CATALOG' url: http://luma.com/admin/admin/dashboard/#",
+          "click [616] where [616] is link 'Products' url: http://luma.com/admin/catalog/product/": "click [element_id] where [element_id] is link 'Products' url: http://luma.com/admin/catalog/product/",
+          "click [4178] where [4178] is button 'Clear all'": "click [element_id] where [element_id] is button 'Clear all'",
+          "click [3657] where [3657] is button '\\ue605Filters'": "type [element_id] [3 ] where [element_id] is textbox 'to' required: False",
+          "type [8583] [2 ] where [8583] is textbox 'from' required: False": "type [element_id] [2 ] where [element_id] is textbox 'from' required: False",
+          "click [8585] where [8585] is textbox 'to' required: False": "click [element_id] where [element_id] is textbox 'to' required: False",
+          "click [3667] where [3667] is button 'Apply Filters'": "stop [your_answer]",
+          "type [8585] [3 ] where [8585] is textbox 'to' required: False": "click [element_id] where [element_id] is button 'Apply Filters'"
+        }
+      }
+    },
+    "187": {
+      "187_skip_0_abs_None_narr_False_ui_False": {
+        "param": {
+          "config_file": "/tmp/tmpdo448_6b/187.json",
+          "skip_step": 0,
+          "abstraction": "None",
+          "narrative": false,
+          "ui_change": false
+        },
+        "mapping": {
+          "click [604] where [604] is link '\\ue608 CATALOG' url: http://luma.com/admin/admin/dashboard/#": "click [element_id] where [element_id] is link '\\ue608 CATALOG' url: http://luma.com/admin/admin/dashboard/#",
+          "click [616] where [616] is link 'Products' url: http://luma.com/admin/catalog/product/": "click [element_id] where [element_id] is link 'Products' url: http://luma.com/admin/catalog/product/",
+          "click [5253] where [5253] is button 'Clear all'": "click [element_id] where [element_id] is button 'Clear all'",
+          "click [3664] where [3664] is button '\\ue605Filters'": "click [element_id] where [element_id] is button '\\ue605Filters'",
+          "type [8606] [1  ] where [8606] is textbox 'from' required: False": "type [element_id] [1  ] where [element_id] is textbox 'from' required: False",
+          "click [8608] where [8608] is textbox 'to' required: False": "click [element_id] where [element_id] is textbox 'to' required: False",
+          "type [8608] [3 ] where [8608] is textbox 'to' focused: True required: False": "type [element_id] [3 ] where [element_id] is textbox 'to' focused: True required: False",
+          "click [3674] where [3674] is button 'Apply Filters'": "click [element_id] where [element_id] is button 'Apply Filters'",
+          "stop [WH11-S-Blue,WS08-XS-Blue]": "stop [your_answer]"
+        }
+      },
+      "187_skip_1_abs_None_narr_False_ui_False": {
+        "param": {
+          "config_file": "/tmp/tmpdo448_6b/187.json",
+          "skip_step": 1,
+          "abstraction": "None",
+          "narrative": false,
+          "ui_change": false
+        },
+        "mapping": {
+          "click [604] where [604] is link '\\ue608 CATALOG' url: http://luma.com/admin/admin/dashboard/#": "click [element_id] where [element_id] is link '\\ue608 CATALOG' url: http://luma.com/admin/admin/dashboard/#",
+          "click [616] where [616] is link 'Products' url: http://luma.com/admin/catalog/product/": "click [element_id] where [element_id] is link 'Products' url: http://luma.com/admin/catalog/product/",
+          "click [5253] where [5253] is button 'Clear all'": "click [element_id] where [element_id] is button 'Clear all'",
+          "click [3664] where [3664] is button '\\ue605Filters'": "type [element_id] [1  ] where [element_id] is textbox 'from' required: False",
+          "type [8606] [1  ] where [8606] is textbox 'from' required: False": "click [element_id] where [element_id] is textbox 'to' required: False",
+          "click [8608] where [8608] is textbox 'to' required: False": "type [element_id] [3 ] where [element_id] is textbox 'to' focused: True required: False",
+          "type [8608] [3 ] where [8608] is textbox 'to' focused: True required: False": "click [element_id] where [element_id] is button 'Apply Filters'",
+          "click [3674] where [3674] is button 'Apply Filters'": "stop [your_answer]"
+        }
+      }
+    },
+    "193": {
+      "193_skip_0_abs_None_narr_False_ui_False": {
+        "param": {
+          "config_file": "/tmp/tmplxl2e_lx/193.json",
+          "skip_step": 0,
+          "abstraction": "None",
+          "narrative": false,
+          "ui_change": false
+        },
+        "mapping": {
+          "click [571] where [571] is link '\\ue60b SALES' url: http://luma.com/admin/admin/dashboard/#": "click [element_id] where [element_id] is link '\\ue60b SALES' url: http://luma.com/admin/admin/dashboard/#",
+          "click [583] where [583] is link 'Orders' url: http://luma.com/admin/sales/order/": "click [element_id] where [element_id] is link 'Orders' url: http://luma.com/admin/sales/order/",
+          "click [3691] where [3691] is button '\\ue605Filters'": "click [element_id] where [element_id] is button '\\ue605Filters'",
+          "type [6028] [Complete ] where [6028] is combobox 'notice-VQ89SWC' hasPopup: menu expanded: False": "type [element_id] [Complete ] where [element_id] is combobox 'notice-VQ89SWC' hasPopup: menu expanded: False",
+          "click [3701] where [3701] is button 'Apply Filters'": "click [element_id] where [element_id] is button 'Apply Filters'",
+          "stop [182.40]": "stop [your_answer]"
+        }
+      },
+      "193_skip_1_abs_None_narr_False_ui_False": {
+        "param": {
+          "config_file": "/tmp/tmplxl2e_lx/193.json",
+          "skip_step": 1,
+          "abstraction": "None",
+          "narrative": false,
+          "ui_change": false
+        },
+        "mapping": {
+          "click [571] where [571] is link '\\ue60b SALES' url: http://luma.com/admin/admin/dashboard/#": "click [element_id] where [element_id] is link '\\ue60b SALES' url: http://luma.com/admin/admin/dashboard/#",
+          "click [583] where [583] is link 'Orders' url: http://luma.com/admin/sales/order/": "click [element_id] where [element_id] is link 'Orders' url: http://luma.com/admin/sales/order/",
+          "click [3691] where [3691] is button '\\ue605Filters'": "click [element_id] where [element_id] is button '\\ue605Filters'",
+          "type [6028] [Complete ] where [6028] is combobox 'notice-VQ89SWC' hasPopup: menu expanded: False": "click [element_id] where [element_id] is button 'Apply Filters'",
+          "click [3701] where [3701] is button 'Apply Filters'": "stop [your_answer]"
+        }
+      }
+    },
+    "194": {
+      "194_skip_0_abs_None_narr_False_ui_False": {
+        "param": {
+          "config_file": "/tmp/tmpd7ugwtzl/194.json",
+          "skip_step": 0,
+          "abstraction": "None",
+          "narrative": false,
+          "ui_change": false
+        },
+        "mapping": {
+          "click [571] where [571] is link '\\ue60b SALES' url: http://luma.com/admin/admin/dashboard/#": "click [element_id] where [element_id] is link '\\ue60b SALES' url: http://luma.com/admin/admin/dashboard/#",
+          "click [583] where [583] is link 'Orders' url: http://luma.com/admin/sales/order/": "click [element_id] where [element_id] is link 'Orders' url: http://luma.com/admin/sales/order/",
+          "click [3612] where [3612] is button '\\ue605Filters'": "click [element_id] where [element_id] is button '\\ue605Filters'",
+          "type [5983] [Complete ] where [5983] is combobox 'notice-FQ52O33' hasPopup: menu expanded: False": "type [element_id] [Complete ] where [element_id] is combobox 'notice-FQ52O33' hasPopup: menu expanded: False",
+          "click [3622] where [3622] is button 'Apply Filters'": "click [element_id] where [element_id] is button 'Apply Filters'",
+          "scroll [down]": "scroll [down]",
+          "stop [555.2]": "stop [your_answer]"
+        }
+      },
+      "194_skip_1_abs_None_narr_False_ui_False": {
+        "param": {
+          "config_file": "/tmp/tmpd7ugwtzl/194.json",
+          "skip_step": 1,
+          "abstraction": "None",
+          "narrative": false,
+          "ui_change": false
+        },
+        "mapping": {
+          "click [571] where [571] is link '\\ue60b SALES' url: http://luma.com/admin/admin/dashboard/#": "click [element_id] where [element_id] is link '\\ue60b SALES' url: http://luma.com/admin/admin/dashboard/#",
+          "click [583] where [583] is link 'Orders' url: http://luma.com/admin/sales/order/": "click [element_id] where [element_id] is link 'Orders' url: http://luma.com/admin/sales/order/",
+          "click [3612] where [3612] is button '\\ue605Filters'": "click [element_id] where [element_id] is button '\\ue605Filters'",
+          "type [5983] [Complete ] where [5983] is combobox 'notice-FQ52O33' hasPopup: menu expanded: False": "type [element_id] [Complete ] where [element_id] is combobox 'notice-FQ52O33' hasPopup: menu expanded: False",
+          "click [3622] where [3622] is button 'Apply Filters'": "click [element_id] where [element_id] is button 'Apply Filters'",
+          "scroll [down]": "stop [your_answer]"
+        }
+      }
+    },
+    "195": {
+      "195_skip_0_abs_None_narr_False_ui_False": {
+        "param": {
+          "config_file": "/tmp/tmpk9jor2_w/195.json",
+          "skip_step": 0,
+          "abstraction": "None",
+          "narrative": false,
+          "ui_change": false
+        },
+        "mapping": {
+          "click [555] where [555] is link '\\ue60b SALES' url: http://luma.com/admin/admin/dashboard/#": "click [element_id] where [element_id] is link '\\ue60b SALES' url: http://luma.com/admin/admin/dashboard/#",
+          "click [567] where [567] is link 'Orders' url: http://luma.com/admin/sales/order/": "click [element_id] where [element_id] is link 'Orders' url: http://luma.com/admin/sales/order/",
+          "click [3683] where [3683] is button '\\ue605Filters'": "click [element_id] where [element_id] is button '\\ue605Filters'",
+          "type [6026] [Pending ] where [6026] is combobox 'notice-Q2CPD24' hasPopup: menu expanded: False": "type [element_id] [Pending ] where [element_id] is combobox 'notice-Q2CPD24' hasPopup: menu expanded: False",
+          "click [3693] where [3693] is button 'Apply Filters'": "click [element_id] where [element_id] is button 'Apply Filters'",
+          "scroll [down]": "scroll [down]",
+          "stop [885.4]": "stop [your_answer]"
+        }
+      },
+      "195_skip_1_abs_None_narr_False_ui_False": {
+        "param": {
+          "config_file": "/tmp/tmpk9jor2_w/195.json",
+          "skip_step": 1,
+          "abstraction": "None",
+          "narrative": false,
+          "ui_change": false
+        },
+        "mapping": {
+          "click [555] where [555] is link '\\ue60b SALES' url: http://luma.com/admin/admin/dashboard/#": "click [element_id] where [element_id] is link 'Orders' url: http://luma.com/admin/sales/order/",
+          "click [567] where [567] is link 'Orders' url: http://luma.com/admin/sales/order/": "click [element_id] where [element_id] is button '\\ue605Filters'",
+          "click [3683] where [3683] is button '\\ue605Filters'": "type [element_id] [Pending ] where [element_id] is combobox 'notice-Q2CPD24' hasPopup: menu expanded: False",
+          "type [6026] [Pending ] where [6026] is combobox 'notice-Q2CPD24' hasPopup: menu expanded: False": "click [element_id] where [element_id] is button 'Apply Filters'",
+          "click [3693] where [3693] is button 'Apply Filters'": "scroll [down]",
+          "scroll [down]": "stop [your_answer]"
+        }
+      }
+    },
+    "196": {
+      "196_skip_0_abs_None_narr_False_ui_False": {
+        "param": {
+          "config_file": "/tmp/tmpjlzs4lum/196.json",
+          "skip_step": 0,
+          "abstraction": "None",
+          "narrative": false,
+          "ui_change": false
+        },
+        "mapping": {
+          "click [571] where [571] is link '\\ue60b SALES' url: http://luma.com/admin/admin/dashboard/#": "click [element_id] where [element_id] is link '\\ue60b SALES' url: http://luma.com/admin/admin/dashboard/#",
+          "click [583] where [583] is link 'Orders' url: http://luma.com/admin/sales/order/": "click [element_id] where [element_id] is link 'Orders' url: http://luma.com/admin/sales/order/",
+          "click [3617] where [3617] is button '\\ue605Filters'": "click [element_id] where [element_id] is button '\\ue605Filters'",
+          "type [6051] [Complete ] where [6051] is combobox 'notice-GEAWX17' hasPopup: menu expanded: False": "type [element_id] [Complete ] where [element_id] is combobox 'notice-GEAWX17' hasPopup: menu expanded: False",
+          "click [3627] where [3627] is button 'Apply Filters'": "click [element_id] where [element_id] is button 'Apply Filters'",
+          "scroll [down]": "scroll [down]",
+          "scroll [up]": "scroll [up]",
+          "type [6051] [Canceled ] where [6051] is combobox 'notice-GEAWX17' hasPopup: menu expanded: False": "type [element_id] [Canceled ] where [element_id] is combobox 'notice-GEAWX17' hasPopup: menu expanded: False",
+          "stop [194.25]": "stop [your_answer]"
+        }
+      },
+      "196_skip_1_abs_None_narr_False_ui_False": {
+        "param": {
+          "config_file": "/tmp/tmpjlzs4lum/196.json",
+          "skip_step": 1,
+          "abstraction": "None",
+          "narrative": false,
+          "ui_change": false
+        },
+        "mapping": {
+          "click [571] where [571] is link '\\ue60b SALES' url: http://luma.com/admin/admin/dashboard/#": "click [element_id] where [element_id] is link '\\ue60b SALES' url: http://luma.com/admin/admin/dashboard/#",
+          "click [583] where [583] is link 'Orders' url: http://luma.com/admin/sales/order/": "click [element_id] where [element_id] is link 'Orders' url: http://luma.com/admin/sales/order/",
+          "click [3617] where [3617] is button '\\ue605Filters'": "click [element_id] where [element_id] is button '\\ue605Filters'",
+          "type [6051] [Complete ] where [6051] is combobox 'notice-GEAWX17' hasPopup: menu expanded: False": "type [element_id] [Complete ] where [element_id] is combobox 'notice-GEAWX17' hasPopup: menu expanded: False",
+          "click [3627] where [3627] is button 'Apply Filters'": "scroll [down]",
+          "scroll [down]": "stop [your_answer]",
+          "scroll [up]": "scroll [up]",
+          "type [6051] [Canceled ] where [6051] is combobox 'notice-GEAWX17' hasPopup: menu expanded: False": "click [element_id] where [element_id] is button 'Apply Filters'"
+        }
+      }
+    },
+    "197": {
+      "197_skip_0_abs_None_narr_False_ui_False": {
+        "param": {
+          "config_file": "/tmp/tmpewwadh7f/197.json",
+          "skip_step": 0,
+          "abstraction": "None",
+          "narrative": false,
+          "ui_change": false
+        },
+        "mapping": {
+          "click [570] where [570] is link '\\ue60b SALES' url: http://luma.com/admin/admin/dashboard/#": "click [element_id] where [element_id] is link '\\ue60b SALES' url: http://luma.com/admin/admin/dashboard/#",
+          "click [582] where [582] is link 'Orders' url: http://luma.com/admin/sales/order/": "click [element_id] where [element_id] is link 'Orders' url: http://luma.com/admin/sales/order/",
+          "scroll [down]": "scroll [down]",
+          "stop [778.2]": "stop [your_answer]"
+        }
+      },
+      "197_skip_1_abs_None_narr_False_ui_False": {
+        "param": {
+          "config_file": "/tmp/tmpewwadh7f/197.json",
+          "skip_step": 1,
+          "abstraction": "None",
+          "narrative": false,
+          "ui_change": false
+        },
+        "mapping": {
+          "click [570] where [570] is link '\\ue60b SALES' url: http://luma.com/admin/admin/dashboard/#": "click [element_id] where [element_id] is link 'Orders' url: http://luma.com/admin/sales/order/",
+          "click [582] where [582] is link 'Orders' url: http://luma.com/admin/sales/order/": "scroll [down]",
+          "scroll [down]": "stop [your_answer]"
+        }
+      }
+    },
+    "198": {
+      "198_skip_0_abs_None_narr_False_ui_False": {
+        "param": {
+          "config_file": "/tmp/tmposqaajdb/198.json",
+          "skip_step": 0,
+          "abstraction": "None",
+          "narrative": false,
+          "ui_change": false
+        },
+        "mapping": {
+          "click [570] where [570] is link '\\ue60b SALES' url: http://luma.com/admin/admin/dashboard/#": "click [element_id] where [element_id] is link '\\ue60b SALES' url: http://luma.com/admin/admin/dashboard/#",
+          "click [582] where [582] is link 'Orders' url: http://luma.com/admin/sales/order/": "click [element_id] where [element_id] is link 'Orders' url: http://luma.com/admin/sales/order/",
+          "click [3603] where [3603] is button '\\ue605Filters'": "click [element_id] where [element_id] is button '\\ue605Filters'",
+          "type [6030] [Canceled ] where [6030] is combobox 'notice-C7E4FVJ' hasPopup: menu expanded: False": "type [element_id] [Canceled ] where [element_id] is combobox 'notice-C7E4FVJ' hasPopup: menu expanded: False",
+          "click [3613] where [3613] is button 'Apply Filters'": "click [element_id] where [element_id] is button 'Apply Filters'",
+          "stop [Lily Potter]": "stop [your_answer]"
+        }
+      },
+      "198_skip_1_abs_None_narr_False_ui_False": {
+        "param": {
+          "config_file": "/tmp/tmposqaajdb/198.json",
+          "skip_step": 1,
+          "abstraction": "None",
+          "narrative": false,
+          "ui_change": false
+        },
+        "mapping": {
+          "click [570] where [570] is link '\\ue60b SALES' url: http://luma.com/admin/admin/dashboard/#": "click [element_id] where [element_id] is link '\\ue60b SALES' url: http://luma.com/admin/admin/dashboard/#",
+          "click [582] where [582] is link 'Orders' url: http://luma.com/admin/sales/order/": "click [element_id] where [element_id] is link 'Orders' url: http://luma.com/admin/sales/order/",
+          "click [3603] where [3603] is button '\\ue605Filters'": "click [element_id] where [element_id] is button '\\ue605Filters'",
+          "type [6030] [Canceled ] where [6030] is combobox 'notice-C7E4FVJ' hasPopup: menu expanded: False": "click [element_id] where [element_id] is button 'Apply Filters'",
+          "click [3613] where [3613] is button 'Apply Filters'": "stop [your_answer]"
+        }
+      }
+    },
+    "199": {
+      "199_skip_0_abs_None_narr_False_ui_False": {
+        "param": {
+          "config_file": "/tmp/tmpxm2mfo2s/199.json",
+          "skip_step": 0,
+          "abstraction": "None",
+          "narrative": false,
+          "ui_change": false
+        },
+        "mapping": {
+          "click [555] where [555] is link '\\ue60b SALES' url: http://luma.com/admin/admin/dashboard/#": "click [element_id] where [element_id] is link '\\ue60b SALES' url: http://luma.com/admin/admin/dashboard/#",
+          "click [567] where [567] is link 'Orders' url: http://luma.com/admin/sales/order/": "click [element_id] where [element_id] is link 'Orders' url: http://luma.com/admin/sales/order/",
+          "click [3548] where [3548] is button '\\ue605Filters'": "click [element_id] where [element_id] is button '\\ue605Filters'",
+          "type [5201] [Pending ] where [5201] is combobox 'notice-DCJCTX5' hasPopup: menu expanded: False": "type [element_id] [Pending ] where [element_id] is combobox 'notice-DCJCTX5' hasPopup: menu expanded: False",
+          "click [3558] where [3558] is button 'Apply Filters'": "click [element_id] where [element_id] is button 'Apply Filters'",
+          "stop [000000299]": "stop [your_answer]"
+        }
+      },
+      "199_skip_1_abs_None_narr_False_ui_False": {
+        "param": {
+          "config_file": "/tmp/tmpxm2mfo2s/199.json",
+          "skip_step": 1,
+          "abstraction": "None",
+          "narrative": false,
+          "ui_change": false
+        },
+        "mapping": {
+          "click [555] where [555] is link '\\ue60b SALES' url: http://luma.com/admin/admin/dashboard/#": "click [element_id] where [element_id] is link '\\ue60b SALES' url: http://luma.com/admin/admin/dashboard/#",
+          "click [567] where [567] is link 'Orders' url: http://luma.com/admin/sales/order/": "click [element_id] where [element_id] is link 'Orders' url: http://luma.com/admin/sales/order/",
+          "click [3548] where [3548] is button '\\ue605Filters'": "click [element_id] where [element_id] is button '\\ue605Filters'",
+          "type [5201] [Pending ] where [5201] is combobox 'notice-DCJCTX5' hasPopup: menu expanded: False": "click [element_id] where [element_id] is button 'Apply Filters'",
+          "click [3558] where [3558] is button 'Apply Filters'": "stop [your_answer]"
+        }
+      }
+    },
+    "200": {
+      "200_skip_0_abs_None_narr_False_ui_False": {
+        "param": {
+          "config_file": "/tmp/tmp2rn2pivy/200.json",
+          "skip_step": 0,
+          "abstraction": "None",
+          "narrative": false,
+          "ui_change": false
+        },
+        "mapping": {
+          "click [570] where [570] is link '\\ue60b SALES' url: http://luma.com/admin/admin/dashboard/#": "click [element_id] where [element_id] is link '\\ue60b SALES' url: http://luma.com/admin/admin/dashboard/#",
+          "click [582] where [582] is link 'Orders' url: http://luma.com/admin/sales/order/": "click [element_id] where [element_id] is link 'Orders' url: http://luma.com/admin/sales/order/",
+          "click [3497] where [3497] is button '\\ue605Filters'": "click [element_id] where [element_id] is button '\\ue605Filters'",
+          "type [6026] [Complete ] where [6026] is combobox 'notice-GBX80G5' hasPopup: menu expanded: False": "type [element_id] [Complete ] where [element_id] is combobox 'notice-GBX80G5' hasPopup: menu expanded: False",
+          "click [3507] where [3507] is button 'Apply Filters'": "click [element_id] where [element_id] is button 'Apply Filters'",
+          "click [3520] where [3520] is columnheader '\u2191 Purchase Date' required: False": "click [element_id] where [element_id] is columnheader '\u2191 Purchase Date' required: False",
+          "stop [John Lee]": "stop [your_answer]"
+        }
+      },
+      "200_skip_1_abs_None_narr_False_ui_False": {
+        "param": {
+          "config_file": "/tmp/tmp2rn2pivy/200.json",
+          "skip_step": 1,
+          "abstraction": "None",
+          "narrative": false,
+          "ui_change": false
+        },
+        "mapping": {
+          "click [570] where [570] is link '\\ue60b SALES' url: http://luma.com/admin/admin/dashboard/#": "click [element_id] where [element_id] is link '\\ue60b SALES' url: http://luma.com/admin/admin/dashboard/#",
+          "click [582] where [582] is link 'Orders' url: http://luma.com/admin/sales/order/": "click [element_id] where [element_id] is link 'Orders' url: http://luma.com/admin/sales/order/",
+          "click [3497] where [3497] is button '\\ue605Filters'": "click [element_id] where [element_id] is button '\\ue605Filters'",
+          "type [6026] [Complete ] where [6026] is combobox 'notice-GBX80G5' hasPopup: menu expanded: False": "type [element_id] [Complete ] where [element_id] is combobox 'notice-GBX80G5' hasPopup: menu expanded: False",
+          "click [3507] where [3507] is button 'Apply Filters'": "click [element_id] where [element_id] is columnheader '\u2191 Purchase Date' required: False",
+          "click [3520] where [3520] is columnheader '\u2191 Purchase Date' required: False": "stop [your_answer]"
+        }
+      }
+    },
+    "201": {
+      "201_skip_0_abs_None_narr_False_ui_False": {
+        "param": {
+          "config_file": "/tmp/tmpg68212df/201.json",
+          "skip_step": 0,
+          "abstraction": "None",
+          "narrative": false,
+          "ui_change": false
+        },
+        "mapping": {
+          "click [570] where [570] is link '\\ue60b SALES' url: http://luma.com/admin/admin/dashboard/#": "click [element_id] where [element_id] is link '\\ue60b SALES' url: http://luma.com/admin/admin/dashboard/#",
+          "click [582] where [582] is link 'Orders' url: http://luma.com/admin/sales/order/": "click [element_id] where [element_id] is link 'Orders' url: http://luma.com/admin/sales/order/",
+          "click [3500] where [3500] is button '\\ue605Filters'": "click [element_id] where [element_id] is button '\\ue605Filters'",
+          "type [5983] [Suspected Fraud ] where [5983] is combobox 'notice-GDR65S8' hasPopup: menu expanded: False": "type [element_id] [Suspected Fraud ] where [element_id] is combobox 'notice-GDR65S8' hasPopup: menu expanded: False",
+          "click [3510] where [3510] is button 'Apply Filters'": "click [element_id] where [element_id] is button 'Apply Filters'",
+          "stop [N/A]": "stop [your_answer]"
+        }
+      },
+      "201_skip_1_abs_None_narr_False_ui_False": {
+        "param": {
+          "config_file": "/tmp/tmpg68212df/201.json",
+          "skip_step": 1,
+          "abstraction": "None",
+          "narrative": false,
+          "ui_change": false
+        },
+        "mapping": {
+          "click [570] where [570] is link '\\ue60b SALES' url: http://luma.com/admin/admin/dashboard/#": "click [element_id] where [element_id] is link '\\ue60b SALES' url: http://luma.com/admin/admin/dashboard/#",
+          "click [582] where [582] is link 'Orders' url: http://luma.com/admin/sales/order/": "click [element_id] where [element_id] is button '\\ue605Filters'",
+          "click [3500] where [3500] is button '\\ue605Filters'": "type [element_id] [Suspected Fraud ] where [element_id] is combobox 'notice-GDR65S8' hasPopup: menu expanded: False",
+          "type [5983] [Suspected Fraud ] where [5983] is combobox 'notice-GDR65S8' hasPopup: menu expanded: False": "click [element_id] where [element_id] is button 'Apply Filters'",
+          "click [3510] where [3510] is button 'Apply Filters'": "stop [your_answer]"
+        }
+      }
+    },
+    "202": {
+      "202_skip_0_abs_None_narr_False_ui_False": {
+        "param": {
+          "config_file": "/tmp/tmpxtk2o6ts/202.json",
+          "skip_step": 0,
+          "abstraction": "None",
+          "narrative": false,
+          "ui_change": false
+        },
+        "mapping": {
+          "click [556] where [556] is link '\\ue60b SALES' url: http://luma.com/admin/admin/dashboard/#": "click [element_id] where [element_id] is link '\\ue60b SALES' url: http://luma.com/admin/admin/dashboard/#",
+          "click [568] where [568] is link 'Orders' url: http://luma.com/admin/sales/order/": "click [element_id] where [element_id] is link 'Orders' url: http://luma.com/admin/sales/order/",
+          "click [3655] where [3655] is button '\\ue605Filters'": "click [element_id] where [element_id] is button '\\ue605Filters'",
+          "type [5201] [Canceled ] where [5201] is combobox 'notice-Q87BI1D' hasPopup: menu expanded: False": "type [element_id] [Canceled ] where [element_id] is combobox 'notice-Q87BI1D' hasPopup: menu expanded: False",
+          "click [3665] where [3665] is button 'Apply Filters'": "click [element_id] where [element_id] is button 'Apply Filters'",
+          "click [3487] where [3487] is columnheader '\u2191 Purchase Date' required: False": "click [element_id] where [element_id] is columnheader '\u2191 Purchase Date' required: False",
+          "click [3487] where [3487] is columnheader '\u2193 Purchase Date' required: False": "click [element_id] where [element_id] is columnheader '\u2193 Purchase Date' required: False",
+          "stop [May 23, 2023]": "stop [your_answer]"
+        }
+      },
+      "202_skip_1_abs_None_narr_False_ui_False": {
+        "param": {
+          "config_file": "/tmp/tmpxtk2o6ts/202.json",
+          "skip_step": 1,
+          "abstraction": "None",
+          "narrative": false,
+          "ui_change": false
+        },
+        "mapping": {
+          "click [556] where [556] is link '\\ue60b SALES' url: http://luma.com/admin/admin/dashboard/#": "click [element_id] where [element_id] is link '\\ue60b SALES' url: http://luma.com/admin/admin/dashboard/#",
+          "click [568] where [568] is link 'Orders' url: http://luma.com/admin/sales/order/": "click [element_id] where [element_id] is link 'Orders' url: http://luma.com/admin/sales/order/",
+          "click [3655] where [3655] is button '\\ue605Filters'": "type [element_id] [Canceled ] where [element_id] is combobox 'notice-Q87BI1D' hasPopup: menu expanded: False",
+          "type [5201] [Canceled ] where [5201] is combobox 'notice-Q87BI1D' hasPopup: menu expanded: False": "click [element_id] where [element_id] is button 'Apply Filters'",
+          "click [3665] where [3665] is button 'Apply Filters'": "click [element_id] where [element_id] is columnheader '\u2191 Purchase Date' required: False",
+          "click [3487] where [3487] is columnheader '\u2191 Purchase Date' required: False": "click [element_id] where [element_id] is columnheader '\u2193 Purchase Date' required: False",
+          "click [3487] where [3487] is columnheader '\u2193 Purchase Date' required: False": "stop [your_answer]"
+        }
+      }
+    },
+    "203": {
+      "203_skip_0_abs_None_narr_False_ui_False": {
+        "param": {
+          "config_file": "/tmp/tmpzw0abr90/203.json",
+          "skip_step": 0,
+          "abstraction": "None",
+          "narrative": false,
+          "ui_change": false
+        },
+        "mapping": {
+          "click [570] where [570] is link '\\ue60b SALES' url: http://luma.com/admin/admin/dashboard/#": "click [element_id] where [element_id] is link '\\ue60b SALES' url: http://luma.com/admin/admin/dashboard/#",
+          "click [582] where [582] is link 'Orders' url: http://luma.com/admin/sales/order/": "click [element_id] where [element_id] is link 'Orders' url: http://luma.com/admin/sales/order/",
+          "click [3592] where [3592] is button '\\ue605Filters'": "click [element_id] where [element_id] is button '\\ue605Filters'",
+          "type [6047] [Pending ] where [6047] is combobox 'notice-FOXX8KT' hasPopup: menu expanded: False": "type [element_id] [Pending ] where [element_id] is combobox 'notice-FOXX8KT' hasPopup: menu expanded: False",
+          "click [3602] where [3602] is button 'Apply Filters'": "click [element_id] where [element_id] is button 'Apply Filters'",
+          "click [3524] where [3524] is columnheader '\u2191 Purchase Date' required: False": "click [element_id] where [element_id] is columnheader '\u2191 Purchase Date' required: False",
+          "click [3524] where [3524] is columnheader '\u2193 Purchase Date' required: False": "click [element_id] where [element_id] is columnheader '\u2193 Purchase Date' required: False",
+          "stop [000000299,May 31, 2023]": "stop [your_answer]"
+        }
+      },
+      "203_skip_1_abs_None_narr_False_ui_False": {
+        "param": {
+          "config_file": "/tmp/tmpzw0abr90/203.json",
+          "skip_step": 1,
+          "abstraction": "None",
+          "narrative": false,
+          "ui_change": false
+        },
+        "mapping": {
+          "click [570] where [570] is link '\\ue60b SALES' url: http://luma.com/admin/admin/dashboard/#": "click [element_id] where [element_id] is link '\\ue60b SALES' url: http://luma.com/admin/admin/dashboard/#",
+          "click [582] where [582] is link 'Orders' url: http://luma.com/admin/sales/order/": "click [element_id] where [element_id] is button '\\ue605Filters'",
+          "click [3592] where [3592] is button '\\ue605Filters'": "type [element_id] [Pending ] where [element_id] is combobox 'notice-FOXX8KT' hasPopup: menu expanded: False",
+          "type [6047] [Pending ] where [6047] is combobox 'notice-FOXX8KT' hasPopup: menu expanded: False": "click [element_id] where [element_id] is button 'Apply Filters'",
+          "click [3602] where [3602] is button 'Apply Filters'": "click [element_id] where [element_id] is columnheader '\u2191 Purchase Date' required: False",
+          "click [3524] where [3524] is columnheader '\u2191 Purchase Date' required: False": "click [element_id] where [element_id] is columnheader '\u2193 Purchase Date' required: False",
+          "click [3524] where [3524] is columnheader '\u2193 Purchase Date' required: False": "stop [your_answer]"
+        }
+      }
+    },
+    "208": {
+      "208_skip_0_abs_None_narr_False_ui_False": {
+        "param": {
+          "config_file": "/tmp/tmpso_9emrj/208.json",
+          "skip_step": 0,
+          "abstraction": "None",
+          "narrative": false,
+          "ui_change": false
+        },
+        "mapping": {
+          "click [622] where [622] is link '\\ue603 CUSTOMERS' url: http://luma.com/admin/admin/dashboard/#": "click [element_id] where [element_id] is link '\\ue603 CUSTOMERS' url: http://luma.com/admin/admin/dashboard/#",
+          "click [629] where [629] is link 'All Customers' url: http://luma.com/admin/customer/index/": "click [element_id] where [element_id] is link 'All Customers' url: http://luma.com/admin/customer/index/",
+          "type [3565] [2058812302 ] where [3565] is textbox 'Search by keyword' required: False": "type [element_id] [2058812302 ] where [element_id] is textbox 'Search by keyword' required: False",
+          "stop [John Smith, john.smith.xyz@gmail.com]": "stop [your_answer]"
+        }
+      },
+      "208_skip_1_abs_None_narr_False_ui_False": {
+        "param": {
+          "config_file": "/tmp/tmpso_9emrj/208.json",
+          "skip_step": 1,
+          "abstraction": "None",
+          "narrative": false,
+          "ui_change": false
+        },
+        "mapping": {
+          "click [622] where [622] is link '\\ue603 CUSTOMERS' url: http://luma.com/admin/admin/dashboard/#": "click [element_id] where [element_id] is link '\\ue603 CUSTOMERS' url: http://luma.com/admin/admin/dashboard/#",
+          "click [629] where [629] is link 'All Customers' url: http://luma.com/admin/customer/index/": "click [element_id] where [element_id] is link 'All Customers' url: http://luma.com/admin/customer/index/",
+          "type [3565] [2058812302 ] where [3565] is textbox 'Search by keyword' required: False": "stop [your_answer]"
+        }
+      }
+    },
+    "209": {
+      "209_skip_0_abs_None_narr_False_ui_False": {
+        "param": {
+          "config_file": "/tmp/tmp9bzm3xqq/209.json",
+          "skip_step": 0,
+          "abstraction": "None",
+          "narrative": false,
+          "ui_change": false
+        },
+        "mapping": {
+          "click [622] where [622] is link '\\ue603 CUSTOMERS' url: http://luma.com/admin/admin/dashboard/#": "click [element_id] where [element_id] is link '\\ue603 CUSTOMERS' url: http://luma.com/admin/admin/dashboard/#",
+          "click [629] where [629] is link 'All Customers' url: http://luma.com/admin/customer/index/": "click [element_id] where [element_id] is link 'All Customers' url: http://luma.com/admin/customer/index/",
+          "click [4315] where [4315] is button 'Clear all'": "click [element_id] where [element_id] is button 'Clear all'",
+          "type [3700] [2137418080 ] where [3700] is textbox 'Search by keyword' required: False": "type [element_id] [2137418080 ] where [element_id] is textbox 'Search by keyword' required: False",
+          "stop [Jennifer White, jennifer.white@yahoo.com]": "stop [your_answer]"
+        }
+      },
+      "209_skip_1_abs_None_narr_False_ui_False": {
+        "param": {
+          "config_file": "/tmp/tmp9bzm3xqq/209.json",
+          "skip_step": 1,
+          "abstraction": "None",
+          "narrative": false,
+          "ui_change": false
+        },
+        "mapping": {
+          "click [622] where [622] is link '\\ue603 CUSTOMERS' url: http://luma.com/admin/admin/dashboard/#": "click [element_id] where [element_id] is link '\\ue603 CUSTOMERS' url: http://luma.com/admin/admin/dashboard/#",
+          "click [629] where [629] is link 'All Customers' url: http://luma.com/admin/customer/index/": "click [element_id] where [element_id] is button 'Clear all'",
+          "click [4315] where [4315] is button 'Clear all'": "type [element_id] [2137418080 ] where [element_id] is textbox 'Search by keyword' required: False",
+          "type [3700] [2137418080 ] where [3700] is textbox 'Search by keyword' required: False": "stop [your_answer]"
+        }
+      }
+    },
+    "210": {
+      "210_skip_0_abs_None_narr_False_ui_False": {
+        "param": {
+          "config_file": "/tmp/tmpn1_kq_2h/210.json",
+          "skip_step": 0,
+          "abstraction": "None",
+          "narrative": false,
+          "ui_change": false
+        },
+        "mapping": {
+          "click [607] where [607] is link '\\ue603 CUSTOMERS' url: http://luma.com/admin/admin/dashboard/#": "click [element_id] where [element_id] is link '\\ue603 CUSTOMERS' url: http://luma.com/admin/admin/dashboard/#",
+          "click [614] where [614] is link 'All Customers' url: http://luma.com/admin/customer/index/": "click [element_id] where [element_id] is link 'All Customers' url: http://luma.com/admin/customer/index/",
+          "click [4234] where [4234] is button 'Clear all'": "click [element_id] where [element_id] is button 'Clear all'",
+          "type [3551] [2065555555 ] where [3551] is textbox 'Search by keyword' required: False": "type [element_id] [2065555555 ] where [element_id] is textbox 'Search by keyword' required: False",
+          "stop [Adam Garcia, gamingpro456@gmail.com]": "stop [your_answer]"
+        }
+      },
+      "210_skip_1_abs_None_narr_False_ui_False": {
+        "param": {
+          "config_file": "/tmp/tmpn1_kq_2h/210.json",
+          "skip_step": 1,
+          "abstraction": "None",
+          "narrative": false,
+          "ui_change": false
+        },
+        "mapping": {
+          "click [607] where [607] is link '\\ue603 CUSTOMERS' url: http://luma.com/admin/admin/dashboard/#": "click [element_id] where [element_id] is link '\\ue603 CUSTOMERS' url: http://luma.com/admin/admin/dashboard/#",
+          "click [614] where [614] is link 'All Customers' url: http://luma.com/admin/customer/index/": "click [element_id] where [element_id] is link 'All Customers' url: http://luma.com/admin/customer/index/",
+          "click [4234] where [4234] is button 'Clear all'": "click [element_id] where [element_id] is button 'Clear all'",
+          "type [3551] [2065555555 ] where [3551] is textbox 'Search by keyword' required: False": "stop [your_answer]"
+        }
+      }
+    },
+    "211": {
+      "211_skip_0_abs_None_narr_False_ui_False": {
+        "param": {
+          "config_file": "/tmp/tmp3p6aemya/211.json",
+          "skip_step": 0,
+          "abstraction": "None",
+          "narrative": false,
+          "ui_change": false
+        },
+        "mapping": {
+          "click [622] where [622] is link '\\ue603 CUSTOMERS' url: http://luma.com/admin/admin/dashboard/#": "click [element_id] where [element_id] is link '\\ue603 CUSTOMERS' url: http://luma.com/admin/admin/dashboard/#",
+          "click [629] where [629] is link 'All Customers' url: http://luma.com/admin/customer/index/": "click [element_id] where [element_id] is link 'All Customers' url: http://luma.com/admin/customer/index/",
+          "click [4979] where [4979] is button 'Clear all'": "click [element_id] where [element_id] is button 'Clear all'",
+          "type [3528] [8015551212 ] where [3528] is textbox 'Search by keyword' required: False": "type [element_id] [8015551212 ] where [element_id] is textbox 'Search by keyword' required: False",
+          "stop [Sean Miller, sean.miller@gmail.com]": "stop [your_answer]"
+        }
+      },
+      "211_skip_1_abs_None_narr_False_ui_False": {
+        "param": {
+          "config_file": "/tmp/tmp3p6aemya/211.json",
+          "skip_step": 1,
+          "abstraction": "None",
+          "narrative": false,
+          "ui_change": false
+        },
+        "mapping": {
+          "click [622] where [622] is link '\\ue603 CUSTOMERS' url: http://luma.com/admin/admin/dashboard/#": "click [element_id] where [element_id] is link '\\ue603 CUSTOMERS' url: http://luma.com/admin/admin/dashboard/#",
+          "click [629] where [629] is link 'All Customers' url: http://luma.com/admin/customer/index/": "click [element_id] where [element_id] is link 'All Customers' url: http://luma.com/admin/customer/index/",
+          "click [4979] where [4979] is button 'Clear all'": "type [element_id] [8015551212 ] where [element_id] is textbox 'Search by keyword' required: False",
+          "type [3528] [8015551212 ] where [3528] is textbox 'Search by keyword' required: False": "stop [your_answer]"
+        }
+      }
+    },
+    "212": {
+      "212_skip_0_abs_None_narr_False_ui_False": {
+        "param": {
+          "config_file": "/tmp/tmp5j0h4ayw/212.json",
+          "skip_step": 0,
+          "abstraction": "None",
+          "narrative": false,
+          "ui_change": false
+        },
+        "mapping": {
+          "click [621] where [621] is link '\\ue603 CUSTOMERS' url: http://luma.com/admin/admin/dashboard/#": "click [element_id] where [element_id] is link '\\ue603 CUSTOMERS' url: http://luma.com/admin/admin/dashboard/#",
+          "click [628] where [628] is link 'All Customers' url: http://luma.com/admin/customer/index/": "click [element_id] where [element_id] is link 'All Customers' url: http://luma.com/admin/customer/index/",
+          "click [3561] where [3561] is textbox 'Search by keyword' required: False": "click [element_id] where [element_id] is textbox 'Search by keyword' required: False",
+          "type [3561] [3326 ] where [3561] is textbox 'Search by keyword' focused: True required: False": "type [element_id] [3326 ] where [element_id] is textbox 'Search by keyword' focused: True required: False",
+          "stop [Veronica Costello, roni_cost@example.com]": "stop [your_answer]"
+        }
+      },
+      "212_skip_1_abs_None_narr_False_ui_False": {
+        "param": {
+          "config_file": "/tmp/tmp5j0h4ayw/212.json",
+          "skip_step": 1,
+          "abstraction": "None",
+          "narrative": false,
+          "ui_change": false
+        },
+        "mapping": {
+          "click [621] where [621] is link '\\ue603 CUSTOMERS' url: http://luma.com/admin/admin/dashboard/#": "click [element_id] where [element_id] is link 'All Customers' url: http://luma.com/admin/customer/index/",
+          "click [628] where [628] is link 'All Customers' url: http://luma.com/admin/customer/index/": "click [element_id] where [element_id] is textbox 'Search by keyword' required: False",
+          "click [3561] where [3561] is textbox 'Search by keyword' required: False": "type [element_id] [3326 ] where [element_id] is textbox 'Search by keyword' focused: True required: False",
+          "type [3561] [3326 ] where [3561] is textbox 'Search by keyword' focused: True required: False": "stop [your_answer]"
+        }
+      }
+    },
+    "213": {
+      "213_skip_0_abs_None_narr_False_ui_False": {
+        "param": {
+          "config_file": "/tmp/tmpus0au5vh/213.json",
+          "skip_step": 0,
+          "abstraction": "None",
+          "narrative": false,
+          "ui_change": false
+        },
+        "mapping": {
+          "click [738] where [738] is link '\\ue60a REPORTS' url: http://luma.com/admin/admin/dashboard/#": "click [element_id] where [element_id] is link '\\ue60a REPORTS' url: http://luma.com/admin/admin/dashboard/#",
+          "click [772] where [772] is link 'By Products' url: http://luma.com/admin/reports/report_review/product/": "click [element_id] where [element_id] is link 'By Products' url: http://luma.com/admin/reports/report_review/product/",
+          "type [3033] [Antonia ] where [3033] is textbox '' required: False": "type [element_id] [Antonia ] where [element_id] is textbox '' required: False",
+          "click [9179] where [9179] is link 'Show Reviews' url: http://luma.com/admin/review/product/index/productId/1796/": "click [element_id] where [element_id] is link 'Show Reviews' url: http://luma.com/admin/review/product/index/productId/1796/",
+          "click [15045] where [15045] is link 'Edit' url: http://luma.com/admin/review/product/edit/id/337/": "click [element_id] where [element_id] is link 'Edit' url: http://luma.com/admin/review/product/edit/id/337/; There are multiple Edit on the page, this specific one is between ' cell 'Edit'' and ' row 'http://141.212.113.63:7780/admin/review/product/edit/id/338/productId/1796/''. Above: ' cell 'WT08''. Below: ' cell '''.",
+          "scroll [down]": "scroll [down]",
+          "write_to_note [I would never wear this bra to anything but a low impact class like yoga. There's zero support and absolutely no modesty. Was hoping for better!]": "write_to_note [<something_important_to_write_down>]",
+          "click [20872] where [20872] is button 'Next'": "click [element_id] where [element_id] is button 'Next'",
+          "write_to_note [Definitely not good for anything high-impact, but it's very stylish for yoga or something else low impact.]": "write_to_note [<something_important_to_write_down>]",
+          "click [22503] where [22503] is button 'Next'": "click [element_id] where [element_id] is button 'Next'",
+          "write_to_note [This is in regular rotation at the gym. Its colorful and looks kinda cute under my exercise tanks.]": "write_to_note [<something_important_to_write_down>]",
+          "stop [Not suitable for high-impact workouts]": "stop [your_answer]"
+        }
+      },
+      "213_skip_1_abs_None_narr_False_ui_False": {
+        "param": {
+          "config_file": "/tmp/tmpus0au5vh/213.json",
+          "skip_step": 1,
+          "abstraction": "None",
+          "narrative": false,
+          "ui_change": false
+        },
+        "mapping": {
+          "click [738] where [738] is link '\\ue60a REPORTS' url: http://luma.com/admin/admin/dashboard/#": "click [element_id] where [element_id] is link '\\ue60a REPORTS' url: http://luma.com/admin/admin/dashboard/#",
+          "click [772] where [772] is link 'By Products' url: http://luma.com/admin/reports/report_review/product/": "click [element_id] where [element_id] is link 'By Products' url: http://luma.com/admin/reports/report_review/product/",
+          "type [3033] [Antonia ] where [3033] is textbox '' required: False": "type [element_id] [Antonia ] where [element_id] is textbox '' required: False",
+          "click [9179] where [9179] is link 'Show Reviews' url: http://luma.com/admin/review/product/index/productId/1796/": "click [element_id] where [element_id] is link 'Show Reviews' url: http://luma.com/admin/review/product/index/productId/1796/",
+          "click [15045] where [15045] is link 'Edit' url: http://luma.com/admin/review/product/edit/id/337/": "click [element_id] where [element_id] is link 'Edit' url: http://luma.com/admin/review/product/edit/id/337/; There are multiple Edit on the page, this specific one is between ' cell 'Edit'' and ' row 'http://141.212.113.63:7780/admin/review/product/edit/id/338/productId/1796/''. Above: ' cell 'WT08''. Below: ' cell '''.",
+          "scroll [down]": "write_to_note [<something_important_to_write_down>]",
+          "write_to_note [I would never wear this bra to anything but a low impact class like yoga. There's zero support and absolutely no modesty. Was hoping for better!]": "click [element_id] where [element_id] is button 'Next'",
+          "click [20872] where [20872] is button 'Next'": "scroll [down]",
+          "write_to_note [Definitely not good for anything high-impact, but it's very stylish for yoga or something else low impact.]": "click [element_id] where [element_id] is button 'Next'",
+          "click [22503] where [22503] is button 'Next'": "scroll [down]",
+          "write_to_note [This is in regular rotation at the gym. Its colorful and looks kinda cute under my exercise tanks.]": "stop [your_answer]"
+        }
+      }
+    },
+    "214": {
+      "214_skip_0_abs_None_narr_False_ui_False": {
+        "param": {
+          "config_file": "/tmp/tmp_t7f7rvg/214.json",
+          "skip_step": 0,
+          "abstraction": "None",
+          "narrative": false,
+          "ui_change": false
+        },
+        "mapping": {
+          "click [746] where [746] is link '\\ue60a REPORTS' url: http://luma.com/admin/admin/dashboard/#": "click [element_id] where [element_id] is link '\\ue60a REPORTS' url: http://luma.com/admin/admin/dashboard/#",
+          "click [780] where [780] is link 'By Products' url: http://luma.com/admin/reports/report_review/product/": "click [element_id] where [element_id] is link 'By Products' url: http://luma.com/admin/reports/report_review/product/",
+          "type [3033] [Zing ] where [3033] is textbox '' required: False": "type [element_id] [Zing ] where [element_id] is textbox '' required: False",
+          "click [9179] where [9179] is link 'Show Reviews' url: http://luma.com/admin/review/product/index/productId/17/": "click [element_id] where [element_id] is link 'Show Reviews' url: http://luma.com/admin/review/product/index/productId/17/",
+          "click [15045] where [15045] is link 'Edit' url: http://luma.com/admin/review/product/edit/id/148/": "click [element_id] where [element_id] is link 'Edit' url: http://luma.com/admin/review/product/edit/id/148/; There are multiple Edit on the page, this specific one is between ' cell 'Edit'' and ' row 'http://141.212.113.63:7780/admin/review/product/edit/id/149/productId/17/''. Above: ' cell '24-UG04''. Below: ' cell '''.",
+          "scroll [down]": "scroll [down]",
+          "write_to_note [pretty satisfied with this jump rope. good value for the price]": "write_to_note [<something_important_to_write_down>]",
+          "click [20872] where [20872] is button 'Next'": "click [element_id] where [element_id] is button 'Next'",
+          "write_to_note [I BRING THIS TO ALL MY MEETS FOR WARMUP!!! BARELY TAKES UP ANY SPACE IN MY BAG]": "write_to_note [<something_important_to_write_down>]",
+          "click [22503] where [22503] is button 'Next'": "click [element_id] where [element_id] is button 'Next'",
+          "write_to_note [this is so perfect for when I'm too lazy to go to the gym. I do a few pushups and then whip out the jump rope and work on my cardio. It's a quick workout that makes me feel greaat and I don't even have to leave the house]": "write_to_note [<something_important_to_write_down>]",
+          "stop [N/A]": "stop [your_answer]"
+        }
+      },
+      "214_skip_1_abs_None_narr_False_ui_False": {
+        "param": {
+          "config_file": "/tmp/tmp_t7f7rvg/214.json",
+          "skip_step": 1,
+          "abstraction": "None",
+          "narrative": false,
+          "ui_change": false
+        },
+        "mapping": {
+          "click [746] where [746] is link '\\ue60a REPORTS' url: http://luma.com/admin/admin/dashboard/#": "click [element_id] where [element_id] is link '\\ue60a REPORTS' url: http://luma.com/admin/admin/dashboard/#",
+          "click [780] where [780] is link 'By Products' url: http://luma.com/admin/reports/report_review/product/": "click [element_id] where [element_id] is link 'By Products' url: http://luma.com/admin/reports/report_review/product/",
+          "type [3033] [Zing ] where [3033] is textbox '' required: False": "type [element_id] [Zing ] where [element_id] is textbox '' required: False",
+          "click [9179] where [9179] is link 'Show Reviews' url: http://luma.com/admin/review/product/index/productId/17/": "click [element_id] where [element_id] is link 'Show Reviews' url: http://luma.com/admin/review/product/index/productId/17/",
+          "click [15045] where [15045] is link 'Edit' url: http://luma.com/admin/review/product/edit/id/148/": "click [element_id] where [element_id] is link 'Edit' url: http://luma.com/admin/review/product/edit/id/148/; There are multiple Edit on the page, this specific one is between ' cell 'Edit'' and ' row 'http://141.212.113.63:7780/admin/review/product/edit/id/149/productId/17/''. Above: ' cell '24-UG04''. Below: ' cell '''.",
+          "scroll [down]": "write_to_note [<something_important_to_write_down>]",
+          "write_to_note [pretty satisfied with this jump rope. good value for the price]": "write_to_note [<something_important_to_write_down>]",
+          "click [20872] where [20872] is button 'Next'": "click [element_id] where [element_id] is button 'Next'",
+          "write_to_note [I BRING THIS TO ALL MY MEETS FOR WARMUP!!! BARELY TAKES UP ANY SPACE IN MY BAG]": "click [element_id] where [element_id] is button 'Next'",
+          "click [22503] where [22503] is button 'Next'": "scroll [down]",
+          "write_to_note [this is so perfect for when I'm too lazy to go to the gym. I do a few pushups and then whip out the jump rope and work on my cardio. It's a quick workout that makes me feel greaat and I don't even have to leave the house]": "stop [your_answer]"
+        }
+      }
+    },
+    "215": {
+      "215_skip_0_abs_None_narr_False_ui_False": {
+        "param": {
+          "config_file": "/tmp/tmp08nq_w_n/215.json",
+          "skip_step": 0,
+          "abstraction": "None",
+          "narrative": false,
+          "ui_change": false
+        },
+        "mapping": {
+          "click [753] where [753] is link '\\ue60a REPORTS' url: http://luma.com/admin/admin/dashboard/#": "click [element_id] where [element_id] is link '\\ue60a REPORTS' url: http://luma.com/admin/admin/dashboard/#",
+          "click [787] where [787] is link 'By Products' url: http://luma.com/admin/reports/report_review/product/": "click [element_id] where [element_id] is link 'By Products' url: http://luma.com/admin/reports/report_review/product/",
+          "type [3033] [Circe ] where [3033] is textbox '' required: False": "type [element_id] [Circe ] where [element_id] is textbox '' required: False",
+          "click [9179] where [9179] is link 'Show Reviews' url: http://luma.com/admin/review/product/index/productId/1210/": "click [element_id] where [element_id] is link 'Show Reviews' url: http://luma.com/admin/review/product/index/productId/1210/",
+          "click [15029] where [15029] is link 'Edit' url: http://luma.com/admin/review/product/edit/id/353/": "click [element_id] where [element_id] is link 'Edit' url: http://luma.com/admin/review/product/edit/id/353/; There are multiple Edit on the page, this specific one is between ' cell 'Edit'' and ' row 'http://141.212.113.63:7780/admin/review/product/edit/id/352/productId/1210/''. Above: ' cell 'WH12''. Below: ' cell '''.",
+          "scroll [down]": "scroll [down]",
+          "write_to_note [Note]": "write_to_note [<something_important_to_write_down>]",
+          "click [20869] where [20869] is button 'Next'": "click [element_id] where [element_id] is button 'Next'",
+          "stop [Material quality, fit, insufficient warmth, color]": "stop [your_answer]"
+        }
+      },
+      "215_skip_1_abs_None_narr_False_ui_False": {
+        "param": {
+          "config_file": "/tmp/tmp08nq_w_n/215.json",
+          "skip_step": 1,
+          "abstraction": "None",
+          "narrative": false,
+          "ui_change": false
+        },
+        "mapping": {
+          "click [753] where [753] is link '\\ue60a REPORTS' url: http://luma.com/admin/admin/dashboard/#": "click [element_id] where [element_id] is link '\\ue60a REPORTS' url: http://luma.com/admin/admin/dashboard/#",
+          "click [787] where [787] is link 'By Products' url: http://luma.com/admin/reports/report_review/product/": "type [element_id] [Circe ] where [element_id] is textbox '' required: False",
+          "type [3033] [Circe ] where [3033] is textbox '' required: False": "click [element_id] where [element_id] is link 'Show Reviews' url: http://luma.com/admin/review/product/index/productId/1210/",
+          "click [9179] where [9179] is link 'Show Reviews' url: http://luma.com/admin/review/product/index/productId/1210/": "click [element_id] where [element_id] is link 'Edit' url: http://luma.com/admin/review/product/edit/id/353/",
+          "click [15029] where [15029] is link 'Edit' url: http://luma.com/admin/review/product/edit/id/353/": "scroll [down]",
+          "scroll [down]": "write_to_note [<something_important_to_write_down>]",
+          "write_to_note [Note]": "stop [your_answer]",
+          "click [20869] where [20869] is button 'Next'": "scroll [down]"
+        }
+      }
+    },
+    "216": {
+      "216_skip_0_abs_None_narr_False_ui_False": {
+        "param": {
+          "config_file": "/tmp/tmpqw7bhu3z/216.json",
+          "skip_step": 0,
+          "abstraction": "None",
+          "narrative": false,
+          "ui_change": false
+        },
+        "mapping": {
+          "click [739] where [739] is link '\\ue60a REPORTS' url: http://luma.com/admin/admin/dashboard/#": "click [element_id] where [element_id] is link '\\ue60a REPORTS' url: http://luma.com/admin/admin/dashboard/#",
+          "click [773] where [773] is link 'By Products' url: http://luma.com/admin/reports/report_review/product/": "click [element_id] where [element_id] is link 'By Products' url: http://luma.com/admin/reports/report_review/product/",
+          "type [3033] [Electra ] where [3033] is textbox '' required: False": "type [element_id] [Electra ] where [element_id] is textbox '' required: False",
+          "click [9185] where [9185] is link 'Show Reviews' url: http://luma.com/admin/review/product/index/productId/1604/": "click [element_id] where [element_id] is link 'Show Reviews' url: http://luma.com/admin/review/product/index/productId/1604/",
+          "click [15067] where [15067] is link 'Edit' url: http://luma.com/admin/review/product/edit/id/316/": "click [element_id] where [element_id] is link 'Edit' url: http://luma.com/admin/review/product/edit/id/316/; There are multiple Edit on the page, this specific one is between ' cell 'Edit'' and ' row 'http://141.212.113.63:7780/admin/review/product/edit/id/317/productId/1604/''. Above: ' cell 'WB01''. Below: ' cell '''.",
+          "scroll [down]": "scroll [down]",
+          "write_to_note [Note]": "write_to_note [<something_important_to_write_down>]",
+          "click [20925] where [20925] is button 'Next'": "click [element_id] where [element_id] is button 'Next'",
+          "click [22556] where [22556] is button 'Next'": "click [element_id] where [element_id] is button 'Next'",
+          "click [24192] where [24192] is button 'Next'": "click [element_id] where [element_id] is button 'Next'",
+          "stop [Not true to size]": "stop [your_answer]"
+        }
+      },
+      "216_skip_1_abs_None_narr_False_ui_False": {
+        "param": {
+          "config_file": "/tmp/tmpqw7bhu3z/216.json",
+          "skip_step": 1,
+          "abstraction": "None",
+          "narrative": false,
+          "ui_change": false
+        },
+        "mapping": {
+          "click [739] where [739] is link '\\ue60a REPORTS' url: http://luma.com/admin/admin/dashboard/#": "click [element_id] where [element_id] is link '\\ue60a REPORTS' url: http://luma.com/admin/admin/dashboard/#",
+          "click [773] where [773] is link 'By Products' url: http://luma.com/admin/reports/report_review/product/": "click [element_id] where [element_id] is link 'By Products' url: http://luma.com/admin/reports/report_review/product/",
+          "type [3033] [Electra ] where [3033] is textbox '' required: False": "type [element_id] [Electra ] where [element_id] is textbox '' required: False",
+          "click [9185] where [9185] is link 'Show Reviews' url: http://luma.com/admin/review/product/index/productId/1604/": "click [element_id] where [element_id] is link 'Show Reviews' url: http://luma.com/admin/review/product/index/productId/1604/",
+          "click [15067] where [15067] is link 'Edit' url: http://luma.com/admin/review/product/edit/id/316/": "click [element_id] where [element_id] is link 'Edit' url: http://luma.com/admin/review/product/edit/id/316/; There are multiple Edit on the page, this specific one is between ' cell 'Edit'' and ' row 'http://141.212.113.63:7780/admin/review/product/edit/id/317/productId/1604/''. Above: ' cell 'WB01''. Below: ' cell '''.",
+          "scroll [down]": "write_to_note [<something_important_to_write_down>]",
+          "write_to_note [Note]": "stop [your_answer]",
+          "click [20925] where [20925] is button 'Next'": "scroll [down]",
+          "click [22556] where [22556] is button 'Next'": "scroll [down]",
+          "click [24192] where [24192] is button 'Next'": "scroll [down]"
+        }
+      }
+    },
+    "217": {
+      "217_skip_0_abs_None_narr_False_ui_False": {
+        "param": {
+          "config_file": "/tmp/tmp21v9s7le/217.json",
+          "skip_step": 0,
+          "abstraction": "None",
+          "narrative": false,
+          "ui_change": false
+        },
+        "mapping": {
+          "click [753] where [753] is link '\\ue60a REPORTS' url: http://luma.com/admin/admin/dashboard/#": "click [element_id] where [element_id] is link '\\ue60a REPORTS' url: http://luma.com/admin/admin/dashboard/#",
+          "click [787] where [787] is link 'By Products' url: http://luma.com/admin/reports/report_review/product/": "click [element_id] where [element_id] is link 'By Products' url: http://luma.com/admin/reports/report_review/product/",
+          "type [3033] [Pursuit ] where [3033] is textbox '' required: False": "type [element_id] [Pursuit ] where [element_id] is textbox '' required: False",
+          "click [9179] where [9179] is link 'Show Reviews' url: http://luma.com/admin/review/product/index/productId/18/": "click [element_id] where [element_id] is link 'Show Reviews' url: http://luma.com/admin/review/product/index/productId/18/",
+          "click [15029] where [15029] is link 'Edit' url: http://luma.com/admin/review/product/edit/id/143/": "click [element_id] where [element_id] is link 'Edit' url: http://luma.com/admin/review/product/edit/id/143/; There are multiple Edit on the page, this specific one is between ' cell 'Edit'' and ' row 'http://141.212.113.63:7780/admin/review/product/edit/id/144/productId/18/''. Above: ' cell '24-UG02''. Below: ' cell '''.",
+          "scroll [down]": "scroll [down]",
+          "write_to_note [Its great to be able to work out at home and sometimes on my lunch break at work - I wish this provided more resistance, though.]": "write_to_note [<something_important_to_write_down>]",
+          "click [20825] where [20825] is button 'Next'": "click [element_id] where [element_id] is button 'Next'",
+          "write_to_note [Agreed. I can do plenty of exercises with it and its awesome for when I can't make it to the gym, but I'd like more resistance, too.]": "write_to_note [<something_important_to_write_down>]",
+          "stop [Insufficient resistance]": "stop [your_answer]"
+        }
+      },
+      "217_skip_1_abs_None_narr_False_ui_False": {
+        "param": {
+          "config_file": "/tmp/tmp21v9s7le/217.json",
+          "skip_step": 1,
+          "abstraction": "None",
+          "narrative": false,
+          "ui_change": false
+        },
+        "mapping": {
+          "click [753] where [753] is link '\\ue60a REPORTS' url: http://luma.com/admin/admin/dashboard/#": "click [element_id] where [element_id] is link '\\ue60a REPORTS' url: http://luma.com/admin/admin/dashboard/#",
+          "click [787] where [787] is link 'By Products' url: http://luma.com/admin/reports/report_review/product/": "click [element_id] where [element_id] is link 'By Products' url: http://luma.com/admin/reports/report_review/product/",
+          "type [3033] [Pursuit ] where [3033] is textbox '' required: False": "type [element_id] [Pursuit ] where [element_id] is textbox '' required: False",
+          "click [9179] where [9179] is link 'Show Reviews' url: http://luma.com/admin/review/product/index/productId/18/": "click [element_id] where [element_id] is link 'Show Reviews' url: http://luma.com/admin/review/product/index/productId/18/",
+          "click [15029] where [15029] is link 'Edit' url: http://luma.com/admin/review/product/edit/id/143/": "scroll [down]",
+          "scroll [down]": "write_to_note [<something_important_to_write_down>]",
+          "write_to_note [Its great to be able to work out at home and sometimes on my lunch break at work - I wish this provided more resistance, though.]": "click [element_id] where [element_id] is button 'Next'",
+          "click [20825] where [20825] is button 'Next'": "scroll [down]",
+          "write_to_note [Agreed. I can do plenty of exercises with it and its awesome for when I can't make it to the gym, but I'd like more resistance, too.]": "stop [your_answer]"
+        }
+      }
+    },
+    "243": {
+      "243_skip_0_abs_None_narr_False_ui_False": {
+        "param": {
+          "config_file": "/tmp/tmp8pb926y9/243.json",
+          "skip_step": 0,
+          "abstraction": "None",
+          "narrative": false,
+          "ui_change": false
+        },
+        "mapping": {
+          "click [753] where [753] is link '\\ue60a REPORTS' url: http://luma.com/admin/admin/dashboard/#": "click [element_id] where [element_id] is link '\\ue60a REPORTS' url: http://luma.com/admin/admin/dashboard/#",
+          "click [787] where [787] is link 'By Products' url: http://luma.com/admin/reports/report_review/product/": "click [element_id] where [element_id] is link 'By Products' url: http://luma.com/admin/reports/report_review/product/",
+          "type [3033] [Circe ] where [3033] is textbox '' required: False": "type [element_id] [Circe ] where [element_id] is textbox '' required: False",
+          "click [9179] where [9179] is link 'Show Reviews' url: http://luma.com/admin/review/product/index/productId/1210/": "click [element_id] where [element_id] is link 'Show Reviews' url: http://luma.com/admin/review/product/index/productId/1210/",
+          "click [14448] where [14448] is link '\\ue603 CUSTOMERS' url: http://luma.com/admin/review/product/index/productId/1210/#": "click [element_id] where [element_id] is link '\\ue603 CUSTOMERS' url: http://luma.com/admin/review/product/index/productId/1210/#",
+          "click [14455] where [14455] is link 'All Customers' url: http://luma.com/admin/customer/index/": "click [element_id] where [element_id] is link 'All Customers' url: http://luma.com/admin/customer/index/",
+          "click [22198] where [22198] is button 'Clear all'": "click [element_id] where [element_id] is button 'Clear all'",
+          "type [21495] [Hannah Lim ] where [21495] is textbox 'Search by keyword' required: False": "type [element_id] [Hannah Lim ] where [element_id] is textbox 'Search by keyword' required: False",
+          "stop [hannah.lim@gmail.com]": "stop [your_answer]"
+        }
+      },
+      "243_skip_1_abs_None_narr_False_ui_False": {
+        "param": {
+          "config_file": "/tmp/tmp8pb926y9/243.json",
+          "skip_step": 1,
+          "abstraction": "None",
+          "narrative": false,
+          "ui_change": false
+        },
+        "mapping": {
+          "click [753] where [753] is link '\\ue60a REPORTS' url: http://luma.com/admin/admin/dashboard/#": "click [element_id] where [element_id] is link '\\ue60a REPORTS' url: http://luma.com/admin/admin/dashboard/#",
+          "click [787] where [787] is link 'By Products' url: http://luma.com/admin/reports/report_review/product/": "type [element_id] [Circe ] where [element_id] is textbox '' required: False",
+          "type [3033] [Circe ] where [3033] is textbox '' required: False": "click [element_id] where [element_id] is link 'Show Reviews' url: http://luma.com/admin/review/product/index/productId/1210/",
+          "click [9179] where [9179] is link 'Show Reviews' url: http://luma.com/admin/review/product/index/productId/1210/": "click [element_id] where [element_id] is link '\\ue603 CUSTOMERS' url: http://luma.com/admin/review/product/index/productId/1210/#",
+          "click [14448] where [14448] is link '\\ue603 CUSTOMERS' url: http://luma.com/admin/review/product/index/productId/1210/#": "click [element_id] where [element_id] is link 'All Customers' url: http://luma.com/admin/customer/index/",
+          "click [14455] where [14455] is link 'All Customers' url: http://luma.com/admin/customer/index/": "click [element_id] where [element_id] is button 'Clear all'",
+          "click [22198] where [22198] is button 'Clear all'": "type [element_id] [Hannah Lim ] where [element_id] is textbox 'Search by keyword' required: False",
+          "type [21495] [Hannah Lim ] where [21495] is textbox 'Search by keyword' required: False": "stop [your_answer]"
+        }
+      }
+    },
+    "244": {
+      "244_skip_0_abs_None_narr_False_ui_False": {
+        "param": {
+          "config_file": "/tmp/tmph49wuixs/244.json",
+          "skip_step": 0,
+          "abstraction": "None",
+          "narrative": false,
+          "ui_change": false
+        },
+        "mapping": {
+          "click [738] where [738] is link '\\ue60a REPORTS' url: http://luma.com/admin/admin/dashboard/#": "click [element_id] where [element_id] is link '\\ue60a REPORTS' url: http://luma.com/admin/admin/dashboard/#",
+          "click [772] where [772] is link 'By Products' url: http://luma.com/admin/reports/report_review/product/": "click [element_id] where [element_id] is link 'By Products' url: http://luma.com/admin/reports/report_review/product/",
+          "type [3033] [Olivia ] where [3033] is textbox '' required: False": "type [element_id] [Olivia ] where [element_id] is textbox '' required: False",
+          "click [9254] where [9254] is link 'Show Reviews' url: http://luma.com/admin/review/product/index/productId/1396/": "click [element_id] where [element_id] is link 'Show Reviews' url: http://luma.com/admin/review/product/index/productId/1396/",
+          "click [15112] where [15112] is link 'Edit' url: http://luma.com/admin/review/product/edit/id/351/": "click [element_id] where [element_id] is link 'Edit' url: http://luma.com/admin/review/product/edit/id/351/; There are multiple Edit on the page, this specific one is between ' cell 'Edit'' and ' row 'http://141.212.113.63:7780/admin/review/product/edit/id/349/productId/1396/''. Above: ' cell 'WJ12''. Below: ' cell '''.",
+          "stop [emma.lopez@gmail.com]": "stop [your_answer]"
+        }
+      },
+      "244_skip_1_abs_None_narr_False_ui_False": {
+        "param": {
+          "config_file": "/tmp/tmph49wuixs/244.json",
+          "skip_step": 1,
+          "abstraction": "None",
+          "narrative": false,
+          "ui_change": false
+        },
+        "mapping": {
+          "click [738] where [738] is link '\\ue60a REPORTS' url: http://luma.com/admin/admin/dashboard/#": "click [element_id] where [element_id] is link '\\ue60a REPORTS' url: http://luma.com/admin/admin/dashboard/#",
+          "click [772] where [772] is link 'By Products' url: http://luma.com/admin/reports/report_review/product/": "click [element_id] where [element_id] is link 'By Products' url: http://luma.com/admin/reports/report_review/product/",
+          "type [3033] [Olivia ] where [3033] is textbox '' required: False": "click [element_id] where [element_id] is link 'Show Reviews' url: http://luma.com/admin/review/product/index/productId/1396/",
+          "click [9254] where [9254] is link 'Show Reviews' url: http://luma.com/admin/review/product/index/productId/1396/": "click [element_id] where [element_id] is link 'Edit' url: http://luma.com/admin/review/product/edit/id/351/",
+          "click [15112] where [15112] is link 'Edit' url: http://luma.com/admin/review/product/edit/id/351/": "stop [your_answer]"
+        }
+      }
+    },
+    "245": {
+      "245_skip_0_abs_None_narr_False_ui_False": {
+        "param": {
+          "config_file": "/tmp/tmpuv1_f_p4/245.json",
+          "skip_step": 0,
+          "abstraction": "None",
+          "narrative": false,
+          "ui_change": false
+        },
+        "mapping": {
+          "click [754] where [754] is link '\\ue60a REPORTS' url: http://luma.com/admin/admin/dashboard/#": "click [element_id] where [element_id] is link '\\ue60a REPORTS' url: http://luma.com/admin/admin/dashboard/#",
+          "click [788] where [788] is link 'By Products' url: http://luma.com/admin/reports/report_review/product/": "click [element_id] where [element_id] is link 'By Products' url: http://luma.com/admin/reports/report_review/product/",
+          "type [3033] [Antonia racer tank ] where [3033] is textbox '' required: False": "type [element_id] [Antonia racer tank ] where [element_id] is textbox '' required: False",
+          "click [9249] where [9249] is link 'Show Reviews' url: http://luma.com/admin/review/product/index/productId/1796/": "click [element_id] where [element_id] is link 'Show Reviews' url: http://luma.com/admin/review/product/index/productId/1796/",
+          "click [18978] where [18978] is link 'Edit' url: http://luma.com/admin/review/product/edit/id/337/": "click [element_id] where [element_id] is link 'Edit' url: http://luma.com/admin/review/product/edit/id/337/; There are multiple Edit on the page, this specific one is between ' cell 'Edit'' and ' row 'http://141.212.113.63:7780/admin/review/product/edit/id/338/productId/1796/''. Above: ' cell 'WT08''. Below: ' cell '''.",
+          "click [20914] where [20914] is button 'Next'": "click [element_id] where [element_id] is button 'Next'",
+          "click [22531] where [22531] is button 'Next'": "click [element_id] where [element_id] is button 'Next'",
+          "click [24151] where [24151] is button 'Previous'": "click [element_id] where [element_id] is button 'Previous'",
+          "click [25766] where [25766] is button 'Previous'": "click [element_id] where [element_id] is button 'Previous'",
+          "stop [Shaunte]": "stop [your_answer]"
+        }
+      },
+      "245_skip_1_abs_None_narr_False_ui_False": {
+        "param": {
+          "config_file": "/tmp/tmpuv1_f_p4/245.json",
+          "skip_step": 1,
+          "abstraction": "None",
+          "narrative": false,
+          "ui_change": false
+        },
+        "mapping": {
+          "click [754] where [754] is link '\\ue60a REPORTS' url: http://luma.com/admin/admin/dashboard/#": "click [element_id] where [element_id] is link '\\ue60a REPORTS' url: http://luma.com/admin/admin/dashboard/#",
+          "click [788] where [788] is link 'By Products' url: http://luma.com/admin/reports/report_review/product/": "click [element_id] where [element_id] is link 'By Products' url: http://luma.com/admin/reports/report_review/product/",
+          "type [3033] [Antonia racer tank ] where [3033] is textbox '' required: False": "type [element_id] [Antonia racer tank ] where [element_id] is textbox '' required: False",
+          "click [9249] where [9249] is link 'Show Reviews' url: http://luma.com/admin/review/product/index/productId/1796/": "click [element_id] where [element_id] is link 'Show Reviews' url: http://luma.com/admin/review/product/index/productId/1796/",
+          "click [18978] where [18978] is link 'Edit' url: http://luma.com/admin/review/product/edit/id/337/": "click [element_id] where [element_id] is link 'Edit' url: http://luma.com/admin/review/product/edit/id/337/; There are multiple Edit on the page, this specific one is between ' cell 'Edit'' and ' row 'http://141.212.113.63:7780/admin/review/product/edit/id/338/productId/1796/''. Above: ' cell 'WT08''. Below: ' cell '''.",
+          "click [20914] where [20914] is button 'Next'": "click [element_id] where [element_id] is button 'Next'",
+          "click [22531] where [22531] is button 'Next'": "click [element_id] where [element_id] is button 'Next'",
+          "click [24151] where [24151] is button 'Previous'": "click [element_id] where [element_id] is button 'Previous'",
+          "click [25766] where [25766] is button 'Previous'": "stop [your_answer]"
+        }
+      }
+    },
+    "246": {
+      "246_skip_0_abs_None_narr_False_ui_False": {
+        "param": {
+          "config_file": "/tmp/tmpa9olamf5/246.json",
+          "skip_step": 0,
+          "abstraction": "None",
+          "narrative": false,
+          "ui_change": false
+        },
+        "mapping": {
+          "click [754] where [754] is link '\\ue60a REPORTS' url: http://luma.com/admin/admin/dashboard/#": "click [element_id] where [element_id] is link '\\ue60a REPORTS' url: http://luma.com/admin/admin/dashboard/#",
+          "click [788] where [788] is link 'By Products' url: http://luma.com/admin/reports/report_review/product/": "click [element_id] where [element_id] is link 'By Products' url: http://luma.com/admin/reports/report_review/product/",
+          "type [3033] [Chloe ] where [3033] is textbox '' required: False": "type [element_id] [Chloe ] where [element_id] is textbox '' required: False",
+          "click [13109] where [13109] is link 'Show Reviews' url: http://luma.com/admin/review/product/index/productId/1764/": "click [element_id] where [element_id] is link 'Show Reviews' url: http://luma.com/admin/review/product/index/productId/1764/",
+          "click [15086] where [15086] is link 'Edit' url: http://luma.com/admin/review/product/edit/id/333/": "click [element_id] where [element_id] is link 'Edit' url: http://luma.com/admin/review/product/edit/id/333/; There are multiple Edit on the page, this specific one is between ' cell 'Edit'' and ' row 'http://141.212.113.63:7780/admin/review/product/edit/id/334/productId/1764/''. Above: ' cell 'WT06''. Below: ' cell '''.",
+          "click [20917] where [20917] is button 'Next'": "click [element_id] where [element_id] is button 'Next'",
+          "click [22533] where [22533] is button 'Next'": "click [element_id] where [element_id] is button 'Next'",
+          "stop [Teofila]": "stop [your_answer]"
+        }
+      },
+      "246_skip_1_abs_None_narr_False_ui_False": {
+        "param": {
+          "config_file": "/tmp/tmpa9olamf5/246.json",
+          "skip_step": 1,
+          "abstraction": "None",
+          "narrative": false,
+          "ui_change": false
+        },
+        "mapping": {
+          "click [754] where [754] is link '\\ue60a REPORTS' url: http://luma.com/admin/admin/dashboard/#": "click [element_id] where [element_id] is link '\\ue60a REPORTS' url: http://luma.com/admin/admin/dashboard/#",
+          "click [788] where [788] is link 'By Products' url: http://luma.com/admin/reports/report_review/product/": "click [element_id] where [element_id] is link 'By Products' url: http://luma.com/admin/reports/report_review/product/",
+          "type [3033] [Chloe ] where [3033] is textbox '' required: False": "type [element_id] [Chloe ] where [element_id] is textbox '' required: False",
+          "click [13109] where [13109] is link 'Show Reviews' url: http://luma.com/admin/review/product/index/productId/1764/": "click [element_id] where [element_id] is link 'Edit' url: http://luma.com/admin/review/product/edit/id/333/",
+          "click [15086] where [15086] is link 'Edit' url: http://luma.com/admin/review/product/edit/id/333/": "click [element_id] where [element_id] is button 'Next'",
+          "click [20917] where [20917] is button 'Next'": "click [element_id] where [element_id] is button 'Next'",
+          "click [22533] where [22533] is button 'Next'": "stop [your_answer]"
+        }
+      }
+    },
+    "247": {
+      "247_skip_0_abs_None_narr_False_ui_False": {
+        "param": {
+          "config_file": "/tmp/tmpc8cjfmb9/247.json",
+          "skip_step": 0,
+          "abstraction": "None",
+          "narrative": false,
+          "ui_change": false
+        },
+        "mapping": {
+          "click [753] where [753] is link '\\ue60a REPORTS' url: http://luma.com/admin/admin/dashboard/#": "click [element_id] where [element_id] is link '\\ue60a REPORTS' url: http://luma.com/admin/admin/dashboard/#",
+          "click [787] where [787] is link 'By Products' url: http://luma.com/admin/reports/report_review/product/": "click [element_id] where [element_id] is link 'By Products' url: http://luma.com/admin/reports/report_review/product/",
+          "type [3033] [Zoe ] where [3033] is textbox '' required: False": "type [element_id] [Zoe ] where [element_id] is textbox '' required: False",
+          "click [9254] where [9254] is link 'Show Reviews' url: http://luma.com/admin/review/product/index/productId/1700/": "click [element_id] where [element_id] is link 'Show Reviews' url: http://luma.com/admin/review/product/index/productId/1700/",
+          "click [15103] where [15103] is link 'Edit' url: http://luma.com/admin/review/product/edit/id/344/": "click [element_id] where [element_id] is link 'Edit' url: http://luma.com/admin/review/product/edit/id/344/; There are multiple Edit on the page, this specific one is between ' cell 'Edit'' and ' row 'http://141.212.113.63:7780/admin/review/product/edit/id/345/productId/1700/''. Above: ' cell 'WT02''. Below: ' cell '''.",
+          "click [20917] where [20917] is button 'Next'": "click [element_id] where [element_id] is button 'Next'",
+          "click [22554] where [22554] is button 'Next'": "click [element_id] where [element_id] is button 'Next'",
+          "click [24153] where [24153] is button 'Previous'": "click [element_id] where [element_id] is button 'Previous'",
+          "click [25346] where [25346] is link '\\ue603 CUSTOMERS' url: http://luma.com/admin/review/product/edit/id/345/#": "click [element_id] where [element_id] is link '\\ue603 CUSTOMERS' url: http://luma.com/admin/review/product/edit/id/345/#",
+          "click [25353] where [25353] is link 'All Customers' url: http://luma.com/admin/customer/index/": "click [element_id] where [element_id] is link 'All Customers' url: http://luma.com/admin/customer/index/",
+          "stop [N/A]": "stop [your_answer]"
+        }
+      },
+      "247_skip_1_abs_None_narr_False_ui_False": {
+        "param": {
+          "config_file": "/tmp/tmpc8cjfmb9/247.json",
+          "skip_step": 1,
+          "abstraction": "None",
+          "narrative": false,
+          "ui_change": false
+        },
+        "mapping": {
+          "click [753] where [753] is link '\\ue60a REPORTS' url: http://luma.com/admin/admin/dashboard/#": "click [element_id] where [element_id] is link '\\ue60a REPORTS' url: http://luma.com/admin/admin/dashboard/#",
+          "click [787] where [787] is link 'By Products' url: http://luma.com/admin/reports/report_review/product/": "click [element_id] where [element_id] is link 'By Products' url: http://luma.com/admin/reports/report_review/product/",
+          "type [3033] [Zoe ] where [3033] is textbox '' required: False": "type [element_id] [Zoe ] where [element_id] is textbox '' required: False",
+          "click [9254] where [9254] is link 'Show Reviews' url: http://luma.com/admin/review/product/index/productId/1700/": "click [element_id] where [element_id] is link 'Show Reviews' url: http://luma.com/admin/review/product/index/productId/1700/",
+          "click [15103] where [15103] is link 'Edit' url: http://luma.com/admin/review/product/edit/id/344/": "click [element_id] where [element_id] is link 'Edit' url: http://luma.com/admin/review/product/edit/id/344/; There are multiple Edit on the page, this specific one is between ' cell 'Edit'' and ' row 'http://141.212.113.63:7780/admin/review/product/edit/id/345/productId/1700/''. Above: ' cell 'WT02''. Below: ' cell '''.",
+          "click [20917] where [20917] is button 'Next'": "click [element_id] where [element_id] is button 'Next'",
+          "click [22554] where [22554] is button 'Next'": "click [element_id] where [element_id] is button 'Next'",
+          "click [24153] where [24153] is button 'Previous'": "click [element_id] where [element_id] is button 'Previous'",
+          "click [25346] where [25346] is link '\\ue603 CUSTOMERS' url: http://luma.com/admin/review/product/edit/id/345/#": "click [element_id] where [element_id] is link 'All Customers' url: http://luma.com/admin/customer/index/",
+          "click [25353] where [25353] is link 'All Customers' url: http://luma.com/admin/customer/index/": "stop [your_answer]"
+        }
+      }
+    }
+  }
+}

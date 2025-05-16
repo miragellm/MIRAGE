@@ -1,0 +1,8 @@
+.DS_Store
+/cachedir/
+__pycache__/
+*.pyc 
+*.gif
+*-workspace
+dummy_logs/
+wandb/*
